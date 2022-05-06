@@ -32,14 +32,14 @@ Dr. Hanyang Ma is an associate professor of management at SILC Business School, 
 ​Visiting Scholar of Strategy (Supervised by Prof. Brian X. Wu)
 2014-2015: Faculty of Construction & Environment, Hong Kong Polytechnic University
 Research Assistant of Building & Real Estate (Supervised by Prof. Geoffrey Q.P. Shen)
-Education
+**Education**
 2011-2018: Antai College of Economics & Management, Shanghai Jiao Tong University
 Ph.D. in Management Science & Engineering (supervised by Prof. Saixing Zeng)
 with the Excellent Doctoral Dissertation, awarded by Society of Management Science and Engineering of China
 with the Excellent Doctoral Dissertation, awarded by Shanghai Jiao Tong University
 2005-2009: School of Mechanical Engineering, Shanghai Jiao Tong University
 ​ B.E. in Mechanical Engineering & Automation​ (Supervised by Prof. Sun Jin)
-Services
+**Services**
 2021-present: Committee for Shanghai Systems Engineering Society of China
 2021-present: Committee for SILC Youth Teacher Sodality, Shanghai University
 2018-2019: ​Guest associated editor for Frontiers of Engineering Management, 2018-2019
@@ -64,16 +64,8 @@ Strategic Entrepreneurship Journal
 Sustainability
 ​Sustainable Development
 Honors & Awards
-Choi Koon-Shum Outstanding Young Teacher (Shanghai University, 2021).
-First Prize for National Science & Technology Progress Award (Ministry of Education of China, 2019).
-Excellent Doctoral Dissertation (Society of Management Science and Engineering of China, 2019).
-Excellent Doctoral Dissertation (Shanghai Jiao Tong University​, 2019).
-Third Prize for Provincial Philosophy & Sociology Research Award (Department of Education of Jiangsu, 2018).
-National Scholarship for Overseas Exchange PhD Students (China Scholarship Council, 2016).​
-National Scholarship for Graduate Students (Ministry of Education of China, 2016).
-Bronze Prize for Chinese Youth Volunteers Award ​(National Communist Youth League of China, 2010).
-Outstanding Student (Shanghai Jiao Tong University, 2015, 2007).
-Other Experience
+
+**Other Experience**
 2012-2012: Deloitte Consulting (China)
 Intern for data management and project management.
 ​2009-2010: Science & Technology Department of Tibet
@@ -139,13 +131,45 @@ Intern for data management and project management.
 - Research on the social responsibility, industrial core competence, and sustainable development for mega infrastructure engineering (Major Research Project, NSFC, No. 71390525, 2014-2018). Co-investigator.
 - Green innovation management of enterprises (Shanghai Outstanding Academic Leaders Program, No. 14XD1402200, 2014-2017). Co-investigator.
 
-# 🎖 Honors and Awards
-- NOT edited yet *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- NOT edited yet *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
-
 
 # 💬 Teaching
+**Curriculum Instruction**
+2018-present: Shanghai University
+- Coordinator: Academic Standards and Essay Writing (MSc, 2022-)
+- Coordinator: Empirical Methods in Organization and Management Research (MSc, 2018-)
+- Coordinator: Project Management (Undergraduate, 2021-)
+- Coordinator: Qualitative Research in Management (Undergraduate, 2020-)
+- Coordinator: Management Thinking: BA Introduction (Undergraduate, 2020-)
+- Instructor: New Retailing Management (Undergraduate, 2021-2021)
+- Instructor: Principles of Management (Undergraduate, 2019-2019)
+- TA: Marketing Foundations (Undergraduate, 2020-2020)
+- TA: Management Thinking: BA Introduction (Undergraduate, 2019-2019)
+2021-present: University of Technology Sydney
+- Coordinator: Engineering Project Preparation (MEM, 2021-)
+- Coordinator: Judgement and Decision Making (MEM, 2021-)
+2013-2016: Shanghai Jiao Tong University
+- TA: Project Management (Undergraduate)
+- TA: Technological Innovation & Management (Undergraduate)
+- 
+**Student Supervision**
+2018-present: Shanghai University
+- Yao Lin, Zijiong Kong (MSc, 2021-)
+- Jingjie Zou (MSc, 2019-)
+2021-present: University of Technology Sydney
+- Shifan Gu, ​Siyang Xie (MEM, 2021)
+
+
+# 🎖 Honors and Awards
+- Choi Koon-Shum Outstanding Young Teacher (Shanghai University, 2021).
+- First Prize for National Science & Technology Progress Award (Ministry of Education of China, 2019).
+- Excellent Doctoral Dissertation (Society of Management Science and Engineering of China, 2019).
+- Excellent Doctoral Dissertation (Shanghai Jiao Tong University, 2019).
+- Third Prize for Provincial Philosophy & Sociology Research Award (Department of Education of Jiangsu, 2018).
+- National Scholarship for Overseas Exchange PhD Students (China Scholarship Council, 2016).
+- National Scholarship for Graduate Students (Ministry of Education of China, 2016).
+- Bronze Prize for Chinese Youth Volunteers Award (National Communist Youth League of China, 2010).
+- Outstanding Student (Shanghai Jiao Tong University, 2015, 2007).
+
 - NOT edited yet *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - NOT edited yet *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
 
