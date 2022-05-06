@@ -32,10 +32,10 @@ Dr. Hanyang Ma is an associate professor of management at SILC Business School, 
 2014-2015: Faculty of Construction & Environment, Hong Kong Polytechnic University  
 &emsp;&emsp; Research Assistant of Building & Real Estate (Supervised by Prof. Geoffrey Q.P. Shen)  
 
-**Education**
+**Education**  
 2011-2018: Antai College of Economics & Management, Shanghai Jiao Tong University  
-&emsp;&emsp; Ph.D. in Management Science & Engineering (supervised by Prof. Saixing Zeng)
-&emsp;&emsp; with the Excellent Doctoral Dissertation, awarded by Society of Management Science and Engineering of China
+&emsp;&emsp; Ph.D. in Management Science & Engineering (supervised by Prof. Saixing Zeng)  
+&emsp;&emsp; with the Excellent Doctoral Dissertation, awarded by Society of Management Science and Engineering of China  
 &emsp;&emsp; with the Excellent Doctoral Dissertation, awarded by Shanghai Jiao Tong University  
 2005-2009: School of Mechanical Engineering, Shanghai Jiao Tong University  
 &emsp;&emsp; B.E. in Mechanical Engineering & Automation​ (Supervised by Prof. Sun Jin)  
