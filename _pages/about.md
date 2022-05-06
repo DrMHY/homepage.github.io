@@ -17,7 +17,67 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Dr. Hanyang Ma is an associate professor of management at SILC Business School, Shanghai University, also a (joint-appointment) lecturer of engineering management at Faculty of Engineering & Information Technology, University of Technology Sydney. He recieved his Ph.D. and B.E. from Shanghai Jiao Tong University. His research interest includes Corporate Social Responsibility, International Business, and Project Management. He has published a series of papers with total <a href='https://scholar.google.com/citations?user=YoaF4d0AAAAJ&hl=en&oi=ao'>google scholar citations <strong><span id='YoaF4d0AAAAJ&hl=en&oi=ao'>260000+</span></strong></a> .
+Dr. Hanyang Ma is an associate professor of management at SILC Business School, Shanghai University, also a (joint-appointment) lecturer of engineering management at Faculty of Engineering & Information Technology, University of Technology Sydney. He recieved his Ph.D. and B.E. from Shanghai Jiao Tong University. His research interest includes Corporate Social Responsibility, International Business, and Project Management. He has published a series of papers with total <a href='https://scholar.google.com/citations?user=YoaF4d0AAAAJ&hl=en&oi=ao'>google scholar citations <strong><span id='YoaF4d0AAAAJ&hl=en&oi=ao'>1000+</span></strong></a> .
+
+
+# 📖 Experience
+**Affiliation**
+2018-present: SILC Business School, Shanghai University
+- Associate Professor of Management, 2021-
+- Lecturer (Scholarly Academic) of Management, 2018-2021
+
+2021-present: Faculty of Engineering & Information Technology, University of Technology Sydney
+​Lecturer (Joint-Appointment) of Engineering Management, 2021-
+2016-2017: Ross School of Business, University of Michigan
+​Visiting Scholar of Strategy (Supervised by Prof. Brian X. Wu)
+2014-2015: Faculty of Construction & Environment, Hong Kong Polytechnic University
+Research Assistant of Building & Real Estate (Supervised by Prof. Geoffrey Q.P. Shen)
+Education
+2011-2018: Antai College of Economics & Management, Shanghai Jiao Tong University
+Ph.D. in Management Science & Engineering (supervised by Prof. Saixing Zeng)
+with the Excellent Doctoral Dissertation, awarded by Society of Management Science and Engineering of China
+with the Excellent Doctoral Dissertation, awarded by Shanghai Jiao Tong University
+2005-2009: School of Mechanical Engineering, Shanghai Jiao Tong University
+​ B.E. in Mechanical Engineering & Automation​ (Supervised by Prof. Sun Jin)
+Services
+2021-present: Committee for Shanghai Systems Engineering Society of China
+2021-present: Committee for SILC Youth Teacher Sodality, Shanghai University
+2018-2019: ​Guest associated editor for Frontiers of Engineering Management, 2018-2019
+Ad hoc reviewer for:
+Academy of International Business Annual Meeting
+Academy of Management Annual Meeting
+Business Strategy and the Environment
+​Chinese Management Studies
+​Construction Management and Economics
+Corporate Social Responsibility and Environmental Management
+Engineering, Construction and Architectural Management
+Environmental Impact Assessment Review
+Frontiers of Engineering Management
+International Journal of Project Management
+Journal of Construction Engineering and Management
+Journal of Environmental Planning and Management
+​Journal of Management in Engineering
+Journal of Systems and Management (系统管理学报, a Chinese journal)
+Management Decision
+​Research Policy
+Strategic Entrepreneurship Journal
+Sustainability
+​Sustainable Development
+Honors & Awards
+Choi Koon-Shum Outstanding Young Teacher (Shanghai University, 2021).
+First Prize for National Science & Technology Progress Award (Ministry of Education of China, 2019).
+Excellent Doctoral Dissertation (Society of Management Science and Engineering of China, 2019).
+Excellent Doctoral Dissertation (Shanghai Jiao Tong University​, 2019).
+Third Prize for Provincial Philosophy & Sociology Research Award (Department of Education of Jiangsu, 2018).
+National Scholarship for Overseas Exchange PhD Students (China Scholarship Council, 2016).​
+National Scholarship for Graduate Students (Ministry of Education of China, 2016).
+Bronze Prize for Chinese Youth Volunteers Award ​(National Communist Youth League of China, 2010).
+Outstanding Student (Shanghai Jiao Tong University, 2015, 2007).
+Other Experience
+2012-2012: Deloitte Consulting (China)
+Intern for data management and project management.
+​2009-2010: Science & Technology Department of Tibet
+​ Volunteer for Xibu Youth Project.
 
 
 # 📝 Research 
@@ -83,9 +143,7 @@ Dr. Hanyang Ma is an associate professor of management at SILC Business School, 
 - NOT edited yet *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - NOT edited yet *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
-# 📖 Educations
-- NOT edited yet *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- NOT edited yet *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+
 
 # 💬 Teaching
 - NOT edited yet *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
