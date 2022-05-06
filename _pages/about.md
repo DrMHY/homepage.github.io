@@ -133,21 +133,21 @@ Ad hoc reviewer for:
 
 # 💬 Teaching
 **Curriculum Instruction**  
-2018-present: Shanghai University
-&emsp;&emsp; Coordinator: Academic Standards and Essay Writing (MSc, 2022-)
-&emsp;&emsp; Coordinator: Empirical Methods in Organization and Management Research (MSc, 2018-)
-&emsp;&emsp; Coordinator: Project Management (Undergraduate, 2021-)
-&emsp;&emsp; Coordinator: Qualitative Research in Management (Undergraduate, 2020-)
-&emsp;&emsp; Coordinator: Management Thinking: BA Introduction (Undergraduate, 2020-)
-&emsp;&emsp; Instructor: New Retailing Management (Undergraduate, 2021-2021)
-&emsp;&emsp; Instructor: Principles of Management (Undergraduate, 2019-2019)
-&emsp;&emsp; TA: Marketing Foundations (Undergraduate, 2020-2020)
+2018-present: Shanghai University  
+&emsp;&emsp; Coordinator: Academic Standards and Essay Writing (MSc, 2022-)  
+&emsp;&emsp; Coordinator: Empirical Methods in Organization and Management Research (MSc, 2018-)  
+&emsp;&emsp; Coordinator: Project Management (Undergraduate, 2021-)  
+&emsp;&emsp; Coordinator: Qualitative Research in Management (Undergraduate, 2020-)  
+&emsp;&emsp; Coordinator: Management Thinking: BA Introduction (Undergraduate, 2020-)  
+&emsp;&emsp; Instructor: New Retailing Management (Undergraduate, 2021-2021)  
+&emsp;&emsp; Instructor: Principles of Management (Undergraduate, 2019-2019)  
+&emsp;&emsp; TA: Marketing Foundations (Undergraduate, 2020-2020)  
 &emsp;&emsp; TA: Management Thinking: BA Introduction (Undergraduate, 2019-2019)  
-2021-present: University of Technology Sydney
-&emsp;&emsp; Coordinator: Engineering Project Preparation (MEM, 2021-)
-&emsp;&emsp; Coordinator: Judgement and Decision Making (MEM, 2021-)  
-2013-2016: Shanghai Jiao Tong University
-&emsp;&emsp; TA: Project Management (Undergraduate)
+2021-present: University of Technology Sydney  
+&emsp;&emsp; Coordinator: Engineering Project Preparation (MEM, 2021-)  
+&emsp;&emsp; Coordinator: Judgement and Decision Making (MEM, 2021-)    
+2013-2016: Shanghai Jiao Tong University  
+&emsp;&emsp; TA: Project Management (Undergraduate)  
 &emsp;&emsp; TA: Technological Innovation & Management (Undergraduate)
 
 **Student Supervision**  
