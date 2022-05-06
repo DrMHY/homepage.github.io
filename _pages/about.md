@@ -23,7 +23,7 @@ Dr. Hanyang Ma is an associate professor of management at SILC Business School, 
 # 📖 Experience
 **Affiliation**  
 2018-present: SILC Business School, Shanghai University  
-&esmp;&esmsp;Associate Professor of Management, 2021-  
+&esmp;&emsp; Associate Professor of Management, 2021-  
 >Lecturer (Scholarly Academic) of Management, 2018-2021  
 2021-present: Faculty of Engineering & Information Technology, University of Technology Sydney  
 >Lecturer (Joint-Appointment) of Engineering Management, 2021-  
