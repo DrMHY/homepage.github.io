@@ -31,51 +31,50 @@ Dr. Hanyang Ma is an associate professor of management at SILC Business School, 
 - Visiting Scholar of Strategy (Supervised by Prof. Brian X. Wu)  
 2014-2015: Faculty of Construction & Environment, Hong Kong Polytechnic University
 - Research Assistant of Building & Real Estate (Supervised by Prof. Geoffrey Q.P. Shen)  
+
 **Education**
 2011-2018: Antai College of Economics & Management, Shanghai Jiao Tong University
 - Ph.D. in Management Science & Engineering (supervised by Prof. Saixing Zeng)
 - with the Excellent Doctoral Dissertation, awarded by Society of Management Science and Engineering of China
-- with the Excellent Doctoral Dissertation, awarded by Shanghai Jiao Tong University
-
+- with the Excellent Doctoral Dissertation, awarded by Shanghai Jiao Tong University  
 2005-2009: School of Mechanical Engineering, Shanghai Jiao Tong University
-- B.E. in Mechanical Engineering & Automation​ (Supervised by Prof. Sun Jin)
+- B.E. in Mechanical Engineering & Automation​ (Supervised by Prof. Sun Jin)  
+
 **Services**
-2021-present: Committee for Shanghai Systems Engineering Society of China
-2021-present: Committee for SILC Youth Teacher Sodality, Shanghai University
-2018-2019: ​Guest associated editor for Frontiers of Engineering Management, 2018-2019
+2021-present: Committee for Shanghai Systems Engineering Society of China  
+2021-present: Committee for SILC Youth Teacher Sodality, Shanghai University  
+2018-2019: Guest associated editor for *Frontiers of Engineering Management*, 2018-2019  
 Ad hoc reviewer for:
-Academy of International Business Annual Meeting
-Academy of Management Annual Meeting
-Business Strategy and the Environment
-​Chinese Management Studies
-​Construction Management and Economics
-Corporate Social Responsibility and Environmental Management
-Engineering, Construction and Architectural Management
-Environmental Impact Assessment Review
-Frontiers of Engineering Management
-International Journal of Project Management
-Journal of Construction Engineering and Management
-Journal of Environmental Planning and Management
-​Journal of Management in Engineering
-Journal of Systems and Management (系统管理学报, a Chinese journal)
-Management Decision
-​Research Policy
-Strategic Entrepreneurship Journal
-Sustainability
-​Sustainable Development
-Honors & Awards
+- *Academy of International Business Annual Meeting
+- *Academy of Management Annual Meeting
+- *Business Strategy and the Environment
+- *Chinese Management Studies
+- *Construction Management and Economics
+- *Corporate Social Responsibility and Environmental Management
+- *Engineering, Construction and Architectural Management
+- *Environmental Impact Assessment Review
+- *Frontiers of Engineering Management
+- *International Journal of Project Management
+- *Journal of Construction Engineering and Management
+- *Journal of Environmental Planning and Management
+- *Journal of Management in Engineering
+- *Journal of Systems and Management (系统管理学报, a Chinese journal)
+- *Management Decision
+- *Research Policy
+- *Strategic Entrepreneurship Journal
+- *Sustainability
+- *Sustainable Development*
 
 **Other Experience**
-2012-2012: Deloitte Consulting (China)
-Intern for data management and project management.
-​2009-2010: Science & Technology Department of Tibet
-​ Volunteer for Xibu Youth Project.
+2012-2012: Deloitte Consulting (China)  
+- Intern for data management and project management.
+2009-2010: Science & Technology Department of Tibet  
+- Volunteer for Xibu Youth Project.
 
 
 # 📝 Research 
 
 **Journal Articles**
-
 - Zeng, S.X. Chen, H.Q.* Ma, H.Y. Shi, J.J. (2022). Governance of social responsibility in international infrastructure megaprojects. *Frontiers of Engineering Management*, in press, DOI: 10.1007/s42524-022-0191-7.
 - Ma, H.Y. Sun, D.X. Zeng, S.X.* Lin, H. Shi, J.J. (2021). The effects of megaproject social responsibility on participating organizations. *Project Management Journal*, 52(5), 418-433.
 - Sun, D.X. Zeng, S.X.* Ma, H.Y. Shi, J.J. (2021). How do bullet trains spur innovation? *IEEE Transactions on Engineering Management*, online, DOI: 10.1109/TEM.2021.3091727.
@@ -150,7 +149,7 @@ Intern for data management and project management.
 2013-2016: Shanghai Jiao Tong University
 - TA: Project Management (Undergraduate)
 - TA: Technological Innovation & Management (Undergraduate)
-- 
+
 **Student Supervision**
 2018-present: Shanghai University
 - Yao Lin, Zijiong Kong (MSc, 2021-)
