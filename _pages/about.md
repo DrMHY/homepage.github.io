@@ -57,7 +57,7 @@ Ad hoc reviewer for:
 &emsp;&emsp; International Journal of Project Management  
 &emsp;&emsp; Journal of Construction Engineering and Management  
 &emsp;&emsp; Journal of Environmental Planning and Management  
-vJournal of Management in Engineering  
+&emsp;&emsp; Journal of Management in Engineering  
 &emsp;&emsp; Journal of Systems and Management (系统管理学报, a Chinese journal)  
 &emsp;&emsp; Management Decision  
 &emsp;&emsp; Research Policy  
@@ -65,9 +65,9 @@ vJournal of Management in Engineering
 &emsp;&emsp; Sustainability  
 &emsp;&emsp; Sustainable Development*  
 
-**Other Experience**
+**Other Experience**  
 2012-2012: Deloitte Consulting (China)  
-&emsp;&emsp; Intern for data management and project management.
+&emsp;&emsp; Intern for data management and project management.  
 2009-2010: Science & Technology Department of Tibet  
 &emsp;&emsp; Volunteer for Xibu Youth Project.
 
