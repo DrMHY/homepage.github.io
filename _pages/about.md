@@ -49,18 +49,49 @@ Dr. Hanyang Ma's research interest includes Corporate Social Responsibility, Int
 - Wang, L.Q. Ma, H.Y.* Sun, D.X. Yu, B.J. (2018). Financial risk of PPP projects: The moderating effects of financing structure and institutional environment. *Journal of Systems and Management* (系统管理学报, a Chinese journal), 27(1), 83-92.
 - Wei, Q.M. Lin, H.* Jiang, W. Ma, H.Y. (2017). The empirical study on the health effects of rural water treatment projects: An econometric analysis based on provincial spatial panel data. *Journal of Systems and Management* (系统管理学报, a Chinese journal), 26(4), 648-655.
 
+**Books**
+- Zeng, S.X. Lin, H. Ma, H.Y. (2018). *Social Responsibility of Mega Infrastructure Projects* (重大基础设施工程社会责任, in Chinese). Science Press, Beijing.
+
+**Non-refereed Publication**
+- Lin, H. Zeng, S.X.* Ma, H.Y. (2016). China: Water scheme acts as ecological buffer. *Nature*, 529(7586), 283-283.
+
+**Conference Papers**
+- Lin, H. Zeng, S.X. Ma, H.Y. Wu, P.P. The stakeholder coupling and megaproject social responsibility: A moderated moderating investigation. *Construction Research Congress*, Philadelphia, 2020.
+- Ma, H.Y. Wu, B.* Zeng, S.X. The impact of high-speed railways on rural income distribution in China. *International Megaprojects Workshop: Theory Meets Practice*, Shanghai, 2018; *Annual Conference of Management Science & Engineering Society*, Kunming, 2018.
+- Ma, H.Y. Zeng, S.X.* Li, S.N. Customer focus and product innovation: An absorptive capacity perspective. *Global Innovation & Knowledge Academy Conference*, Lisbon, 2017.
+- Ma, H.Y. Zeng, S.X.* Lin, H. Chen, H.Q. International diversification and corporate social responsibility: A perspective of contractors from emerging economies.  *Strategic Management Society Special Conference*, Sydney, 2014.
+- Lin, H. Zeng, S.X.* Ma, H.Y. How political connection affect corporate environmental performance: An empirical examination. *International Conference of Supply Chain Management*, Shanghai, 2013.
+
+**Working Papers**
+- Ma, H.Y. Lv, K.J. Zeng, S.X.* Lin, H. Shi, J.J. Climbing the pyramid of megaproject social responsibility. (R&R at JCEM)
+- Du, J. Wang, W.X. Ma, H.Y.* Sugumaran, V. Stakeholder cooperation mechanism for prefabricated construction projects. (Under review at JCEM)
+- Ma, H.Y. Zou, J.J. Zou, H.L.* The longer, the further? An empirical study of "going out" Chinese listed firms. (Manuscripit finished)
+- Yuan, M. Yu, M.C. Ma, H.Y. Zhao Z.Y. Lin, H.* Why construction workers go "bad": A multilevel investigation into the role of collective moral judgment in workplace deviant behavior. (R&R at JCEM)
+- Wang, J.Y. Han, S.W. Lin, H.* Ma, H.Y. Wu, H.Q. Yuan, J.F. Can New-type Urbanization pave a green way for China? A prefecture-level investigation. (Rejected by PNAS)
+- Chen, H.Q. Zeng, S.X. Ma, H.Y.* Tam, C.M. Shi, J.J. Expansion rhythm and international performance of Chinese contractors. (Manuscript finished, target: IEEE-TEM)
+- Sui, Y. Lin, H.* Zeng, S.X. Tam, V.W.Y. Ma, H,Y. Can big egos be green? A three-way interaction effect of CEO narcissism on corporate environmental performance. (Rejected by IEEE-TEM)
+- Ma, H.Y.* Lin, Y. Industrial environment and contractors' international performance. (In empirical analysis, target: JCEM)
+- Ma, H.Y.* Kong, Z.J. Institutional logic of international PPP project governance. (Manuscript writing, target: JCEM)
+- Ma, H.Y.* Kong, Z.J. Institutional voids, resilience, and performance of international PPP projects. (Data collection, target: IEEE-TEM)
+
+**Research Grants**
+- The governance for sustainability of international PPP projects: A perspective of institutional logic. (Youth Grant, Humanities and Social Sciences Research Projects, MOE, 2020-2023). Principal investigator.
+- The governance of international PPP projects: A perspective of sustainable development (Grant of Key Lab for Public Engineering Audit of Jiangsu Province, NAU, No. GGSS2016-13, 2017). Principal Investigator.
+- Innovation islands, flexible innovation, and capacity promotion for mega infrastructure projects (Major International/Regional Joint Research Project, NSFC, No. 71620107004, 2017-2022). Co-investigator.
+- Research on the social responsibility, industrial core competence, and sustainable development for mega infrastructure engineering (Major Research Project, NSFC, No. 71390525, 2014-2018). Co-investigator.
+- Green innovation management of enterprises (Shanghai Outstanding Academic Leaders Program, No. 14XD1402200, 2014-2017). Co-investigator.
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- NOT edited yet *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- NOT edited yet *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- NOT edited yet *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- NOT edited yet *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+# 💬 Teaching
+- NOT edited yet *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- NOT edited yet *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
 
 # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- NOT edited yet *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
