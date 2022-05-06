@@ -23,53 +23,53 @@ Dr. Hanyang Ma is an associate professor of management at SILC Business School, 
 # 📖 Experience
 **Affiliation**  
 2018-present: SILC Business School, Shanghai University  
-&esmp; Associate Professor of Management, 2021-  
->Lecturer (Scholarly Academic) of Management, 2018-2021  
+&emsp;&emsp; Associate Professor of Management, 2021-  
+&emsp;&emsp; Lecturer (Scholarly Academic) of Management, 2018-2021  
 2021-present: Faculty of Engineering & Information Technology, University of Technology Sydney  
->Lecturer (Joint-Appointment) of Engineering Management, 2021-  
+&emsp;&emsp; Lecturer (Joint-Appointment) of Engineering Management, 2021-  
 2016-2017: Ross School of Business, University of Michigan  
->Visiting Scholar of Strategy (Supervised by Prof. Brian X. Wu)  
+&emsp;&emsp; Visiting Scholar of Strategy (Supervised by Prof. Brian X. Wu)  
 2014-2015: Faculty of Construction & Environment, Hong Kong Polytechnic University  
->Research Assistant of Building & Real Estate (Supervised by Prof. Geoffrey Q.P. Shen)  
+&emsp;&emsp; Research Assistant of Building & Real Estate (Supervised by Prof. Geoffrey Q.P. Shen)  
 
 **Education**
-2011-2018: Antai College of Economics & Management, Shanghai Jiao Tong University
-- Ph.D. in Management Science & Engineering (supervised by Prof. Saixing Zeng)
-- with the Excellent Doctoral Dissertation, awarded by Society of Management Science and Engineering of China
-- with the Excellent Doctoral Dissertation, awarded by Shanghai Jiao Tong University  
-2005-2009: School of Mechanical Engineering, Shanghai Jiao Tong University
-- B.E. in Mechanical Engineering & Automation​ (Supervised by Prof. Sun Jin)  
+2011-2018: Antai College of Economics & Management, Shanghai Jiao Tong University  
+&emsp;&emsp; Ph.D. in Management Science & Engineering (supervised by Prof. Saixing Zeng)
+&emsp;&emsp; with the Excellent Doctoral Dissertation, awarded by Society of Management Science and Engineering of China
+&emsp;&emsp; with the Excellent Doctoral Dissertation, awarded by Shanghai Jiao Tong University  
+2005-2009: School of Mechanical Engineering, Shanghai Jiao Tong University  
+&emsp;&emsp; B.E. in Mechanical Engineering & Automation​ (Supervised by Prof. Sun Jin)  
 
 **Services**  
 2021-present: Committee for Shanghai Systems Engineering Society of China  
 2021-present: Committee for SILC Youth Teacher Sodality, Shanghai University  
 2018-2019: Guest associated editor for *Frontiers of Engineering Management*, 2018-2019  
-Ad hoc reviewer for:
-*Academy of International Business Annual Meeting  
-Academy of Management Annual Meeting  
-Business Strategy and the Environment  
-Chinese Management Studies  
-Construction Management and Economics  
-Corporate Social Responsibility and Environmental Management  
-Engineering, Construction and Architectural Management  
-Environmental Impact Assessment Review  
-Frontiers of Engineering Management  
-International Journal of Project Management  
-Journal of Construction Engineering and Management  
-Journal of Environmental Planning and Management  
-Journal of Management in Engineering  
-Journal of Systems and Management (系统管理学报, a Chinese journal)  
-Management Decision  
-Research Policy  
-Strategic Entrepreneurship Journal  
-Sustainability  
-Sustainable Development*  
+Ad hoc reviewer for:  
+&emsp;&emsp; *Academy of International Business Annual Meeting  
+&emsp;&emsp; Academy of Management Annual Meeting  
+&emsp;&emsp; Business Strategy and the Environment  
+&emsp;&emsp; Chinese Management Studies  
+&emsp;&emsp; Construction Management and Economics  
+&emsp;&emsp; Corporate Social Responsibility and Environmental Management  
+&emsp;&emsp; Engineering, Construction and Architectural Management  
+&emsp;&emsp; Environmental Impact Assessment Review  
+&emsp;&emsp; Frontiers of Engineering Management  
+&emsp;&emsp; International Journal of Project Management  
+&emsp;&emsp; Journal of Construction Engineering and Management  
+&emsp;&emsp; Journal of Environmental Planning and Management  
+vJournal of Management in Engineering  
+&emsp;&emsp; Journal of Systems and Management (系统管理学报, a Chinese journal)  
+&emsp;&emsp; Management Decision  
+&emsp;&emsp; Research Policy  
+&emsp;&emsp; Strategic Entrepreneurship Journal  
+&emsp;&emsp; Sustainability  
+&emsp;&emsp; Sustainable Development*  
 
 **Other Experience**
 2012-2012: Deloitte Consulting (China)  
-- Intern for data management and project management.
+&emsp;&emsp; Intern for data management and project management.
 2009-2010: Science & Technology Department of Tibet  
-- Volunteer for Xibu Youth Project.
+&emsp;&emsp; Volunteer for Xibu Youth Project.
 
 
 # 📝 Research 
@@ -134,28 +134,28 @@ Sustainable Development*
 # 💬 Teaching
 **Curriculum Instruction**  
 2018-present: Shanghai University
-- Coordinator: Academic Standards and Essay Writing (MSc, 2022-)
-- Coordinator: Empirical Methods in Organization and Management Research (MSc, 2018-)
-- Coordinator: Project Management (Undergraduate, 2021-)
-- Coordinator: Qualitative Research in Management (Undergraduate, 2020-)
-- Coordinator: Management Thinking: BA Introduction (Undergraduate, 2020-)
-- Instructor: New Retailing Management (Undergraduate, 2021-2021)
-- Instructor: Principles of Management (Undergraduate, 2019-2019)
-- TA: Marketing Foundations (Undergraduate, 2020-2020)
-- TA: Management Thinking: BA Introduction (Undergraduate, 2019-2019)  
+&emsp;&emsp; Coordinator: Academic Standards and Essay Writing (MSc, 2022-)
+&emsp;&emsp; Coordinator: Empirical Methods in Organization and Management Research (MSc, 2018-)
+&emsp;&emsp; Coordinator: Project Management (Undergraduate, 2021-)
+&emsp;&emsp; Coordinator: Qualitative Research in Management (Undergraduate, 2020-)
+&emsp;&emsp; Coordinator: Management Thinking: BA Introduction (Undergraduate, 2020-)
+&emsp;&emsp; Instructor: New Retailing Management (Undergraduate, 2021-2021)
+&emsp;&emsp; Instructor: Principles of Management (Undergraduate, 2019-2019)
+&emsp;&emsp; TA: Marketing Foundations (Undergraduate, 2020-2020)
+&emsp;&emsp; TA: Management Thinking: BA Introduction (Undergraduate, 2019-2019)  
 2021-present: University of Technology Sydney
-- Coordinator: Engineering Project Preparation (MEM, 2021-)
-- Coordinator: Judgement and Decision Making (MEM, 2021-)  
+&emsp;&emsp; Coordinator: Engineering Project Preparation (MEM, 2021-)
+&emsp;&emsp; Coordinator: Judgement and Decision Making (MEM, 2021-)  
 2013-2016: Shanghai Jiao Tong University
-- TA: Project Management (Undergraduate)
-- TA: Technological Innovation & Management (Undergraduate)
+&emsp;&emsp; TA: Project Management (Undergraduate)
+&emsp;&emsp; TA: Technological Innovation & Management (Undergraduate)
 
 **Student Supervision**  
 2018-present: Shanghai University
-- Yao Lin, Zijiong Kong (MSc, 2021-)
-- Jingjie Zou (MSc, 2019-)
+&emsp;&emsp; Yao Lin, Zijiong Kong (MSc, 2021-)
+&emsp;&emsp; Jingjie Zou (MSc, 2019-)
 2021-present: University of Technology Sydney
-- Shifan Gu, ​Siyang Xie (MEM, 2021)
+&emsp;&emsp; Shifan Gu, Siyang Xie (MEM, 2021)
 
 
 # 🎖 Honors and Awards
