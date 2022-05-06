@@ -25,6 +25,7 @@ Dr. Hanyang Ma's research interest includes Corporate Social Responsibility, Int
 # 📝 Research 
 
 **Journal Articles**
+
 Zeng, S.X. Chen, H.Q.* Ma, H.Y. Shi, J.J. (2022). Governance of social responsibility in international infrastructure megaprojects. Frontiers of Engineering Management, in press, DOI: 10.1007/s42524-022-0191-7.
 Ma, H.Y. Sun, D.X. Zeng, S.X.* Lin, H. Shi, J.J. (2021). The effects of megaproject social responsibility on participating organizations. Project Management Journal, 52(5), 418-433.
 Sun, D.X. Zeng, S.X.* Ma, H.Y. Shi, J.J. (2021). How do bullet trains spur innovation? IEEE Transactions on Engineering Management, online, DOI: 10.1109/TEM.2021.3091727.
@@ -36,7 +37,7 @@ Ma, H.Y. Liu, Z.M. Zeng, S.X.* Lin, H. Tam, V.W.Y. (2020). Does megaproject soci
 Liu, Z.M. Zeng, S.X.* Xu, X.D. Lin, H. Ma, H.Y. (2019). Corporate misconduct, trade credit, and charitable donations: Evidence from Chinese listed companies. Chinese Management Studies, 13(3), 664-686.
 Lin, H. Sui, Y. Ma, H.Y. Wang, L.Y.* Zeng, S.X. (2018). CEO narcissism, public concern, and megaproject social responsibility: A moderated mediating examination. Journal of Management in Engineering, 34(4), 04018018.
 Ma, H.Y. Zeng, S.X.* Lin, H. Chen, H.Q. Shi, J.J. (2017). The societal governance of megaproject social responsibility. International Journal of Project Management, 35(7), 1365-1377.
-​Lin, H. Zeng, S.X.* Ma, H.Y. Zeng, R.C. Tam V.W.Y. (2017). An indicator system for evaluating megaproject social responsibility. International Journal of Project Management, 35(7), 1415-1426.
+Lin, H. Zeng, S.X.* Ma, H.Y. Zeng, R.C. Tam V.W.Y. (2017). An indicator system for evaluating megaproject social responsibility. International Journal of Project Management, 35(7), 1415-1426.
 Chen, H.Q. Zeng, S.X.* Lin, H. Ma, H.Y. (2017). Munificence, dynamism, and complexity: How industry context drives corporate sustainability. Business Strategy and the Environment, 26(2), 125-141.
 Ma, H.Y. Zeng, S.X.* Shen, G.Q.P. Lin, H., Chen, H.Q. (2016). International diversification and corporate social responsibility: An empirical study of Chinese contractors. Management Decision, 54(3), 750-774.
 Lin, H. Zeng, S.X. Wang, L.Y.* Zou, H.L. Ma, H.Y. (2016). How does environmental irresponsibility impair corporate reputation? A multi-method investigation. Corporate Social Responsibility and Environmental Management, 23(6), 413-423.
@@ -48,20 +49,6 @@ Lin, H. Zeng, S.X.* Ma, H.Y. Qi, G.Y. Tam, V.W.Y. (2014). Can political capital 
 Wang, L.Q. Ma, H.Y.* Sun, D.X. Yu, B.J. (2018). Financial risk of PPP projects: The moderating effects of financing structure and institutional environment. Journal of Systems and Management (系统管理学报, a Chinese journal), 27(1), 83-92.
 Wei, Q.M. Lin, H.* Jiang, W. Ma, H.Y. (2017). The empirical study on the health effects of rural water treatment projects: An econometric analysis based on provincial spatial panel data. Journal of Systems and Management (系统管理学报, a Chinese journal), 26(4), 648-655.
 
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
-
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
-
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
-</div>
-
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
