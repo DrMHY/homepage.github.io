@@ -45,25 +45,25 @@ Dr. Hanyang Ma is an associate professor of management at SILC Business School, 
 2021-present: Committee for SILC Youth Teacher Sodality, Shanghai University  
 2018-2019: Guest associated editor for *Frontiers of Engineering Management*, 2018-2019  
 Ad hoc reviewer for:
-- *Academy of International Business Annual Meeting
-- *Academy of Management Annual Meeting
-- *Business Strategy and the Environment
-- *Chinese Management Studies
-- *Construction Management and Economics
-- *Corporate Social Responsibility and Environmental Management
-- *Engineering, Construction and Architectural Management
-- *Environmental Impact Assessment Review
-- *Frontiers of Engineering Management
-- *International Journal of Project Management
-- *Journal of Construction Engineering and Management
-- *Journal of Environmental Planning and Management
-- *Journal of Management in Engineering
-- *Journal of Systems and Management (系统管理学报, a Chinese journal)
-- *Management Decision
-- *Research Policy
-- *Strategic Entrepreneurship Journal
-- *Sustainability
-- *Sustainable Development*
+*Academy of International Business Annual Meeting
+Academy of Management Annual Meeting
+Business Strategy and the Environment
+Chinese Management Studies
+Construction Management and Economics
+Corporate Social Responsibility and Environmental Management
+Engineering, Construction and Architectural Management
+Environmental Impact Assessment Review
+Frontiers of Engineering Management
+International Journal of Project Management
+Journal of Construction Engineering and Management
+Journal of Environmental Planning and Management
+Journal of Management in Engineering
+Journal of Systems and Management (系统管理学报, a Chinese journal)
+Management Decision
+Research Policy
+Strategic Entrepreneurship Journal
+Sustainability
+Sustainable Development*
 
 **Other Experience**
 2012-2012: Deloitte Consulting (China)  
