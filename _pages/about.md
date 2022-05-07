@@ -137,7 +137,7 @@ Ad hoc reviewer for:
 # 💬 Teaching
 ## Curriculum Instruction  
 - Coordinator: (SHU-MSc) Academic Standards and Essay Writing, 2022-  
-- Coordinator: (SHU-MSc) Empirical Methods in Organization and Management Research, 2018  
+- Coordinator: (SHU-MSc) Empirical Methods in Organization and Management Research, 2018-  
 - Coordinator: (SHU-Undergraduate) Project Management, 2021-  
 - Coordinator: (SHU-Undergraduate) Qualitative Research in Management, 2020-  
 - Coordinator: (SHU-Undergraduate) Management Thinking: BA Introduction, 2020-
