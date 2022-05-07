@@ -172,8 +172,3 @@ Ad hoc reviewer for:
 - Bronze Prize for Chinese Youth Volunteers Award (National Communist Youth League of China, 2010).
 - Outstanding Student (Shanghai Jiao Tong University, 2015, 2007).
 
-
-- NOT edited yet *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
-
-# 💻 Internships
-- NOT edited yet *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
