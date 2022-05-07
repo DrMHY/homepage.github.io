@@ -128,10 +128,10 @@ Ad hoc reviewer for:
   
 ## Research Grants
 - The governance for sustainability of international PPP projects: A perspective of institutional logic. (Youth Grant, Humanities and Social Sciences Research Projects, MOE, 2020-2023). Principal investigator.
-- The governance of international PPP projects: A perspective of sustainable development (Grant of Key Lab for Public Engineering Audit of Jiangsu Province, NAU, No. GGSS2016-13, 2017). Principal Investigator.
-- Innovation islands, flexible innovation, and capacity promotion for mega infrastructure projects (Major International/Regional Joint Research Project, NSFC, No. 71620107004, 2017-2022). Co-investigator.
-- Research on the social responsibility, industrial core competence, and sustainable development for mega infrastructure engineering (Major Research Project, NSFC, No. 71390525, 2014-2018). Co-investigator.
-- Green innovation management of enterprises (Shanghai Outstanding Academic Leaders Program, No. 14XD1402200, 2014-2017). Co-investigator.
+- The governance of international PPP projects: A perspective of sustainable development (Grant of Key Lab for Public Engineering Audit of Jiangsu Province, NAU, 2017). Principal Investigator.
+- Innovation islands, flexible innovation, and capacity promotion for mega infrastructure projects (Major International/Regional Joint Research Project, NSFC, 2017-2022). Co-investigator.
+- Research on the social responsibility, industrial core competence, and sustainable development for mega infrastructure engineering (Major Research Project, NSFC, 2014-2018). Co-investigator.
+- Green innovation management of enterprises (Shanghai Outstanding Academic Leaders Program, 2014-2017). Co-investigator.
 
 
 # 💬 Teaching
