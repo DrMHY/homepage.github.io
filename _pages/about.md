@@ -19,9 +19,9 @@ redirect_from:
 
 Dr. Hanyang Ma is an associate professor of management at SILC Business School, Shanghai University, also a (joint-appointment) lecturer of engineering management at Faculty of Engineering & Information Technology, University of Technology Sydney. He recieved his Ph.D. and B.E. from Shanghai Jiao Tong University. His research interest includes corporate social responsibility, international business, and project management. He has published a series of papers with total <a href='https://scholar.google.com/citations?user=YoaF4d0AAAAJ&hl=en&oi=ao'>google scholar citations <strong><span id='YoaF4d0AAAAJ&hl=en&oi=ao'>1000+</span></strong></a> .  
 Contact:
-- R303, Wenshang Building, 20 Chengzhong Rd., Jiading, Shanghai 201800, China
-- [mahanyang@shu.edu.cn](mailto:mahanyang@shu.edu.cn) (for SHU issues)
-- [hanyang.ma@uts.edu.au](mailto:hanyang.ma@uts.edu.au) (for uts issues)
+&emsp;&emsp; R303, Wenshang Building, 20 Chengzhong Rd., Jiading, Shanghai 201800, China  
+&emsp;&emsp; [mahanyang@shu.edu.cn](mailto:mahanyang@shu.edu.cn) (for SHU issues)  
+&emsp;&emsp; [hanyang.ma@uts.edu.au](mailto:hanyang.ma@uts.edu.au) (for uts issues)  
 
 
 # 📖 Experience
