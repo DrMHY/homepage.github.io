@@ -32,17 +32,17 @@ Contact:
 2021-present: Faculty of Engineering & Information Technology, University of Technology Sydney  
 &emsp;&emsp; Lecturer (Joint-Appointment) of Engineering Management, 2021-  
 2016-2017: Ross School of Business, University of Michigan  
-&emsp;&emsp; Visiting Scholar of Strategy (Supervised by Prof. Brian X. Wu)  
+&emsp;&emsp; Visiting Scholar of Strategy (Supervised by [Prof. Brian X. Wu](https://michiganross.umich.edu/faculty-research/faculty/brian-wu))  
 2014-2015: Faculty of Construction & Environment, Hong Kong Polytechnic University  
-&emsp;&emsp; Research Assistant of Building & Real Estate (Supervised by Prof. Geoffrey Q.P. Shen)  
+&emsp;&emsp; Research Assistant of Building & Real Estate (Supervised by Prof. [Geoffrey Q.P. Shen](https://www.polyu.edu.hk/bre/people/academic-staff/prof-geoffrey-qp-shen/)  
   
 **Education**  
 2011-2018: Antai College of Economics & Management, Shanghai Jiao Tong University  
-&emsp;&emsp; Ph.D. in Management Science & Engineering (supervised by Prof. Saixing Zeng)  
-&emsp;&emsp; with the Excellent Doctoral Dissertation, awarded by Society of Management Science and Engineering of China  
-&emsp;&emsp; with the Excellent Doctoral Dissertation, awarded by Shanghai Jiao Tong University  
+&emsp;&emsp; Ph.D. in Management Science & Engineering (supervised by [Prof. Saixing Zeng](https://www.acem.sjtu.edu.cn/faculty/zengsaixing.html))  
+&emsp;&emsp; with the Excellent Doctoral Dissertationby Society of Management Science and Engineering of China  
+&emsp;&emsp; with the Excellent Doctoral Dissertationby Shanghai Jiao Tong University  
 2005-2009: School of Mechanical Engineering, Shanghai Jiao Tong University  
-&emsp;&emsp; B.E. in Mechanical Engineering & Automation​ (Supervised by Prof. Sun Jin)  
+&emsp;&emsp; B.E. in Mechanical Engineering & Automation (Supervised by [Prof. Sun Jin](https://me.sjtu.edu.cn/teacher_directory1/jinsun.html))  
   
 **Services**  
 2021-present: Committee for Shanghai Systems Engineering Society of China  
@@ -161,7 +161,7 @@ Ad hoc reviewer for:
 &emsp;&emsp; Shifan Gu, Siyang Xie (MEM, 2021)
 
 
-# 🎖 Honors & Awards
+# 🎖 Honors and Awards
 - Choi Koon-Shum Outstanding Young Teacher (Shanghai University, 2021).
 - First Prize for National Science & Technology Progress Award (Ministry of Education of China, 2019).
 - Excellent Doctoral Dissertation (Society of Management Science and Engineering of China, 2019).
