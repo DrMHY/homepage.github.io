@@ -136,29 +136,26 @@ Ad hoc reviewer for:
 
 # 💬 Teaching
 ## Curriculum Instruction  
-2018-present: Shanghai University  
-&emsp;&emsp; Coordinator: Academic Standards and Essay Writing (MSc, 2022-)  
-&emsp;&emsp; Coordinator: Empirical Methods in Organization and Management Research (MSc, 2018-)  
-&emsp;&emsp; Coordinator: Project Management (Undergraduate, 2021-)  
-&emsp;&emsp; Coordinator: Qualitative Research in Management (Undergraduate, 2020-)  
-&emsp;&emsp; Coordinator: Management Thinking: BA Introduction (Undergraduate, 2020-)  
-&emsp;&emsp; Instructor: New Retailing Management (Undergraduate, 2021-2021)  
-&emsp;&emsp; Instructor: Principles of Management (Undergraduate, 2019-2019)  
-&emsp;&emsp; TA: Marketing Foundations (Undergraduate, 2020-2020)  
-&emsp;&emsp; TA: Management Thinking: BA Introduction (Undergraduate, 2019-2019)  
-2021-present: University of Technology Sydney  
-&emsp;&emsp; Coordinator: Engineering Project Preparation (MEM, 2021-)  
-&emsp;&emsp; Coordinator: Judgement and Decision Making (MEM, 2021-)    
-2013-2016: Shanghai Jiao Tong University  
-&emsp;&emsp; TA: Project Management (Undergraduate)  
-&emsp;&emsp; TA: Technological Innovation & Management (Undergraduate)
-  
+- Coordinator: (SHU-MSc) Academic Standards and Essay Writing, 2022-  
+- Coordinator: (SHU-MSc) Empirical Methods in Organization and Management Research, 2018  
+- Coordinator: (SHU-Undergraduate) Project Management, 2021-  
+- Coordinator: (SHU-Undergraduate) Qualitative Research in Management, 2020-  
+- Coordinator: (SHU-Undergraduate) Management Thinking: BA Introduction, 2020-
+- Coordinator: (UTS-MEM) Engineering Project Preparation, 2021-  
+- Coordinator: (UTS-MEM) Judgement and Decision Making, 2021-    
+- Instructor: (SHU-Undergraduate) New Retailing Management, 2021-2021  
+- Instructor: (SHU-Undergraduate) Principles of Management, 2019-2019  
+- TA: (SHU-Undergraduate) Marketing Foundations, 2020-2020  
+- TA: (SHU-Undergraduate) Management Thinking: BA Introduction, 2019-2019  
+- TA: (SJTU-Undergraduate) Project Management, 2013-2016  
+- TA: (SJTU-Undergraduate) Technological Innovation & Management, 2013-2016
+
 ## Student Supervision  
 2018-present: Shanghai University  
-&emsp;&emsp; Yao Lin, Zijiong Kong (MSc, 2021-)  
-&emsp;&emsp; Jingjie Zou (MSc, 2019-)  
+- Yao Lin, Zijiong Kong (MSc, 2021-)  
+- Jingjie Zou (MSc, 2019-)  
 2021-present: University of Technology Sydney  
-&emsp;&emsp; Shifan Gu, Siyang Xie (MEM, 2021)
+- Shifan Gu, Siyang Xie (MEM, 2021)
 
 
 # 🎖 Honors and Awards
