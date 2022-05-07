@@ -17,7 +17,11 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Dr. Hanyang Ma is an associate professor of management at SILC Business School, Shanghai University, also a (joint-appointment) lecturer of engineering management at Faculty of Engineering & Information Technology, University of Technology Sydney. He recieved his Ph.D. and B.E. from Shanghai Jiao Tong University. His research interest includes corporate social responsibility, international business, and project management. He has published a series of papers with total <a href='https://scholar.google.com/citations?user=YoaF4d0AAAAJ&hl=en&oi=ao'>google scholar citations <strong><span id='YoaF4d0AAAAJ&hl=en&oi=ao'>1000+</span></strong></a> .
+Dr. Hanyang Ma is an associate professor of management at SILC Business School, Shanghai University, also a (joint-appointment) lecturer of engineering management at Faculty of Engineering & Information Technology, University of Technology Sydney. He recieved his Ph.D. and B.E. from Shanghai Jiao Tong University. His research interest includes corporate social responsibility, international business, and project management. He has published a series of papers with total <a href='https://scholar.google.com/citations?user=YoaF4d0AAAAJ&hl=en&oi=ao'>google scholar citations <strong><span id='YoaF4d0AAAAJ&hl=en&oi=ao'>1000+</span></strong></a> .  
+Contact:
+- R303, Wenshang Building, 20 Chengzhong Rd., Jiading, Shanghai 201800, China
+- [mahanyang@shu.edu.cn](mailto:mahanyang@shu.edu.cn) (for SHU issues)
+- [hanyang.ma@uts.edu.au](mailto:hanyang.ma@uts.edu.au) (for uts issues)
 
 
 # 📖 Experience
@@ -31,7 +35,7 @@ Dr. Hanyang Ma is an associate professor of management at SILC Business School, 
 &emsp;&emsp; Visiting Scholar of Strategy (Supervised by Prof. Brian X. Wu)  
 2014-2015: Faculty of Construction & Environment, Hong Kong Polytechnic University  
 &emsp;&emsp; Research Assistant of Building & Real Estate (Supervised by Prof. Geoffrey Q.P. Shen)  
-
+  
 **Education**  
 2011-2018: Antai College of Economics & Management, Shanghai Jiao Tong University  
 &emsp;&emsp; Ph.D. in Management Science & Engineering (supervised by Prof. Saixing Zeng)  
@@ -39,7 +43,7 @@ Dr. Hanyang Ma is an associate professor of management at SILC Business School, 
 &emsp;&emsp; with the Excellent Doctoral Dissertation, awarded by Shanghai Jiao Tong University  
 2005-2009: School of Mechanical Engineering, Shanghai Jiao Tong University  
 &emsp;&emsp; B.E. in Mechanical Engineering & Automation​ (Supervised by Prof. Sun Jin)  
-
+  
 **Services**  
 2021-present: Committee for Shanghai Systems Engineering Society of China  
 2021-present: Committee for SILC Youth Teacher Sodality, Shanghai University  
@@ -64,7 +68,7 @@ Ad hoc reviewer for:
 &emsp;&emsp; Strategic Entrepreneurship Journal  
 &emsp;&emsp; Sustainability  
 &emsp;&emsp; Sustainable Development*  
-
+  
 **Other Experience**  
 2012-2012: Deloitte Consulting (China)  
 &emsp;&emsp; Intern for data management and project management.  
@@ -73,7 +77,6 @@ Ad hoc reviewer for:
 
 
 # 📝 Research 
-
 **Journal Articles**
 - Zeng, S.X. Chen, H.Q.* Ma, H.Y. Shi, J.J. (2022). Governance of social responsibility in international infrastructure megaprojects. *Frontiers of Engineering Management*, in press, DOI: 10.1007/s42524-022-0191-7.
 - Ma, H.Y. Sun, D.X. Zeng, S.X.* Lin, H. Shi, J.J. (2021). The effects of megaproject social responsibility on participating organizations. *Project Management Journal*, 52(5), 418-433.
@@ -97,20 +100,20 @@ Ad hoc reviewer for:
 - Lin, H. Zeng, S.X.* Ma, H.Y. Qi, G.Y. Tam, V.W.Y. (2014). Can political capital drive corporate green innovation? Lessons from China. *Journal of Cleaner Production*, 64, 63-72.
 - Wang, L.Q. Ma, H.Y.* Sun, D.X. Yu, B.J. (2018). Financial risk of PPP projects: The moderating effects of financing structure and institutional environment. *Journal of Systems and Management* (系统管理学报, a Chinese journal), 27(1), 83-92.
 - Wei, Q.M. Lin, H.* Jiang, W. Ma, H.Y. (2017). The empirical study on the health effects of rural water treatment projects: An econometric analysis based on provincial spatial panel data. *Journal of Systems and Management* (系统管理学报, a Chinese journal), 26(4), 648-655.
-
+  
 **Books**
 - Zeng, S.X. Lin, H. Ma, H.Y. (2018). *Social Responsibility of Mega Infrastructure Projects* (重大基础设施工程社会责任, in Chinese). Science Press, Beijing.
-
+  
 **Non-refereed Publication**
 - Lin, H. Zeng, S.X.* Ma, H.Y. (2016). China: Water scheme acts as ecological buffer. *Nature*, 529(7586), 283-283.
-
+  
 **Conference Papers**
 - Lin, H. Zeng, S.X. Ma, H.Y. Wu, P.P. The stakeholder coupling and megaproject social responsibility: A moderated moderating investigation. *Construction Research Congress*, Philadelphia, 2020.
 - Ma, H.Y. Wu, B.* Zeng, S.X. The impact of high-speed railways on rural income distribution in China. *International Megaprojects Workshop: Theory Meets Practice*, Shanghai, 2018; *Annual Conference of Management Science & Engineering Society*, Kunming, 2018.
 - Ma, H.Y. Zeng, S.X.* Li, S.N. Customer focus and product innovation: An absorptive capacity perspective. *Global Innovation & Knowledge Academy Conference*, Lisbon, 2017.
 - Ma, H.Y. Zeng, S.X.* Lin, H. Chen, H.Q. International diversification and corporate social responsibility: A perspective of contractors from emerging economies.  *Strategic Management Society Special Conference*, Sydney, 2014.
 - Lin, H. Zeng, S.X.* Ma, H.Y. How political connection affect corporate environmental performance: An empirical examination. *International Conference of Supply Chain Management*, Shanghai, 2013.
-
+  
 **Working Papers**
 - Ma, H.Y. Lv, K.J. Zeng, S.X.* Lin, H. Shi, J.J. Climbing the pyramid of megaproject social responsibility. (R&R at JCEM)
 - Du, J. Wang, W.X. Ma, H.Y.* Sugumaran, V. Stakeholder cooperation mechanism for prefabricated construction projects. (Under review at JCEM)
@@ -122,7 +125,7 @@ Ad hoc reviewer for:
 - Ma, H.Y.* Lin, Y. Industrial environment and contractors' international performance. (In empirical analysis, target: JCEM)
 - Ma, H.Y.* Kong, Z.J. Institutional logic of international PPP project governance. (Manuscript writing, target: JCEM)
 - Ma, H.Y.* Kong, Z.J. Institutional voids, resilience, and performance of international PPP projects. (Data collection, target: IEEE-TEM)
-
+  
 **Research Grants**
 - The governance for sustainability of international PPP projects: A perspective of institutional logic. (Youth Grant, Humanities and Social Sciences Research Projects, MOE, 2020-2023). Principal investigator.
 - The governance of international PPP projects: A perspective of sustainable development (Grant of Key Lab for Public Engineering Audit of Jiangsu Province, NAU, No. GGSS2016-13, 2017). Principal Investigator.
@@ -149,7 +152,7 @@ Ad hoc reviewer for:
 2013-2016: Shanghai Jiao Tong University  
 &emsp;&emsp; TA: Project Management (Undergraduate)  
 &emsp;&emsp; TA: Technological Innovation & Management (Undergraduate)
-
+  
 **Student Supervision**  
 2018-present: Shanghai University  
 &emsp;&emsp; Yao Lin, Zijiong Kong (MSc, 2021-)  
@@ -158,7 +161,7 @@ Ad hoc reviewer for:
 &emsp;&emsp; Shifan Gu, Siyang Xie (MEM, 2021)
 
 
-# 🎖 Honors and Awards
+# 🎖 Honors & Awards
 - Choi Koon-Shum Outstanding Young Teacher (Shanghai University, 2021).
 - First Prize for National Science & Technology Progress Award (Ministry of Education of China, 2019).
 - Excellent Doctoral Dissertation (Society of Management Science and Engineering of China, 2019).
@@ -169,7 +172,7 @@ Ad hoc reviewer for:
 - Bronze Prize for Chinese Youth Volunteers Award (National Communist Youth League of China, 2010).
 - Outstanding Student (Shanghai Jiao Tong University, 2015, 2007).
 
-- NOT edited yet *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+
 - NOT edited yet *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
 
 # 💻 Internships
