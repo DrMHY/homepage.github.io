@@ -34,7 +34,7 @@ Contact:
 2016-2017: Ross School of Business, University of Michigan  
 &emsp;&emsp; Visiting Scholar of Strategy (Supervised by [Prof. Brian X. Wu](https://michiganross.umich.edu/faculty-research/faculty/brian-wu))  
 2014-2015: Faculty of Construction & Environment, Hong Kong Polytechnic University  
-&emsp;&emsp; Research Assistant of Building & Real Estate (Supervised by Prof. [Geoffrey Q.P. Shen](https://www.polyu.edu.hk/bre/people/academic-staff/prof-geoffrey-qp-shen/)  
+&emsp;&emsp; Research Assistant of Building & Real Estate (Supervised by Prof. [Geoffrey Q.P. Shen](https://www.polyu.edu.hk/bre/people/academic-staff/prof-geoffrey-qp-shen/))  
   
 **Education**  
 2011-2018: Antai College of Economics & Management, Shanghai Jiao Tong University  
