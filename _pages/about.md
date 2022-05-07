@@ -135,7 +135,7 @@ Ad hoc reviewer for:
 
 
 # 💬 Teaching
-$$ Curriculum Instruction  
+## Curriculum Instruction  
 2018-present: Shanghai University  
 &emsp;&emsp; Coordinator: Academic Standards and Essay Writing (MSc, 2022-)  
 &emsp;&emsp; Coordinator: Empirical Methods in Organization and Management Research (MSc, 2018-)  
