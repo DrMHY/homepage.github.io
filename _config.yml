@@ -25,7 +25,8 @@ author:
   avatar           : "images/学院网站照片.png" # "images/android-chrome-512x512.png"
   bio              : # "Shanghai University"
   location         : "Shanghai, China"
-  employer         :
+  employer         : "https://silc.shu.edu.cn/info/1321/18635.htm"
+  employer         : 
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=YoaF4d0AAAAJ&hl=en&oi=ao"
   email            : "mahanyang@shu.edu.cn" #"Lorem@ipsum.com"
