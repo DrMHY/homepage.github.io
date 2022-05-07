@@ -157,13 +157,13 @@ Ad hoc reviewer for:
 
 
 # 🎖 Honors and Awards
-- Choi Koon-Shum Outstanding Young Teacher (Shanghai University, 2021).
-- First Prize for National Science & Technology Progress Award (Ministry of Education of China, 2019).
-- Excellent Doctoral Dissertation (Society of Management Science and Engineering of China, 2019).
-- Excellent Doctoral Dissertation (Shanghai Jiao Tong University, 2019).
-- Third Prize for Provincial Philosophy & Sociology Research Award (Department of Education of Jiangsu, 2018).
-- National Scholarship for Overseas Exchange PhD Students (China Scholarship Council, 2016).
-- National Scholarship for Graduate Students (Ministry of Education of China, 2016).
-- Bronze Prize for Chinese Youth Volunteers Award (National Communist Youth League of China, 2010).
-- Outstanding Student (Shanghai Jiao Tong University, 2015, 2007).
+- Choi Koon-Shum Outstanding Young Teacher (SHU, 2021).
+- First Prize for National Science & Technology Progress Award (MOE of China, 2019).
+- Excellent Doctoral Dissertation (Society of Mgt. Sci. & Eng. of China, 2019).
+- Excellent Doctoral Dissertation (SJTU, 2019).
+- Third Prize for Provincial Philosophy & Sociology Research Award (DOE of Jiangsu, 2018).
+- National Scholarship for Overseas Exchange PhD Students (CSC, 2016).
+- National Scholarship for Graduate Students (MOE of China, 2016).
+- Bronze Prize for Chinese Youth Volunteers Award (CYL of China, 2010).
+- Outstanding Student (SJTU, 2015, 2007).
 
