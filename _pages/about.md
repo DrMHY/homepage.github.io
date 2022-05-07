@@ -151,10 +151,10 @@ Ad hoc reviewer for:
 - TA: (SJTU-Undergraduate) Technological Innovation & Management, 2013-2016
 
 ## Student Supervision  
-2018-present: Shanghai University  
+Shanghai University  
 - Yao Lin, Zijiong Kong (MSc, 2021-)  
 - Jingjie Zou (MSc, 2019-)  
-2021-present: University of Technology Sydney  
+University of Technology Sydney  
 - Shifan Gu, Siyang Xie (MEM, 2021)
 
 
