@@ -25,7 +25,7 @@ Contact:
 
 
 # 📖 Experience
-**Affiliation**  
+## Affiliation  
 2018-present: SILC Business School, Shanghai University  
 &emsp;&emsp; Associate Professor of Management, 2021-  
 &emsp;&emsp; Lecturer (Scholarly Academic) of Management, 2018-2021  
@@ -36,15 +36,15 @@ Contact:
 2014-2015: Faculty of Construction & Environment, Hong Kong Polytechnic University  
 &emsp;&emsp; Research Assistant of Building & Real Estate (Supervised by Prof. [Geoffrey Q.P. Shen](https://www.polyu.edu.hk/bre/people/academic-staff/prof-geoffrey-qp-shen/))  
   
-**Education**  
+## Education  
 2011-2018: Antai College of Economics & Management, Shanghai Jiao Tong University  
 &emsp;&emsp; Ph.D. in Management Science & Engineering (supervised by [Prof. Saixing Zeng](https://www.acem.sjtu.edu.cn/faculty/zengsaixing.html))  
-&emsp;&emsp; with the Excellent Doctoral Dissertationby Society of Management Science and Engineering of China  
-&emsp;&emsp; with the Excellent Doctoral Dissertationby Shanghai Jiao Tong University  
+&emsp;&emsp; with the Excellent Doctoral Dissertation by Society of Management Science and Engineering of China  
+&emsp;&emsp; with the Excellent Doctoral Dissertation by Shanghai Jiao Tong University  
 2005-2009: School of Mechanical Engineering, Shanghai Jiao Tong University  
 &emsp;&emsp; B.E. in Mechanical Engineering & Automation (Supervised by [Prof. Sun Jin](https://me.sjtu.edu.cn/teacher_directory1/jinsun.html))  
   
-**Services**  
+## Services  
 2021-present: Committee for Shanghai Systems Engineering Society of China  
 2021-present: Committee for SILC Youth Teacher Sodality, Shanghai University  
 2018-2019: Guest associated editor for *Frontiers of Engineering Management*, 2018-2019  
@@ -69,7 +69,7 @@ Ad hoc reviewer for:
 &emsp;&emsp; Sustainability  
 &emsp;&emsp; Sustainable Development*  
   
-**Other Experience**  
+## Other Experience  
 2012-2012: Deloitte Consulting (China)  
 &emsp;&emsp; Intern for data management and project management.  
 2009-2010: Science & Technology Department of Tibet  
@@ -77,7 +77,7 @@ Ad hoc reviewer for:
 
 
 # 📝 Research 
-**Journal Articles**
+## Journal Articles
 - Zeng, S.X. Chen, H.Q.* Ma, H.Y. Shi, J.J. (2022). Governance of social responsibility in international infrastructure megaprojects. *Frontiers of Engineering Management*, in press, DOI: 10.1007/s42524-022-0191-7.
 - Ma, H.Y. Sun, D.X. Zeng, S.X.* Lin, H. Shi, J.J. (2021). The effects of megaproject social responsibility on participating organizations. *Project Management Journal*, 52(5), 418-433.
 - Sun, D.X. Zeng, S.X.* Ma, H.Y. Shi, J.J. (2021). How do bullet trains spur innovation? *IEEE Transactions on Engineering Management*, online, DOI: 10.1109/TEM.2021.3091727.
@@ -101,20 +101,20 @@ Ad hoc reviewer for:
 - Wang, L.Q. Ma, H.Y.* Sun, D.X. Yu, B.J. (2018). Financial risk of PPP projects: The moderating effects of financing structure and institutional environment. *Journal of Systems and Management* (系统管理学报, a Chinese journal), 27(1), 83-92.
 - Wei, Q.M. Lin, H.* Jiang, W. Ma, H.Y. (2017). The empirical study on the health effects of rural water treatment projects: An econometric analysis based on provincial spatial panel data. *Journal of Systems and Management* (系统管理学报, a Chinese journal), 26(4), 648-655.
   
-**Books**
+## Books
 - Zeng, S.X. Lin, H. Ma, H.Y. (2018). *Social Responsibility of Mega Infrastructure Projects* (重大基础设施工程社会责任, in Chinese). Science Press, Beijing.
   
-**Non-refereed Publication**
+## Non-refereed Publication
 - Lin, H. Zeng, S.X.* Ma, H.Y. (2016). China: Water scheme acts as ecological buffer. *Nature*, 529(7586), 283-283.
   
-**Conference Papers**
+## Conference Papers
 - Lin, H. Zeng, S.X. Ma, H.Y. Wu, P.P. The stakeholder coupling and megaproject social responsibility: A moderated moderating investigation. *Construction Research Congress*, Philadelphia, 2020.
 - Ma, H.Y. Wu, B.* Zeng, S.X. The impact of high-speed railways on rural income distribution in China. *International Megaprojects Workshop: Theory Meets Practice*, Shanghai, 2018; *Annual Conference of Management Science & Engineering Society*, Kunming, 2018.
 - Ma, H.Y. Zeng, S.X.* Li, S.N. Customer focus and product innovation: An absorptive capacity perspective. *Global Innovation & Knowledge Academy Conference*, Lisbon, 2017.
 - Ma, H.Y. Zeng, S.X.* Lin, H. Chen, H.Q. International diversification and corporate social responsibility: A perspective of contractors from emerging economies.  *Strategic Management Society Special Conference*, Sydney, 2014.
 - Lin, H. Zeng, S.X.* Ma, H.Y. How political connection affect corporate environmental performance: An empirical examination. *International Conference of Supply Chain Management*, Shanghai, 2013.
   
-**Working Papers**
+## Working Papers
 - Ma, H.Y. Lv, K.J. Zeng, S.X.* Lin, H. Shi, J.J. Climbing the pyramid of megaproject social responsibility. (R&R at JCEM)
 - Du, J. Wang, W.X. Ma, H.Y.* Sugumaran, V. Stakeholder cooperation mechanism for prefabricated construction projects. (Under review at JCEM)
 - Ma, H.Y. Zou, J.J. Zou, H.L.* The longer, the further? An empirical study of "going out" Chinese listed firms. (Manuscripit finished)
@@ -126,7 +126,7 @@ Ad hoc reviewer for:
 - Ma, H.Y.* Kong, Z.J. Institutional logic of international PPP project governance. (Manuscript writing, target: JCEM)
 - Ma, H.Y.* Kong, Z.J. Institutional voids, resilience, and performance of international PPP projects. (Data collection, target: IEEE-TEM)
   
-**Research Grants**
+## Research Grants
 - The governance for sustainability of international PPP projects: A perspective of institutional logic. (Youth Grant, Humanities and Social Sciences Research Projects, MOE, 2020-2023). Principal investigator.
 - The governance of international PPP projects: A perspective of sustainable development (Grant of Key Lab for Public Engineering Audit of Jiangsu Province, NAU, No. GGSS2016-13, 2017). Principal Investigator.
 - Innovation islands, flexible innovation, and capacity promotion for mega infrastructure projects (Major International/Regional Joint Research Project, NSFC, No. 71620107004, 2017-2022). Co-investigator.
@@ -135,7 +135,7 @@ Ad hoc reviewer for:
 
 
 # 💬 Teaching
-**Curriculum Instruction**  
+$$ Curriculum Instruction  
 2018-present: Shanghai University  
 &emsp;&emsp; Coordinator: Academic Standards and Essay Writing (MSc, 2022-)  
 &emsp;&emsp; Coordinator: Empirical Methods in Organization and Management Research (MSc, 2018-)  
@@ -153,7 +153,7 @@ Ad hoc reviewer for:
 &emsp;&emsp; TA: Project Management (Undergraduate)  
 &emsp;&emsp; TA: Technological Innovation & Management (Undergraduate)
   
-**Student Supervision**  
+## Student Supervision  
 2018-present: Shanghai University  
 &emsp;&emsp; Yao Lin, Zijiong Kong (MSc, 2021-)  
 &emsp;&emsp; Jingjie Zou (MSc, 2019-)  
