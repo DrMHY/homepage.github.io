@@ -136,19 +136,19 @@ Science & Technology Department of Tibet
 
 # 💬 Teaching
 ## Curriculum Instruction  
-- Coordinator: (SHU-MSc) Academic Standards and Essay Writing, 2022-  
-- Coordinator: (SHU-MSc) Empirical Methods in Organization and Management Research, 2018-  
-- Coordinator: (SHU-Undergraduate) Project Management, 2021-  
-- Coordinator: (SHU-Undergraduate) Qualitative Research in Management, 2020-  
-- Coordinator: (SHU-Undergraduate) Management Thinking: BA Introduction, 2020-
-- Coordinator: (UTS-MEM) Engineering Project Preparation, 2021-  
-- Coordinator: (UTS-MEM) Judgement and Decision Making, 2021-    
-- Instructor: (SHU-Undergraduate) New Retailing Management, 2021-2021  
-- Instructor: (SHU-Undergraduate) Principles of Management, 2019-2019  
-- TA: (SHU-Undergraduate) Marketing Foundations, 2020-2020  
-- TA: (SHU-Undergraduate) Management Thinking: BA Introduction, 2019-2019  
-- TA: (SJTU-Undergraduate) Project Management, 2013-2016  
-- TA: (SJTU-Undergraduate) Technological Innovation & Management, 2013-2016
+- Coordinator for: (SHU-MSc) Academic Standards and Essay Writing, 2022-  
+- Coordinator for: (SHU-MSc) Empirical Methods in Organization and Management Research, 2018-  
+- Coordinator for: (SHU-Undergraduate) Project Management, 2021-  
+- Coordinator for: (SHU-Undergraduate) Qualitative Research in Management, 2020-  
+- Coordinator for: (SHU-Undergraduate) Management Thinking (BA Introduction), 2020-
+- Coordinator for: (UTS-MEM) Engineering Project Preparation, 2021-  
+- Coordinator for: (UTS-MEM) Judgement and Decision Making, 2021-    
+- Instructor for: (SHU-Undergraduate) New Retailing Management, 2021-2021  
+- Instructor for: (SHU-Undergraduate) Principles of Management, 2019-2019  
+- TA for: (SHU-Undergraduate) Marketing Foundations, 2020-2020  
+- TA for: (SHU-Undergraduate) Management Thinking (BA Introduction), 2019-2019  
+- TA for: (SJTU-Undergraduate) Project Management, 2013-2016  
+- TA for: (SJTU-Undergraduate) Technological Innovation & Management, 2013-2016
 
 ## Student Supervision  
 - Zijiong Kong, Yao Lin (SHU-MSc, 2021-)  
@@ -165,5 +165,5 @@ Science & Technology Department of Tibet
 - National Scholarship for Overseas Exchange PhD Students (CSC, 2016).
 - National Scholarship for Graduate Students (MOE of China, 2016).
 - Bronze Prize for Chinese Youth Volunteers Award (CYL of China, 2010).
-- Outstanding Student (SJTU, 2015, 2007).
+- Outstanding Student (SJTU, 2015 & 2007).
 
