@@ -152,7 +152,8 @@ Ad hoc reviewer for:
 
 ## Student Supervision  
 - Zijiong Kong, Yao Lin (SHU-MSc, 2021-)  
-- Jingjie Zou (SHU-MSc, 2019-)  
+- Jingjie Zou (SHU-MSc, 2019-)
+- Siyi Ji, Qifeng Jin, Xuejun Shen, Yiqing Wen (UTS-MEM, 2022)    
 - Shifan Gu, Siyang Xie (UTS-MEM, 2021)
 
 
