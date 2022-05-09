@@ -26,23 +26,23 @@ Contact:
 
 # 📖 Experience
 ## Affiliation  
-2018-present: SILC Business School, Shanghai University  
+Shanghai University, SILC Business School  
 &emsp;&emsp; Associate Professor of Management, 2021-  
 &emsp;&emsp; Lecturer (Scholarly Academic) of Management, 2018-2021  
-2021-present: Faculty of Engineering & Information Technology, University of Technology Sydney  
+University of Technology Sydney, Faculty of Engineering & Information Technology   
 &emsp;&emsp; Lecturer (Joint-Appointment) of Engineering Management, 2021-  
-2016-2017: Ross School of Business, University of Michigan  
-&emsp;&emsp; Visiting Scholar of Strategy (Supervised by [Prof. Brian X. Wu](https://michiganross.umich.edu/faculty-research/faculty/brian-wu))  
-2014-2015: Faculty of Construction & Environment, Hong Kong Polytechnic University  
-&emsp;&emsp; Research Assistant of Building & Real Estate (Supervised by [Prof. Geoffrey Q.P. Shen](https://www.polyu.edu.hk/bre/people/academic-staff/prof-geoffrey-qp-shen/))  
+University of Michigan, Ross School of Business,   
+&emsp;&emsp; Visiting Scholar of Strategy (Supervised by [Prof. Brian X. Wu](https://michiganross.umich.edu/faculty-research/faculty/brian-wu)), 2016-2017  
+Hong Kong Polytechnic University, Faculty of Construction & Environment,   
+&emsp;&emsp; Research Assistant of Building & Real Estate (Supervised by [Prof. Geoffrey Q.P. Shen](https://www.polyu.edu.hk/bre/people/academic-staff/prof-geoffrey-qp-shen/)), 2014-2015  
   
 ## Education  
-2011-2018: Antai College of Economics & Management, Shanghai Jiao Tong University  
-&emsp;&emsp; Ph.D. in Management Science & Engineering (supervised by [Prof. Saixing Zeng](https://www.acem.sjtu.edu.cn/faculty/zengsaixing.html))  
-&emsp;&emsp; with the Excellent Doctoral Dissertation by Society of Management Science and Engineering of China  
-&emsp;&emsp; with the Excellent Doctoral Dissertation by Shanghai Jiao Tong University  
-2005-2009: School of Mechanical Engineering, Shanghai Jiao Tong University  
-&emsp;&emsp; B.E. in Mechanical Engineering & Automation (Supervised by [Prof. Sun Jin](https://me.sjtu.edu.cn/teacher_directory1/jinsun.html))  
+Shanghai Jiao Tong University, Antai College of Economics & Management   
+&emsp;&emsp; Ph.D. in Management Science & Engineering (supervised by [Prof. Saixing Zeng](https://www.acem.sjtu.edu.cn/faculty/zengsaixing.html)), 2011-2018  
+&emsp;&emsp; with the Excellent Doctoral Dissertation (2019) by Society of Management Science and Engineering of China  
+&emsp;&emsp; with the Excellent Doctoral Dissertation (2019) by Shanghai Jiao Tong University  
+Shanghai Jiao Tong University, School of Mechanical Engineering  
+&emsp;&emsp; B.E. in Mechanical Engineering & Automation (Supervised by [Prof. Sun Jin](https://me.sjtu.edu.cn/teacher_directory1/jinsun.html)), 2005-2009  
   
 ## Services  
 Committee for Shanghai Systems Engineering Society of China, 2021-  
@@ -70,10 +70,10 @@ Ad hoc reviewer for:
 &emsp;&emsp; Sustainable Development*  
   
 ## Other Experience  
-2012-2012: Deloitte Consulting (China)  
-&emsp;&emsp; Intern for data management and project management.  
-2009-2010: Science & Technology Department of Tibet  
-&emsp;&emsp; Volunteer for Xibu Youth Project.
+Deloitte Consulting (China)  
+&emsp;&emsp; Intern for data management and project management, 2012-2012  
+Science & Technology Department of Tibet  
+&emsp;&emsp; Volunteer for Xibu Youth Project, 2009-2010 
 
 
 # 📝 Research 
