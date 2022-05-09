@@ -31,9 +31,9 @@ Shanghai University, SILC Business School
 &emsp;&emsp; Lecturer (Scholarly Academic) of Management, 2018-2021  
 University of Technology Sydney, Faculty of Engineering & Information Technology   
 &emsp;&emsp; Lecturer (Joint-Appointment) of Engineering Management, 2021-  
-University of Michigan, Ross School of Business,   
+University of Michigan, Ross School of Business   
 &emsp;&emsp; Visiting Scholar of Strategy (Supervised by [Prof. Brian X. Wu](https://michiganross.umich.edu/faculty-research/faculty/brian-wu)), 2016-2017  
-Hong Kong Polytechnic University, Faculty of Construction & Environment,   
+Hong Kong Polytechnic University, Faculty of Construction & Environment   
 &emsp;&emsp; Research Assistant of Building & Real Estate (Supervised by [Prof. Geoffrey Q.P. Shen](https://www.polyu.edu.hk/bre/people/academic-staff/prof-geoffrey-qp-shen/)), 2014-2015  
   
 ## Education  
@@ -45,9 +45,9 @@ Shanghai Jiao Tong University, School of Mechanical Engineering
 &emsp;&emsp; B.E. in Mechanical Engineering & Automation (Supervised by [Prof. Sun Jin](https://me.sjtu.edu.cn/teacher_directory1/jinsun.html)), 2005-2009  
   
 ## Services  
-Committee for Shanghai Systems Engineering Society of China, 2021-  
-Committee for SILC Youth Teacher Sodality, Shanghai University, 2021-  
-Guest associated editor for *Frontiers of Engineering Management*, 2018-2019  
+Committee for: Shanghai Systems Engineering Society of China, 2021-  
+Committee for: SILC Youth Teacher Sodality, Shanghai University, 2021-  
+Guest associated editor for: *Frontiers of Engineering Management*, 2018-2019  
 Ad hoc reviewer for:  
 &emsp;&emsp; *Academy of International Business Annual Meeting  
 &emsp;&emsp; Academy of Management Annual Meeting  
