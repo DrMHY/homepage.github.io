@@ -45,9 +45,9 @@ Contact:
 &emsp;&emsp; B.E. in Mechanical Engineering & Automation (Supervised by [Prof. Sun Jin](https://me.sjtu.edu.cn/teacher_directory1/jinsun.html))  
   
 ## Services  
-2021-present: Committee for Shanghai Systems Engineering Society of China  
-2021-present: Committee for SILC Youth Teacher Sodality, Shanghai University  
-2018-2019: Guest associated editor for *Frontiers of Engineering Management*, 2018-2019  
+Committee for Shanghai Systems Engineering Society of China, 2021-  
+Committee for SILC Youth Teacher Sodality, Shanghai University, 2021-  
+Guest associated editor for *Frontiers of Engineering Management*, 2018-2019  
 Ad hoc reviewer for:  
 &emsp;&emsp; *Academy of International Business Annual Meeting  
 &emsp;&emsp; Academy of Management Annual Meeting  
