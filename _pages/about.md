@@ -73,7 +73,7 @@ Contact:
 ## Other Experience  
 &emsp;**Deloitte Consulting (China)**  
 &emsp;&emsp; Intern for data management and project management, 2012-2012  
-**Science & Technology Department of Tibet**  
+&emsp;**Science & Technology Department of Tibet**  
 &emsp;&emsp;&emsp; Volunteer for Xibu Youth Project, 2009-2010 
 
 
