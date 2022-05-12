@@ -113,7 +113,7 @@ Ad hoc reviewer for:
 - Ma, H.Y. Wu, B.* Zeng, S.X. The impact of high-speed railways on rural income distribution in China. *International Megaprojects Workshop: Theory Meets Practice*, Shanghai, 2018; *Annual Conference of Management Science & Engineering Society*, Kunming, 2018.
 - Ma, H.Y. Zeng, S.X.* Li, S.N. Customer focus and product innovation: An absorptive capacity perspective. *Global Innovation & Knowledge Academy Conference*, Lisbon, 2017.
 - Ma, H.Y. Zeng, S.X.* Lin, H. Chen, H.Q. International diversification and corporate social responsibility: A perspective of contractors from emerging economies.  *Strategic Management Society Special Conference*, Sydney, 2014.
-- Lin, H. Zeng, S.X.* Ma, H.Y. How political connection affect corporate environmental performance: An empirical examination. *International Conference of Supply Chain Management*, Shanghai, 2013.
+- Lin, H. Zeng, S.X.* Ma, H.Y. How political connection affect corporate environmental performance: An empirical examination. *International Conference of Operations and Supply Chain Management*, Shanghai, 2013.
   
 ## Working Papers
 - Ma, H.Y. Lv, K.J. Zeng, S.X.* Lin, H. Shi, J.J. Climbing the pyramid of megaproject social responsibility. (R&R at JCEM)
