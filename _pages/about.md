@@ -77,7 +77,7 @@ Contact:
 &emsp;&emsp; Volunteer for Xibu Youth Project, 2009-2010 
 
 
-# 📝 Research 
+# 📝 RESEARCH 
 ## Journal Articles
 - Zeng, S.X. Chen, H.Q.* Ma, H.Y. Shi, J.J. (2022). Governance of social responsibility in international infrastructure megaprojects. *Frontiers of Engineering Management*, in press, DOI: 10.1007/s42524-022-0191-7.
 - Ma, H.Y. Sun, D.X. Zeng, S.X.* Lin, H. Shi, J.J. (2021). The effects of megaproject social responsibility on participating organizations. *Project Management Journal*, 52(5), 418-433.
@@ -135,7 +135,7 @@ Contact:
 - Green innovation management of enterprises (Shanghai Outstanding Academic Leaders Program, 2014-2017). Co-investigator.
 
 
-# 💬 Teaching
+# 💬 TEACHING
 ## Curriculum Instruction  
 - Coordinator for: (SHU-MSc) Academic Standards and Essay Writing, 2022-  
 - Coordinator for: (SHU-MSc) Empirical Methods in Organization and Management Research, 2018-  
@@ -158,7 +158,7 @@ Contact:
 - Shifan Gu, Siyang Xie (UTS-MEM, 2021)
 
 
-# 🎖 Honors and Awards
+# 🎖 HONORS AND AWARDS
 - Choi Koon-Shum Outstanding Young Teacher (SHU, 2021).
 - First Prize for National Science & Technology Progress Award (MOE of China, 2019).
 - Excellent Doctoral Dissertation (Society of Mgt. Sci. & Eng. of China, 2019).
