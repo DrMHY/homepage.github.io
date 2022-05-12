@@ -63,8 +63,8 @@ Contact:
 &emsp;&emsp; Journal of Construction Engineering and Management  
 &emsp;&emsp; Journal of Environmental Planning and Management  
 &emsp;&emsp; Journal of Management in Engineering  
-&emsp;&emsp; Journal of Systems and Management (系统管理学报, a Chinese journal)  
-&emsp;&emsp; Management Decision  
+&emsp;&emsp; Journal of Systems and Management* (系统管理学报, a Chinese journal)*  
+&emsp;&emsp; *Management Decision  
 &emsp;&emsp; Research Policy  
 &emsp;&emsp; Strategic Entrepreneurship Journal  
 &emsp;&emsp; Sustainability  
@@ -118,7 +118,7 @@ Contact:
 ## Working Papers
 - Ma, H.Y. Lv, K.J. Zeng, S.X.* Lin, H. Shi, J.J. Climbing the pyramid of megaproject social responsibility. (R&R at JCEM)
 - Du, J. Wang, W.X. Ma, H.Y.* Sugumaran, V. Stakeholder cooperation mechanism for prefabricated construction projects. (Under review at JCEM)
-- Ma, H.Y. Zou, J.J. Zou, H.L.* The longer, the further? An empirical study of "going out" Chinese listed firms. (Ready for submission)
+- Ma, H.Y. Zou, J.J. Zou, H.L.* The longer, the further? An empirical study of "going out" Chinese listed firms. (Submitted to 经济与管理)
 - Yuan, M. Yu, M.C. Ma, H.Y. Zhao Z.Y. Lin, H.* Why construction workers go "bad": A multilevel investigation into the role of collective moral judgment in workplace deviant behavior. (R&R at JCEM)
 - Wang, J.Y. Han, S.W. Lin, H.* Ma, H.Y. Wu, H.Q. Yuan, J.F. Can New-type Urbanization pave a green way for China? A prefecture-level investigation. (Rejected by PNAS)
 - Chen, H.Q. Zeng, S.X. Ma, H.Y.* Tam, C.M. Shi, J.J. Expansion rhythm and international performance of Chinese contractors. (Manuscript finished, target: IEEE-TEM)
