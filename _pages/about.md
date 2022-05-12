@@ -25,7 +25,7 @@ Contact:
 &emsp;&emsp; [hanyang.ma@uts.edu.au](mailto:hanyang.ma@uts.edu.au) (for UTS affairs)  
 
 
-# 📖 Experience
+# 📖 EXPERIENCE
 ## Affiliation  
 &emsp; **Shanghai University, SILC Business School**  
 &emsp;&emsp; Associate Professor of Management, 2021-  
