@@ -27,9 +27,9 @@ Contact:
 
 # 📖 Experience
 ## Affiliation  
-> **Shanghai University, SILC Business School**  
->> Associate Professor of Management, 2021-  
->> Lecturer (Scholarly Academic) of Management, 2018-2021  
+&emsp; **Shanghai University, SILC Business School**  
+&emsp;&emsp; Associate Professor of Management, 2021-  
+&emsp;&emsp; Lecturer (Scholarly Academic) of Management, 2018-2021  
 &emsp;**University of Technology Sydney, Faculty of Engineering & Information Technology**   
 &emsp;&emsp; Lecturer (Joint-Appointment) of Engineering Management, 2021-  
 &emsp;**University of Michigan, Ross School of Business**   
