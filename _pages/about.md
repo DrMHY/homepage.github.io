@@ -126,6 +126,7 @@ Contact:
 - Ma, H.Y.* Lin, Y. Industrial environment and contractors' international performance. (In empirical analysis, target: JCEM)
 - Ma, H.Y.* Kong, Z.J. Institutional logic of international PPP project governance. (Manuscript writing, target: JCEM)
 - Ma, H.Y.* Kong, Z.J. Institutional voids, resilience, and performance of international PPP projects. (Data collection, target: IEEE-TEM)
+- Ma, H.Y.* Heterogeneous responses for the social responsibility in international projects: An economic model. (in progress) 
   
 ## Research Grants
 - The governance for sustainability of international PPP projects: A perspective of institutional logic. (Youth Grant, Humanities and Social Sciences Research Projects, MOE, 2020-2023). Principal investigator.
