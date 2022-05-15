@@ -29,52 +29,52 @@ Contact:
 ## Affiliation  
 - **Shanghai University, SILC Business School**  
   - Associate Professor of Management, 2021-  
-&emsp;&emsp; Lecturer (Scholarly Academic) of Management, 2018-2021  
-&emsp;**University of Technology Sydney, Faculty of Engineering & Information Technology**   
-&emsp;&emsp; Lecturer (Joint-Appointment) of Engineering Management, 2021-  
-&emsp;**University of Michigan, Ross School of Business**   
-&emsp;&emsp; Visiting Scholar of Strategy (Supervised by [Prof. Brian X. Wu](https://michiganross.umich.edu/faculty-research/faculty/brian-wu)), 2016-2017  
-&emsp;**Hong Kong Polytechnic University, Faculty of Construction & Environment**   
-&emsp;&emsp; Research Assistant of Building & Real Estate (Supervised by [Prof. Geoffrey Q.P. Shen](https://www.polyu.edu.hk/bre/people/academic-staff/prof-geoffrey-qp-shen/)), 2014-2015  
+  - Lecturer (Scholarly Academic) of Management, 2018-2021  
+- **University of Technology Sydney, Faculty of Engineering & Information Technology**   
+  - Lecturer (Joint-Appointment) of Engineering Management, 2021-  
+- **University of Michigan, Ross School of Business**   
+  - Visiting Scholar of Strategy (Supervised by [Prof. Brian X. Wu](https://michiganross.umich.edu/faculty-research/faculty/brian-wu)), 2016-2017  
+- **Hong Kong Polytechnic University, Faculty of Construction & Environment**   
+  - Research Assistant of Building & Real Estate (Supervised by [Prof. Geoffrey Q.P. Shen](https://www.polyu.edu.hk/bre/people/academic-staff/prof-geoffrey-qp-shen/)), 2014-2015  
   
 ## Education  
-&emsp;**Shanghai Jiao Tong University, Antai College of Economics & Management**   
-&emsp;&emsp; Ph.D. in Management Science & Engineering (supervised by [Prof. Saixing Zeng](https://www.acem.sjtu.edu.cn/faculty/zengsaixing.html)), 2011-2018  
-&emsp;&emsp; with the Excellent Doctoral Dissertation (2019) by Society of Management Science and Engineering of China  
-&emsp;&emsp; with the Excellent Doctoral Dissertation (2019) by Shanghai Jiao Tong University  
-&emsp;**Shanghai Jiao Tong University, School of Mechanical Engineering**  
-&emsp;&emsp; B.E. in Mechanical Engineering & Automation (Supervised by [Prof. Sun Jin](https://me.sjtu.edu.cn/teacher_directory1/jinsun.html)), 2005-2009  
+- **Shanghai Jiao Tong University, Antai College of Economics & Management**   
+  - Ph.D. in Management Science & Engineering (supervised by [Prof. Saixing Zeng](https://www.acem.sjtu.edu.cn/faculty/zengsaixing.html)), 2011-2018  
+  - with the Excellent Doctoral Dissertation (2019) by Society of Management Science and Engineering of China  
+  - with the Excellent Doctoral Dissertation (2019) by Shanghai Jiao Tong University  
+- **Shanghai Jiao Tong University, School of Mechanical Engineering**  
+  - B.E. in Mechanical Engineering & Automation (Supervised by [Prof. Sun Jin](https://me.sjtu.edu.cn/teacher_directory1/jinsun.html)), 2005-2009  
   
 ## Services  
-&emsp;Committee for: **Shanghai Systems Engineering Society of China**, 2021-  
-&emsp;Committee for: **SILC Youth Teacher Sodality, Shanghai University**, 2021-  
-&emsp;Guest associated editor for: *Frontiers of Engineering Management*, 2018-2019  
-&emsp;Ad hoc reviewer for:  
-&emsp;&emsp; *Academy of International Business Annual Meeting  
-&emsp;&emsp; Academy of Management Annual Meeting  
-&emsp;&emsp; Business Strategy and the Environment  
-&emsp;&emsp; Chinese Management Studies  
-&emsp;&emsp; Construction Management and Economics  
-&emsp;&emsp; Corporate Social Responsibility and Environmental Management  
-&emsp;&emsp; Engineering, Construction and Architectural Management  
-&emsp;&emsp; Environmental Impact Assessment Review  
-&emsp;&emsp; Frontiers of Engineering Management  
-&emsp;&emsp; International Journal of Project Management  
-&emsp;&emsp; Journal of Construction Engineering and Management  
-&emsp;&emsp; Journal of Environmental Planning and Management  
-&emsp;&emsp; Journal of Management in Engineering  
-&emsp;&emsp; Journal of Systems and Management* (系统管理学报, a Chinese journal)*  
-&emsp;&emsp; *Management Decision  
-&emsp;&emsp; Research Policy  
-&emsp;&emsp; Strategic Entrepreneurship Journal  
-&emsp;&emsp; Sustainability  
-&emsp;&emsp; Sustainable Development*  
+- Committee for: **Shanghai Systems Engineering Society of China**, 2021-  
+- Committee for: **SILC Youth Teacher Sodality, Shanghai University**, 2021-  
+- Guest associated editor for: *Frontiers of Engineering Management*, 2018-2019  
+- Ad hoc reviewer for:  
+  - *Academy of International Business Annual Meeting  
+  - *Academy of Management Annual Meeting  
+  - *Business Strategy and the Environment  
+  - *Chinese Management Studies  
+  - *Construction Management and Economics  
+  - *Corporate Social Responsibility and Environmental Management  
+  - *Engineering, Construction and Architectural Management  
+  - *Environmental Impact Assessment Review  
+  - *Frontiers of Engineering Management  
+  - *International Journal of Project Management  
+  - *Journal of Construction Engineering and Management  
+  - *Journal of Environmental Planning and Management  
+  - *Journal of Management in Engineering  
+  - *Journal of Systems and Management* (系统管理学报, a Chinese journal)*  
+  - *Management Decision  
+  - *Research Policy  
+  - *Strategic Entrepreneurship Journal  
+  - *Sustainability  
+  - *Sustainable Development*  
   
 ## Other Experience  
-&emsp;**Deloitte Consulting (China)**  
-&emsp;&emsp; Intern for data management and project management, 2012-2012  
-&emsp;**Science & Technology Department of Tibet**  
-&emsp;&emsp; Volunteer for Xibu Youth Project, 2009-2010 
+- **Deloitte Consulting (China)**  
+  - Intern for data management and project management, 2012-2012  
+- **Science & Technology Department of Tibet**  
+  - Volunteer for Xibu Youth Project, 2009-2010 
 
 
 # 📝 RESEARCH 
