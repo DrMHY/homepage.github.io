@@ -65,7 +65,7 @@ Dr. Hanyang Ma is an associate professor of management at SILC Business School, 
   - *Journal of Construction Engineering and Management*  
   - *Journal of Environmental Planning and Management*  
   - *Journal of Management in Engineering*  
-  - *Journal of Systems and Management* (系统管理学报, a Chinese journal)*  
+  - *Journal of Systems and Management* (系统管理学报, a Chinese journal)  
   - *Management Decision*  
   - *Research Policy*  
   - *Strategic Entrepreneurship Journal*  
