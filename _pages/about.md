@@ -121,7 +121,7 @@ Dr. Hanyang Ma is an associate professor of management at SILC Business School, 
 - Ma, H.Y. Lv, K.J. Zeng, S.X.* Lin, H. Shi, J.J. Climbing the pyramid of megaproject social responsibility. (R&R at JCEM)
 - Du, J. Wang, W.X. Ma, H.Y.* Sugumaran, V. Stakeholder cooperation mechanism for prefabricated construction projects. (Under review at JCEM)
 - Ma, H.Y. Zou, J.J. Zou, H.L.* The longer, the further? An empirical study of "going out" Chinese listed firms. (Submitted to 经济与管理)
-- Yuan, M. Yu, M.C. Ma, H.Y. Zhao Z.Y. Lin, H.* Why construction workers go "bad": A multilevel investigation into the role of collective moral judgment in workplace deviant behavior. (R&R at JCEM)
+- Yuan, M. Yu, M.C. Ma, H.Y. Zhao Z.Y. Lin, H.* Why construction workers go "bad": A multilevel investigation into the role of collective moral judgment in workplace deviant behavior. (Rejectd by JCEM)
 - Zou, H.L.* Liang, Z.D. Qi, G.Y. Ma, H.Y. Corporate philanthropic response to the COVID 19 pandemic in China: A dilemma? (Under review at SRJ)
 - Wang, J.Y. Han, S.W. Lin, H.* Ma, H.Y. Wu, H.Q. Yuan, J.F. Can New-type Urbanization pave a green way for China? A prefecture-level investigation. (Rejected by PNAS)
 - Chen, H.Q. Zeng, S.X. Ma, H.Y.* Tam, C.M. Shi, J.J. Expansion rhythm and international performance of Chinese contractors. (Manuscript finished, target: IEEE-TEM)
