@@ -60,6 +60,7 @@ Dr. Hanyang Ma is an associate professor of management at SILC Business School, 
 - **Science & Technology Department of Tibet**  
   - Volunteer for Xibu Youth Project, 2009-2010 
 <br />
+<br />
 
   
 # <font color="#00066">📝 RESEARCH</font><br />
