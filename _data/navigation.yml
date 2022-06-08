@@ -4,7 +4,7 @@ main:
     url: "/#about-me"
 
   - title: "Experience"
-    url: "# <center> <font color="#00066"> 📖 EXPERIENCE </font> </center><br />"
+    url: "#-experience"
 
   - title: "Research"
     url: "/#-research"
