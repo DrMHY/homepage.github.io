@@ -124,7 +124,7 @@ Dr. Hanyang Ma is an associate professor of management at SILC Business School, 
  
   
 # <font color="#00066">💬 TEACHING</font><br />
-## Curriculum Instruction  
+## Curriculums  
 - Coordinator for: (SHU-MSc) Academic Standards and Essay Writing, 2022-  
 - Coordinator for: (SHU-MSc) Empirical Methods in Organization and Management Research, 2018-  
 - Coordinator for: (SHU-Undergraduate) Project Management, 2021-  
@@ -139,7 +139,7 @@ Dr. Hanyang Ma is an associate professor of management at SILC Business School, 
 - TA for: (SJTU-Undergraduate) Project Management, 2013-2016  
 - TA for: (SJTU-Undergraduate) Technological Innovation & Management, 2013-2016
 
-## Student Supervision  
+## Students 
 - Zijiong Kong, Yao Lin (SHU-MSc, 2021-)  
 - Jingjie Zou (SHU-MSc, 2019-)
 - Siyi Ji, Qifeng Jin, Xuejun Shen, Yiqing Wen (UTS-MEM, 2022)    
