@@ -19,7 +19,7 @@ redirect_from:
 
 **Welcome to Hanyang's Personal Website!**
   
-Dr. Hanyang Ma is an associate professor of management at SILC Business School, [Shanghai University](https://www.shu.edu.cn/), also a lecturer (joint-appointment) of engineering management at Faculty of Engineering & Information Technology, [University of Technology Sydney](https://www.uts.edu.au/). He received his Ph.D. and B.E. from [Shanghai Jiao Tong University](https://www.sjtu.edu.cn/). His research interest includes corporate social responsibility (CSR), international business, and project management. His work can be organized into two streams, with the first stream related to firm-level management on CSR and international business, and the second related to project-level efforts on stakeholder management. These two streams are linked by a common concern with how created shared value and sustainability are pursued through corporate and project strategies. He has published a series of papers in these two streams with total <a href='https://scholar.google.com/citations?user=YoaF4d0AAAAJ&hl=en&oi=ao'>google scholar citations <strong><span id='YoaF4d0AAAAJ&hl=en&oi=ao'>1000+</span></strong></a>.  
+Dr. Hanyang Ma is an associate professor of management at SILC Business School, [Shanghai University](https://www.shu.edu.cn/), also a lecturer (joint-appointment) of engineering management at Faculty of Engineering & Information Technology, [University of Technology Sydney](https://www.uts.edu.au/). He received his PhD and BE from [Shanghai Jiao Tong University](https://www.sjtu.edu.cn/). His research interest includes corporate social responsibility (CSR), international business, and project management. His work can be organized into two streams, with the first stream related to firm-level management on CSR and international business, and the second related to project-level efforts on stakeholder management. These two streams are linked by a common concern with how created shared value and sustainability are pursued through corporate and project strategies. He has published a series of papers in these two streams with total <a href='https://scholar.google.com/citations?user=YoaF4d0AAAAJ&hl=en&oi=ao'>google scholar citations <strong><span id='YoaF4d0AAAAJ&hl=en&oi=ao'>1000+</span></strong></a>.  
   
 **Contact:**  
     - R303, Wenshang Building, 20 Chengzhong Rd, Jiading, Shanghai 201800, China  
@@ -42,11 +42,11 @@ Dr. Hanyang Ma is an associate professor of management at SILC Business School, 
   
 ## Education  
 - **Shanghai Jiao Tong University, Antai College of Economics & Management**   
-  - Ph.D. in Management Science & Engineering (supervised by [Prof. Saixing Zeng](https://www.acem.sjtu.edu.cn/faculty/zengsaixing.html)), 2011-2018  
-  - with the Excellent Doctoral Dissertation (2019) by Society of Management Science and Engineering of China  
-  - with the Excellent Doctoral Dissertation (2019) by Shanghai Jiao Tong University  
+  - PhD in Management Science & Engineering (supervised by [Prof. Saixing Zeng](https://www.acem.sjtu.edu.cn/faculty/zengsaixing.html)), 2011-2018  
+  - with Excellent Doctoral Dissertation by Society of Management Science and Engineering of China  
+  - with Excellent Doctoral Dissertation by Shanghai Jiao Tong University  
 - **Shanghai Jiao Tong University, School of Mechanical Engineering**  
-  - B.E. in Mechanical Engineering & Automation (Supervised by [Prof. Sun Jin](https://me.sjtu.edu.cn/teacher_directory1/jinsun.html)), 2005-2009  
+  - BE in Mechanical Engineering & Automation (Supervised by [Prof. Sun Jin](https://me.sjtu.edu.cn/teacher_directory1/jinsun.html)), 2005-2009  
   
 ## Services  
 - Committee for: **Shanghai Systems Engineering Society of China**, 2021-  
