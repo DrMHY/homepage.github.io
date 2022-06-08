@@ -26,8 +26,9 @@ Dr. Hanyang Ma is an associate professor of management at SILC Business School, 
     - [mahanyang@shu.edu.cn](mailto:mahanyang@shu.edu.cn) (for SHU affairs)  
     - [hanyang.ma@uts.edu.au](mailto:hanyang.ma@uts.edu.au) (for UTS affairs)  
 
-   
-# <center> <font color="#00066"> 📖 EXPERIENCE </font> </center> <br />
+
+ <br />
+# <center> <font color="#00066"> 📖 EXPERIENCE </font> </center>
 ## Affiliation  
 - **Shanghai University, SILC Business School**  
   - Associate Professor of Management, 2021-  
@@ -59,8 +60,9 @@ Dr. Hanyang Ma is an associate professor of management at SILC Business School, 
 - **Science & Technology Department of Tibet**  
   - Volunteer for Xibu Youth Project, 2009-2010 
 
-  
-# 📝 RESEARCH 
+
+ <br />
+#  <center> <font color="#00066"> 📝 RESEARCH </font> </center>
 ## Journal Articles
 - Zeng, S.X. Chen, H.Q.* Ma, H.Y. Shi, J.J. (2022). Governance of social responsibility in international infrastructure megaprojects. *Frontiers of Engineering Management*, in press, DOI: 10.1007/s42524-022-0191-7.
 - Ma, H.Y. Sun, D.X. Zeng, S.X.* Lin, H. Shi, J.J. (2021). The effects of megaproject social responsibility on participating organizations. *Project Management Journal*, 52(5), 418-433.
@@ -120,7 +122,8 @@ Dr. Hanyang Ma is an associate professor of management at SILC Business School, 
 - Green innovation management of enterprises (Shanghai Outstanding Academic Leaders Program, 2014-2017). Co-investigator.
 
 
-# 💬 TEACHING
+ <br />
+# <center> <font color="#00066"> 💬 TEACHING </font> </center>
 ## Curriculum Instruction  
 - Coordinator for: (SHU-MSc) Academic Standards and Essay Writing, 2022-  
 - Coordinator for: (SHU-MSc) Empirical Methods in Organization and Management Research, 2018-  
@@ -143,7 +146,8 @@ Dr. Hanyang Ma is an associate professor of management at SILC Business School, 
 - Shifan Gu, Siyang Xie (UTS-MEM, 2021)
 
 
-# 🎖 HONORS AND AWARDS
+ <br />
+# <center> <font color="#00066"> 🎖 HONORS AND AWARDS </font> </center>
 - Choi Koon-Shum Outstanding Young Teacher (SHU, 2021).
 - First Prize for National Science & Technology Progress Award (MOE of China, 2019).
 - Excellent Doctoral Dissertation (Society of Mgt. Sci. & Eng. of China, 2019).
