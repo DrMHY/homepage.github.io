@@ -28,7 +28,7 @@ Dr. Hanyang Ma is an associate professor of management at SILC Business School, 
 
 
  <br />
-# <center> <font color="#00066"> 📖 EXPERIENCE </font> </center>  
+# <center> <font color="#00066"> 📖 EXPERIENCE </font> </center><br />
 ## Affiliation  
 - **Shanghai University, SILC Business School**  
   - Associate Professor of Management, 2021-  
@@ -62,7 +62,7 @@ Dr. Hanyang Ma is an associate professor of management at SILC Business School, 
 
 
  <br />
-#  <center> <font color="#00066"> 📝 RESEARCH </font> </center>  
+#  <center> <font color="#00066"> 📝 RESEARCH </font> </center><br />
 ## Journal Articles
 - Zeng, S.X. Chen, H.Q.* Ma, H.Y. Shi, J.J. (2022). Governance of social responsibility in international infrastructure megaprojects. *Frontiers of Engineering Management*, in press, DOI: 10.1007/s42524-022-0191-7.
 - Ma, H.Y. Sun, D.X. Zeng, S.X.* Lin, H. Shi, J.J. (2021). The effects of megaproject social responsibility on participating organizations. *Project Management Journal*, 52(5), 418-433.
@@ -123,7 +123,7 @@ Dr. Hanyang Ma is an associate professor of management at SILC Business School, 
 
 
  <br />
-# <center> <font color="#00066"> 💬 TEACHING </font> </center>  
+# <center> <font color="#00066"> 💬 TEACHING </font> </center><br />
 ## Curriculum Instruction  
 - Coordinator for: (SHU-MSc) Academic Standards and Essay Writing, 2022-  
 - Coordinator for: (SHU-MSc) Empirical Methods in Organization and Management Research, 2018-  
@@ -147,7 +147,7 @@ Dr. Hanyang Ma is an associate professor of management at SILC Business School, 
 
 
  <br />
-# <center> <font color="#00066"> 🎖 HONORS AND AWARDS </font> </center>  
+# <center> <font color="#00066"> 🎖 HONORS AND AWARDS </font> </center><br />
 - Choi Koon-Shum Outstanding Young Teacher (SHU, 2021).
 - First Prize for National Science & Technology Progress Award (MOE of China, 2019).
 - Excellent Doctoral Dissertation (Society of Mgt. Sci. & Eng. of China, 2019).
