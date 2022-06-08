@@ -38,7 +38,7 @@ Dr. Hanyang Ma is an associate professor of management at SILC Business School, 
 - **University of Michigan, Ross School of Business**   
   - Visiting Scholar of Strategy (Supervised by [Prof. Brian X. Wu](https://michiganross.umich.edu/faculty-research/faculty/brian-wu)), 2016-2017  
 - **Hong Kong Polytechnic University, Faculty of Construction & Environment**   
-  - Research Assistant of Building & Real Estate (Supervised by [Prof. Geoffrey Q.P. Shen](https://www.polyu.edu.hk/bre/people/academic-staff/prof-geoffrey-qp-shen/)), 2014-2015  
+  - RA of Building & Real Estate (Supervised by [Prof. Geoffrey Q.P. Shen](https://www.polyu.edu.hk/bre/people/academic-staff/prof-geoffrey-qp-shen/)), 2014-2015  
   
 ## Education  
 - **Shanghai Jiao Tong University, Antai College of Economics & Management**   
