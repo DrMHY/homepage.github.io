@@ -26,9 +26,8 @@ Dr. Hanyang Ma is an associate professor of management at SILC Business School, 
     - [mahanyang@shu.edu.cn](mailto:mahanyang@shu.edu.cn) (for SHU affairs)  
     - [hanyang.ma@uts.edu.au](mailto:hanyang.ma@uts.edu.au) (for UTS affairs)  
 
-
-#   
-# <font color="#00066"> 📖 EXPERIENCE </font><br />
+   
+# <center> <font color="#00066"> 📖 EXPERIENCE </font> </center> <br />
 ## Affiliation  
 - **Shanghai University, SILC Business School**  
   - Associate Professor of Management, 2021-  
@@ -60,7 +59,7 @@ Dr. Hanyang Ma is an associate professor of management at SILC Business School, 
 - **Science & Technology Department of Tibet**  
   - Volunteer for Xibu Youth Project, 2009-2010 
 
-
+  
 # 📝 RESEARCH 
 ## Journal Articles
 - Zeng, S.X. Chen, H.Q.* Ma, H.Y. Shi, J.J. (2022). Governance of social responsibility in international infrastructure megaprojects. *Frontiers of Engineering Management*, in press, DOI: 10.1007/s42524-022-0191-7.
