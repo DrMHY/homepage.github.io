@@ -27,7 +27,6 @@ Dr. Hanyang Ma is an associate professor of management at SILC Business School, 
     - [hanyang.ma@uts.edu.au](mailto:hanyang.ma@uts.edu.au) (for UTS affairs)  
 
 
- <br />
 # <center> <font color="#00066"> 📖 EXPERIENCE </font> </center><br />
 ## Affiliation  
 - **Shanghai University, SILC Business School**  
