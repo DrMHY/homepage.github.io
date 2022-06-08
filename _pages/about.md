@@ -26,8 +26,9 @@ Dr. Hanyang Ma is an associate professor of management at SILC Business School, 
     - [mahanyang@shu.edu.cn](mailto:mahanyang@shu.edu.cn) (for SHU affairs)  
     - [hanyang.ma@uts.edu.au](mailto:hanyang.ma@uts.edu.au) (for UTS affairs)  
   
-
-# <center> <font color="#00066"> 📖 EXPERIENCE </font> </center><br />
+  
+<center> <font color="#00066">
+# 📖 EXPERIENCE </font> </center><br />
 ## Affiliation  
 - **Shanghai University, SILC Business School**  
   - Associate Professor of Management, 2021-  
