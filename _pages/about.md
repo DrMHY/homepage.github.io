@@ -25,9 +25,10 @@ Dr. Hanyang Ma is an associate professor of management at SILC Business School, 
     - R303, Wenshang Building, 20 Chengzhong Rd, Jiading, Shanghai 201800, China  
     - [mahanyang@shu.edu.cn](mailto:mahanyang@shu.edu.cn) (for SHU affairs)  
     - [hanyang.ma@uts.edu.au](mailto:hanyang.ma@uts.edu.au) (for UTS affairs)  
+<br />
+
   
-  
-# <font color="#00066"><center>📖 EXPERIENCE<center></font><br />
+# <font color="#00066">📖 EXPERIENCE</font><br />
 ## Affiliation  
 - **Shanghai University, SILC Business School**  
   - Associate Professor of Management, 2021-  
@@ -58,7 +59,8 @@ Dr. Hanyang Ma is an associate professor of management at SILC Business School, 
   - Intern for data management and project management, 2012-2012  
 - **Science & Technology Department of Tibet**  
   - Volunteer for Xibu Youth Project, 2009-2010 
-  
+<br />
+ 
 
 # <font color="#00066">📝 RESEARCH</font><br />
 ## Journal Articles
@@ -118,6 +120,7 @@ Dr. Hanyang Ma is an associate professor of management at SILC Business School, 
 - Innovation islands, flexible innovation, and capacity promotion for mega infrastructure projects (Major International/Regional Joint Research Project, NSFC, 2017-2022). Co-investigator.
 - Research on the social responsibility, industrial core competence, and sustainable development for mega infrastructure engineering (Major Research Project, NSFC, 2014-2018). Co-investigator.
 - Green innovation management of enterprises (Shanghai Outstanding Academic Leaders Program, 2014-2017). Co-investigator.
+<br />
   
 
 # <font color="#00066">💬 TEACHING</font><br />
@@ -141,6 +144,7 @@ Dr. Hanyang Ma is an associate professor of management at SILC Business School, 
 - Jingjie Zou (SHU-MSc, 2019-)
 - Siyi Ji, Qifeng Jin, Xuejun Shen, Yiqing Wen (UTS-MEM, 2022)    
 - Shifan Gu, Siyang Xie (UTS-MEM, 2021)
+<br />
   
 
 # <font color="#00066">🎖 HONORS AND AWARDS</font><br />
