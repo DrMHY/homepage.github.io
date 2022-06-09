@@ -66,7 +66,7 @@ Dr. Hanyang Ma is an associate professor of management at SILC Business School, 
   
 # <font color="#00066">📝 RESEARCH</font><br />
 ## Journal Articles
-- Zeng, S.X. Chen, H.Q.* Ma, H.Y. Shi, J.J. (2022). Governance of social responsibility in international infrastructure megaprojects. *Frontiers of Engineering Management*, in press, DOI: 10.1007/s42524-022-0191-7.
+- Zeng, S.X. Chen, H.Q.* Ma, H.Y. Shi, J.J. (2022). Governance of social responsibility in international infrastructure megaprojects. *Frontiers of Engineering Management*, 9(2), 343-348.
 - Ma, H.Y. Sun, D.X. Zeng, S.X.* Lin, H. Shi, J.J. (2021). The effects of megaproject social responsibility on participating organizations. *Project Management Journal*, 52(5), 418-433.
 - Sun, D.X. Zeng, S.X.* Ma, H.Y. Shi, J.J. (2021). How do bullet trains spur innovation? *IEEE Transactions on Engineering Management*, online, DOI: 10.1109/TEM.2021.3091727.
 - Zou, H.L.* Qi, G.Y.* Xie, X.M.* Ma, H.Y.* (2021). The effects of formal and informal CEO power on firm risk: The mediating role of corporate social responsibility. *Asia Pacific Business Review*, 27(5), 749-775.
