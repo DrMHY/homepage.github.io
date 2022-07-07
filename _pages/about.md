@@ -67,6 +67,7 @@ Dr. Hanyang Ma is an associate professor of management at SILC Business School, 
 # <font color="#00066">📝 RESEARCH</font><br />
 ## Journal Articles
 - Ma, H.Y. Lv, K.J. Zeng, S.X.* Lin, H. Shi, J.J. (2022). Climbing the pyramid of megaproject social responsibility: Impacts of external stakeholders and project complexity. *Journal of Construction Engineering and Management*, forthcoming.
+- Zou, H.L.* Liang, Z.D. Qi, G.Y. Ma, H.Y. (2022). Corporate philanthropic response to the COVID 19 pandemic in China: A dilemma? *Social Responsibility Journal*, accepted.
 - Zeng, S.X. Chen, H.Q.* Ma, H.Y. Shi, J.J. (2022). Governance of social responsibility in international infrastructure megaprojects. *Frontiers of Engineering Management*, 9(2), 343-348.
 - Ma, H.Y. Sun, D.X. Zeng, S.X.* Lin, H. Shi, J.J. (2021). The effects of megaproject social responsibility on participating organizations. *Project Management Journal*, 52(5), 418-433.
 - Sun, D.X. Zeng, S.X.* Ma, H.Y. Shi, J.J. (2021). How do bullet trains spur innovation? *IEEE Transactions on Engineering Management*, online, DOI: 10.1109/TEM.2021.3091727.
@@ -107,7 +108,6 @@ Dr. Hanyang Ma is an associate professor of management at SILC Business School, 
 - Du, J. Wang, W.X. Ma, H.Y.* Sugumaran, V. Stakeholder cooperation mechanism for prefabricated construction projects. (Rejected with encouragement to resubmit at JCEM)
 - Ma, H.Y. Zou, J.J. Zou, H.L.* The longer, the farther? An anatomy of Chinese firms' "going globally" process. (Manuscript revision, target: APBR)
 - Yuan, M. Yu, M.C. Ma, H.Y. Zhao Z.Y. Lin, H.* Why construction workers go "bad": A multilevel investigation into the role of collective moral judgment in workplace deviant behavior. (Rejectd by JCEM)
-- Zou, H.L.* Liang, Z.D. Qi, G.Y. Ma, H.Y. Corporate philanthropic response to the COVID 19 pandemic in China: A dilemma? (Under review at SRJ)
 - Wang, J.Y. Han, S.W. Lin, H.* Ma, H.Y. Wu, H.Q. Yuan, J.F. Can New-type Urbanization pave a green way for China? A prefecture-level investigation. (Rejected by PNAS)
 - Chen, H.Q. Zeng, S.X. Ma, H.Y.* Tam, C.M. Shi, J.J. Expansion rhythm and international performance of Chinese contractors. (Manuscript finished, target: IEEE-TEM)
 - Sui, Y. Lin, H.* Zeng, S.X. Tam, V.W.Y. Ma, H,Y. Can big egos be green? A three-way interaction effect of CEO narcissism on corporate environmental performance. (Rejected by IEEE-TEM)
