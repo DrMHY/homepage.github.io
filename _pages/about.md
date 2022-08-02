@@ -146,6 +146,7 @@ Dr. Hanyang Ma is an associate professor of management at SILC Business School, 
 ## Students 
 - Zijiong Kong, Yao Lin (SHU-MSc, 2021-)  
 - Jingjie Zou (SHU-MSc, 2019-)
+- Yiling Wu (SHU-MPAcc, 2022-)
 - Siyi Ji, Qifeng Jin, Xuejun Shen, Yiqing Weng (UTS-MEM, 2022)    
 - Shifan Gu, Siyang Xie (UTS-MEM, 2021)
 <br />
