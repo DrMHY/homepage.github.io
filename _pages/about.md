@@ -66,7 +66,7 @@ Dr. Hanyang Ma is an associate professor of management at SILC Business School, 
   
 # <font color="#00066">📝 RESEARCH</font><br />
 ## Journal Articles
-- Ma, H.Y. Lv, K.J. Zeng, S.X.* Lin, H. Shi, J.J. (2022). Climbing the pyramid of megaproject social responsibility: Impacts of external stakeholders and project complexity. *Journal of Construction Engineering and Management*, online.
+- Ma, H.Y. Lv, K.J. Zeng, S.X.* Lin, H. Shi, J.J. (2022). Climbing the pyramid of megaproject social responsibility: Impacts of external stakeholders and project complexity. *Journal of Construction Engineering and Management*, 148 (11), 04022116.
 - Zou, H.L.* Liang, Z.D. Qi, G.Y. Ma, H.Y. (2022). Corporate philanthropic response to the COVID 19 pandemic in China: A dilemma? *Social Responsibility Journal*, online.
 - Zeng, S.X. Chen, H.Q.* Ma, H.Y. Shi, J.J. (2022). Governance of social responsibility in international infrastructure megaprojects. *Frontiers of Engineering Management*, 9(2), 343-348.
 - Ma, H.Y. Sun, D.X. Zeng, S.X.* Lin, H. Shi, J.J. (2021). The effects of megaproject social responsibility on participating organizations. *Project Management Journal*, 52(5), 418-433.
@@ -111,10 +111,10 @@ Dr. Hanyang Ma is an associate professor of management at SILC Business School, 
 - Wang, J.Y. Han, S.W. Lin, H.* Ma, H.Y. Wu, H.Q. Yuan, J.F. Can New-type Urbanization pave a green way for China? A prefecture-level investigation. (Rejected by PNAS)
 - Chen, H.Q. Zeng, S.X. Ma, H.Y.* Tam, C.M. Shi, J.J. Expansion rhythm and international performance of Chinese contractors. (Manuscript finished, target: IEEE-TEM)
 - Sui, Y. Lin, H.* Zeng, S.X. Tam, V.W.Y. Ma, H,Y. Can big egos be green? A three-way interaction effect of CEO narcissism on corporate environmental performance. (Rejected by IEEE-TEM)
-- Ma, H.Y.* Lin, Y. Industrial environment and contractors' internationalization. (In empirical analysis, target: ECAM)
+- Ma, H.Y.* Lin, Y. Zou, H.L. International diversification and industrial environment of Chinese contractors in globalization. (Manuscript writing, target: IEEE-TEM/ECAM)
 - Kong, Z.J. Ma, H.Y.* Lv, K.J. Liability of foreignness in public-private partnership projects. (Manuscript writing, target: JCEM)
 - Ma, H.Y.* Kong, Z.J. Institutional voids, resilience, and performance of international PPP projects. (Data collection, target: IEEE-TEM)
-- Ma, H.Y.* Heterogeneous responses for the social responsibility in international projects: An economic model. (in progress) 
+- Ma, H.Y.* Heterogeneous responses for the social responsibility in international projects: An economic model. (Manuscript writing, target: Journal of Management Science) 
 - Li, L. Zeng, S.X.* Ma, H.Y. Zheng, R.Y. Exploring the social responsibility research in infrastructure construction: Knowledge visualization and structure analysis. (in progress, target: JCEM)
   
 ## Research Grants
