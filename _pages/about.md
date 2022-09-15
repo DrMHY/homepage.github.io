@@ -120,7 +120,7 @@ Dr. Hanyang Ma is an associate professor of management at SILC Business School, 
   
 ## Research Grants
 - Isomorphic drivers and heterogeneous responses of international contractors' social responsibility. (General Grant, NSFC, 2023-2026). PI.
-- The governance for sustainability of international PPP projects: A perspective of institutional logic. (Youth Grant, Humanities and Social Sciences Research Projects, MOE, 2020-2023). PI.
+- The governance for sustainability of international PPP projects: A perspective of institutional logic. (Youth Grant of Humanities and Social Science Research, MOE, 2020-2023). PI.
 - The governance of international PPP projects: A perspective of sustainable development (Grant of Key Lab for Public Engineering Audit of Jiangsu Province, NAU, 2017). PI.
 - Innovation islands, flexible innovation, and capacity promotion for mega infrastructure projects (Major International/Regional Joint Research Project, NSFC, 2017-2022). Co-investigator.
 - Research on the social responsibility, industrial core competence, and sustainable development for mega infrastructure engineering (Major Project, NSFC, 2014-2018). Co-investigator.
