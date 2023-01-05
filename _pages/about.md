@@ -50,6 +50,7 @@ Dr. Hanyang Ma is an associate professor of management at SILC Business School, 
   - BE in Mechanical Engineering & Automation (advisor: [Prof. Sun Jin](https://me.sjtu.edu.cn/teacher_directory1/jinsun.html)), 2005-2009  
   
 ## Services  
+- Deputy Head for: Department of Business Administration, **SILC, Shanghai University**, 2022-  
 - Committee for: **Shanghai Systems Engineering Society of China**, 2021-  
 - Committee for: **SILC Youth Teacher Sodality, Shanghai University**, 2021-  
 - Guest associated editor for: *Frontiers of Engineering Management*, 2018-2019  
