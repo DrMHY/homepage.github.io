@@ -99,6 +99,7 @@ Dr. Hanyang Ma is an associate professor of management at SILC Business School, 
 - Lin, H. Zeng, S.X.* Ma, H.Y. (2016). China: Water scheme acts as ecological buffer. *Nature*, 529(7586), 283-283.
   
 ## Conference Papers
+- Ma, H.Y. Kong, Z.J. Han, Y.L. Can aid interventions facilitate project resilience? An inverted U-shaped relationship investigation. Accepted by *IPMA Research Conference*, Nanjing, 2023.
 - Kong, Z.J. Ma, H.Y.* Lv, K.J.  Liability of foreignness in public-private partnership projects. *Annual Conference of Public Administration of China*, Nanjing, 2022.
 - Lin, H.* Zeng, S.X. Ma, H.Y. Wu, P.P. The stakeholder coupling and megaproject social responsibility: A moderated moderating investigation. *Construction Research Congress*, Philadelphia, 2020.
 - Ma, H.Y. Wu, B.* Zeng, S.X. The impact of high-speed railways on rural income distribution in China. *International Megaprojects Workshop: Theory Meets Practice*, Shanghai, 2018; *Annual Conference of Management Science & Engineering Society of China*, Kunming, 2018.
@@ -110,7 +111,7 @@ Dr. Hanyang Ma is an associate professor of management at SILC Business School, 
 - Du, J. Wang, W.X. Ma, H.Y.* Sugumaran, V. Stakeholder cooperation mechanism for prefabricated construction projects. (Rejected with encouragement to resubmit at JCEM)
 - Kong, Z.J. Ma, H.Y.* Lv, K.J. Shi, J.J. Liability of foreignness in public-private partnership projects. (Under review at JCEM)
 - Ma, H.Y. Zou, J.J. Zou, H.L.* The longer, the farther? An anatomy of Chinese firms' internationalization process. (Major revision at CMS)
-- Ma, H.Y. Kong, Z.J. Han, Y.L.* Can aid intervention facilitate project resilience? (Submitted to IPMA Research Conference)
+- Ma, H.Y. Kong, Z.J. Han, Y.L.* Can aid intervention facilitate project resilience? (Accepted by IPMA Research Conference)
 - Yuan, M. Yu, M.C. Ma, H.Y. Zhao Z.Y. Lin, H.* Why construction workers go "bad": A multilevel investigation into the role of collective moral judgment in workplace deviant behavior. (Rejectd by JCEM)
 - Wang, J.Y. Han, S.W. Lin, H.* Ma, H.Y. Wu, H.Q. Yuan, J.F. Can New-type Urbanization pave a green way for China? A prefecture-level investigation. (Rejected by PNAS)
 - Chen, H.Q. Zeng, S.X. Ma, H.Y.* Tam, C.M. Shi, J.J. Expansion rhythm and international performance of Chinese contractors. (Manuscript finished and in revision, target: IEEE-TEM)
