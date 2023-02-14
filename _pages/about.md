@@ -120,12 +120,13 @@ Dr. Hanyang Ma is an associate professor of management at SILC Business School, 
 - Li, L. Zeng, S.X.* Ma, H.Y. Zheng, R.Y. Exploring the social responsibility research in infrastructure construction: Knowledge visualization and structure analysis. (in progress, target: JME)
   
 ## Grants
-- Isomorphic drivers and heterogeneous responses of international contractors' social responsibility. (General Grant, NSFC, 2023-2026). PI.
-- Faculty training and teaching reform on intelligent audit of public projects. (Grants of Industry-Academy Cooperation and Synergetic Education, MOE, 2022-2023). PI.
-- The governance for sustainability of international PPP projects: A perspective of institutional logic. (Youth Grant of Humanities and Social Science Research, MOE, 2020-2023). PI.
-- The governance of international PPP projects: A perspective of sustainable development (Grant of Key Lab for Public Engineering Audit of Jiangsu Province, NAU, 2017). PI.
-- Innovation islands, flexible innovation, and capacity promotion for mega infrastructure projects (Major International/Regional Joint Research Project, NSFC, 2017-2022). Co-investigator.
-- Research on the social responsibility, industrial core competence, and sustainable development for mega infrastructure engineering (Major Project, NSFC, 2014-2018). Co-investigator.
+- Isomorphic drivers and heterogeneous responses of international contractors' social responsibility (NSFC, 2023-2026, RMB 460k). PI.
+- Faculty training and teaching reform on intelligent audit of public projects (MOE, 2022-2023, RMB 20k). PI.
+- Course teaching reform for MSc Research methodology and paper writing of MSc program (SHU-SILC, 2023, RMB 20k). PI
+- The governance for sustainability of international PPP projects: A perspective of institutional logic. (MOE, 2020-2023, RMB 80k). PI.
+- The governance of international PPP projects: A perspective of sustainable development (NAU, 2017, RMB 10k). PI.
+- Innovation islands, flexible innovation, and capacity promotion for mega infrastructure projects (NSFC, 2017-2022). Co-investigator.
+- Research on the social responsibility, industrial core competence, and sustainable development for mega infrastructure engineering (NSFC, 2014-2018). Co-investigator.
 <br />
 <br />
 
