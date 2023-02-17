@@ -116,7 +116,7 @@ Dr. Hanyang Ma is an associate professor of management at SILC Business School, 
 - Wang, J.Y. Han, S.W. Lin, H.* Ma, H.Y. Wu, H.Q. Yuan, J.F. Can New-type Urbanization pave a green way for China? A prefecture-level investigation. (Rejected by PNAS)
 - Chen, H.Q. Zeng, S.X. Ma, H.Y.* Tam, C.M. Shi, J.J. Expansion rhythm and international performance of Chinese contractors. (Manuscript finished and in revision, target: IEEE-TEM)
 - Sui, Y. Lin, H.* Zeng, S.X. Tam, V.W.Y. Ma, H,Y. Can big egos be green? A three-way interaction effect of CEO narcissism on corporate environmental performance. (Rejected by IEEE-TEM)
-- Ma, H.Y.* Lin, Y. Zou, H.L. International diversification and industrial environment of Chinese contractors in globalization. (Manuscript writing, target: IEEE-TEM)
+- Ma, H.Y. Lin, Y. Kong, Z.J. Zou, H.L.* International diversification ambidexterity of emerging economy contractors: A match perspective with global industrial environment. (Manuscript finished, target: IEEE-TEM)
 - Ma, H.Y.* Heterogeneous responses for the social responsibility in international projects: An economic model. (Manuscript writing, target: Journal of Management Science) 
 - Li, L. Zeng, S.X.* Ma, H.Y. Zheng, R.Y. Exploring the social responsibility research in infrastructure construction: Knowledge visualization and structure analysis. (in progress, target: JME)
   
