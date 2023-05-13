@@ -99,6 +99,7 @@ Dr. Hanyang Ma is an associate professor of management at SILC Business School, 
 - Lin, H. Zeng, S.X.* Ma, H.Y. (2016). China: Water scheme acts as ecological buffer. *Nature*, 529(7586), 283-283.
   
 ## Conference Papers
+- Ma, H.Y. Lin, Y. Kong, Z.J. Zou, H.L.* International diversification ambidexterity of emerging economy contractors: A match perspective with global industrial environment. Accepted by *ICCREM*, Xi'an, 2023.
 - Ma, H.Y. Kong, Z.J. Han, Y.L. Can aid interventions facilitate project resilience? An inverted U-shaped relationship investigation. *IPMA Research Conference*, Nanjing, 2023.
 - Kong, Z.J. Ma, H.Y.* Lv, K.J.  Liability of foreignness in public-private partnership projects. *Annual Conference of Public Administration of China*, Nanjing, 2022.
 - Lin, H.* Zeng, S.X. Ma, H.Y. Wu, P.P. The stakeholder coupling and megaproject social responsibility: A moderated moderating investigation. *Construction Research Congress*, Philadelphia, 2020.
@@ -114,8 +115,8 @@ Dr. Hanyang Ma is an associate professor of management at SILC Business School, 
 - Ma, H.Y. Kong, Z.J. Han, Y.L.* Can aid intervention facilitate project resilience? (In submission)
 - Ma, H.Y. Lin, Y. Kong, Z.J. Zou, H.L.* International diversification ambidexterity of emerging economy contractors: A match perspective with global industrial environment. (Manuscript finished, target: IEEE-TEM)
 - Zou, H.L. Qi, G.Y.* Ma, H.Y. Still dare to be different? Peer effects on the importance of conformity and differentiation of CSR. (Submitted to JBE)
-- Zou, H.L. Wang, R.J. Ma, H.Y.* The response of CSR to economic policy uncertainty: Evidence from China. (Under review to MD)
-- Sui, Y. Zeng, S.X.* Sun, D.X. Ma, H.Y. From lip service to virtue signaling: The role of political connections in corporate social responsibility decoupling. (Submitted to BSE)
+- Zou, H.L. Wang, R.J. Ma, H.Y.* The response of CSR to economic policy uncertainty: Evidence from China. (Under review at MD)
+- Sui, Y. Zeng, S.X.* Sun, D.X. Ma, H.Y. From lip service to virtue signaling: The role of political connections in corporate social responsibility decoupling. (Rejected by BSE)
 - Yuan, M. Yu, M.C. Ma, H.Y. Zhao Z.Y. Lin, H.* Why construction workers go "bad": A multilevel investigation into the role of collective moral judgment in workplace deviant behavior. (Rejectd by JCEM)
 - Chen, H.Q. Zeng, S.X. Ma, H.Y.* Tam, C.M. Shi, J.J. Expansion rhythm and international performance of Chinese contractors. (Manuscript finished and in revision, target: IEEE-TEM)
 - Sui, Y. Lin, H.* Zeng, S.X. Tam, V.W.Y. Ma, H,Y. Can big egos be green? A three-way interaction effect of CEO narcissism on corporate environmental performance. (Rejected by IEEE-TEM)
