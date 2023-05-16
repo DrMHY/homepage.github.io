@@ -67,6 +67,7 @@ Dr. Hanyang Ma is an associate professor of management at SILC Business School, 
   
 # <font color="#00066">📝 RESEARCH</font><br />
 ## Journal Articles
+- Kong, Z.J. Ma, H.Y.* Lv, K.J. Shi, J.J. (2023). Liability of foreignness in public-private partnership projects. Accepted by *Journal of Construction Engineering and Management*. 
 - Ma, H.Y. Lv, K.J. Zeng, S.X.* Lin, H. Shi, J.J. (2022). Climbing the pyramid of megaproject social responsibility: Impacts of external stakeholders and project complexity. *Journal of Construction Engineering and Management*, 148 (11), 04022116.
 - Zou, H.L.* Liang, Z.D. Qi, G.Y. Ma, H.Y. (2022). Corporate philanthropic response to the COVID 19 pandemic in China: A dilemma? *Social Responsibility Journal*, online.
 - Zeng, S.X. Chen, H.Q.* Ma, H.Y. Shi, J.J. (2022). Governance of social responsibility in international infrastructure megaprojects. *Frontiers of Engineering Management*, 9(2), 343-348.
@@ -110,8 +111,7 @@ Dr. Hanyang Ma is an associate professor of management at SILC Business School, 
   
 ## Working Papers
 - Du, J. Wang, W.X. Ma, H.Y.* Sugumaran, V. Stakeholder cooperation mechanism for prefabricated construction projects. (Rejected with encouragement to resubmit at JCEM)
-- Kong, Z.J. Ma, H.Y.* Lv, K.J. Shi, J.J. Liability of foreignness in public-private partnership projects. (R&R to JCEM)
-- Ma, H.Y. Zou, J.J. Zou, H.L.* The longer, the farther? An anatomy of Chinese firms' internationalization process. (Major revision at CMS)
+- Ma, H.Y. Zou, J.J. Zou, H.L.* The longer, the farther? An anatomy of Chinese firms' internationalization process. (R&R at CMS)
 - Ma, H.Y. Kong, Z.J. Han, Y.L.* Can aid intervention facilitate project resilience? (In submission)
 - Ma, H.Y. Lin, Y. Kong, Z.J. Zou, H.L.* International diversification ambidexterity of emerging economy contractors: A match perspective with global industrial environment. (Manuscript finished, target: IEEE-TEM)
 - Zou, H.L. Qi, G.Y.* Ma, H.Y. Still dare to be different? Peer effects on the importance of conformity and differentiation of CSR. (Submitted to JBE)
