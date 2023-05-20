@@ -100,7 +100,6 @@ Dr. Hanyang Ma is an associate professor of management at SILC Business School, 
 - Lin, H. Zeng, S.X.* Ma, H.Y. (2016). China: Water scheme acts as ecological buffer. *Nature*, 529(7586), 283-283.
   
 ## Conference Papers
-- Ma, H.Y. Lin, Y. Kong, Z.J. Zou, H.L.* International diversification ambidexterity of emerging economy contractors: A match perspective with global industrial environment. Accepted by *ICCREM*, Xi'an, 2023.
 - Ma, H.Y. Kong, Z.J. Han, Y.L. Can aid interventions facilitate project resilience? An inverted U-shaped relationship investigation. *IPMA Research Conference*, Nanjing, 2023.
 - Kong, Z.J. Ma, H.Y.* Lv, K.J.  Liability of foreignness in public-private partnership projects. *Annual Conference of Public Administration of China*, Nanjing, 2022.
 - Lin, H.* Zeng, S.X. Ma, H.Y. Wu, P.P. The stakeholder coupling and megaproject social responsibility: A moderated moderating investigation. *Construction Research Congress*, Philadelphia, 2020.
