@@ -113,7 +113,7 @@ Dr. Hanyang Ma is an associate professor of management at SILC Business School, 
 - Ma, H.Y. Zou, J.J. Zou, H.L.* The longer, the farther? An anatomy of Chinese firms' internationalization process. (R&R at CMS)
 - Ma, H.Y. Kong, Z.J. Han, Y.L.* Zeng, R.C. Can aid intervention facilitate project resilience? (Under review at IEEE-TEM)
 - Ma, H.Y. Lin, Y. Kong, Z.J. Zou, H.L.* International diversification ambidexterity of emerging economy contractors: A match perspective with global industrial environment. (Manuscript finished, target: IEEE-TEM)
-- Zou, H.L. Qi, G.Y.* Ma, H.Y. Still dare to be different? Peer effects on the importance of conformity and differentiation of CSR. (Submitted to JBE)
+- Zou, H.L. Qi, G.Y.* Ma, H.Y. Still dare to be different? Peer effects on the importance of conformity and differentiation of CSR. (Under review at JBE)
 - Zou, H.L. Wang, R.J. Ma, H.Y.* The response of CSR to economic policy uncertainty: Evidence from China. (Rejected by MD)
 - Sui, Y. Zeng, S.X.* Sun, D.X. Ma, H.Y. From lip service to virtue signaling: The role of political connections in corporate social responsibility decoupling. (Rejected by BSE)
 - Chen, H.Q. Zeng, S.X. Ma, H.Y.* Tam, C.M. Shi, J.J. Expansion rhythm and international performance of Chinese contractors. (Manuscript finished and in revision, target: IEEE-TEM)
