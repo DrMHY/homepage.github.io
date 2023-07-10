@@ -70,7 +70,7 @@ Dr. Hanyang Ma is an associate professor of management at SILC Business School, 
 ## Journal Articles
 - Kong, Z.J. Ma, H.Y.* Lv, K.J. Shi, J.J. (2023). Liability of foreignness in public-private partnership projects. *Journal of Construction Engineering and Management*, 149(9), 04023085. 
 - Zou, H.L.* Liang, Z.D. Qi, G.Y. Ma, H.Y. (2023). Corporate philanthropic response to the COVID 19 pandemic in China: A dilemma? *Social Responsibility Journal*, 19(6), 1085-1106.
-- Ma, H.Y. Lv, K.J. Zeng, S.X.* Lin, H. Shi, J.J. (2022). Climbing the pyramid of megaproject social responsibility: Impacts of external stakeholders and project complexity. *Journal of Construction Engineering and Management*, 148 (11), 04022116.
+- Ma, H.Y. Lv, K.J. Zeng, S.X.* Lin, H. Shi, J.J. (2022). Climbing the pyramid of megaproject social responsibility: Impacts of external stakeholders and project complexity. *Journal of Construction Engineering and Management*, 148(11), 04022116.
 - Zeng, S.X. Chen, H.Q.* Ma, H.Y. Shi, J.J. (2022). Governance of social responsibility in international infrastructure megaprojects. *Frontiers of Engineering Management*, 9(2), 343-348.
 - Ma, H.Y. Sun, D.X. Zeng, S.X.* Lin, H. Shi, J.J. (2021). The effects of megaproject social responsibility on participating organizations. *Project Management Journal*, 52(5), 418-433.
 - Sun, D.X. Zeng, S.X.* Ma, H.Y. Shi, J.J. (2021). How do bullet trains spur innovation? *IEEE Transactions on Engineering Management*, online, DOI: 10.1109/TEM.2021.3091727.
