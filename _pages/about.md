@@ -50,8 +50,8 @@ Dr. Hanyang Ma is an associate professor of management at SILC Business School, 
   - BE in Mechanical Engineering & Automation (advisor: [Prof. Sun Jin](https://me.sjtu.edu.cn/teacher_directory1/jinsun.html)), 2005-2009  
   
 ## Services  
-- Committee for: Engineering Management Branch of Society of Management Science and Engineering of China, 2023-
 - Deputy Head for: Department of Business Administration, SILC, Shanghai University, 2022-  
+- Committee for: Engineering Management Branch, Society of Management Science and Engineering of China, 2023-
 - Committee for: Shanghai Systems Engineering Society of China, 2021-  
 - Committee for: SILC Youth Teacher Sodality, Shanghai University, 2021-  
 - Guest associated editor for: *Frontiers of Engineering Management*, 2018-2019  
@@ -102,7 +102,7 @@ Dr. Hanyang Ma is an associate professor of management at SILC Business School, 
   
 ## Conference Papers
 - Ma, H.Y. Kong, Z.J. Han, Y.L. Can aid interventions facilitate project resilience? An inverted U-shaped relationship investigation. *IPMA Research Conference*, Nanjing, 2023.
-- Kong, Z.J. Ma, H.Y.* Lv, K.J.  Liability of foreignness in public-private partnership projects. *Annual Conference of Public Administration of China*, Nanjing, 2022.
+- Kong, Z.J. Ma, H.Y.* Lv, K.J. Liability of foreignness in public-private partnership projects. *Annual Conference of Public Administration of China*, Nanjing, 2022.
 - Lin, H.* Zeng, S.X. Ma, H.Y. Wu, P.P. The stakeholder coupling and megaproject social responsibility: A moderated moderating investigation. *Construction Research Congress*, Philadelphia, 2020.
 - Ma, H.Y. Wu, B.* Zeng, S.X. The impact of high-speed railways on rural income distribution in China. *International Megaprojects Workshop: Theory Meets Practice*, Shanghai, 2018; *Annual Conference of Management Science & Engineering Society of China*, Kunming, 2018.
 - Ma, H.Y. Zeng, S.X.* Li, S.N. Customer focus and product innovation: An absorptive capacity perspective. *Global Innovation & Knowledge Academy Conference*, Lisbon, 2017.
@@ -141,13 +141,13 @@ Dr. Hanyang Ma is an associate professor of management at SILC Business School, 
 - Coordinator for: (SHU-MSc) Empirical Methods in Organization and Management Research, 2018-  
 - Coordinator for: (SHU-Undergraduate) Project Management, 2021-  
 - Coordinator for: (SHU-Undergraduate) Qualitative Research in Management, 2020-  
-- Coordinator for: (SHU-Undergraduate) Management Thinking (BA Introduction), 2020-
+- Coordinator for: (SHU-Undergraduate) Management Thinking, 2020-
 - Coordinator for: (UTS-MEM) Engineering Project Preparation, 2021-  
 - Coordinator for: (UTS-MEM) Judgement and Decision Making, 2021-2021    
 - Instructor for: (SHU-Undergraduate) New Retailing Management, 2021-2022  
 - Instructor for: (SHU-Undergraduate) Principles of Management, 2019-2019  
 - TA for: (SHU-Undergraduate) Marketing Foundations, 2020-2020  
-- TA for: (SHU-Undergraduate) Management Thinking (BA Introduction), 2019-2019  
+- TA for: (SHU-Undergraduate) Management Thinking, 2019-2019  
 - TA for: (SJTU-Undergraduate) Project Management, 2013-2016  
 - TA for: (SJTU-Undergraduate) Technological Innovation & Management, 2013-2016
 
