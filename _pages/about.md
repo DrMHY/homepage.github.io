@@ -20,7 +20,7 @@ redirect_from:
 **Welcome to Hanyang's Personal Website!**
 <br />
 <br />
-Dr. Hanyang Ma is an associate professor of management at SILC Business School, [Shanghai University](https://www.shu.edu.cn/), also a lecturer (joint-appointment) of engineering management at Faculty of Engineering & Information Technology, [University of Technology Sydney](https://www.uts.edu.au/). He received his PhD and BE from [Shanghai Jiao Tong University](https://www.sjtu.edu.cn/). His research interest includes corporate social responsibility (CSR), international business, and project management. His work can be organized into two streams, with the first stream related to firm-level management on CSR and international business, and the second related to project-level efforts on stakeholder management. These two streams are linked by a common concern with how created shared value and sustainability are pursued through corporate and project strategies. He has published a series of papers in these two streams with total <a href='https://scholar.google.com/citations?user=YoaF4d0AAAAJ&hl=en&oi=ao'>google scholar citations <strong><span id='YoaF4d0AAAAJ&hl=en&oi=ao'>1500+</span></strong></a>.  
+Dr. Hanyang Ma is an associate professor of management at SILC Business School, [Shanghai University](https://www.shu.edu.cn/), also a lecturer (joint-appointment) of engineering management at Faculty of Engineering & Information Technology, [University of Technology Sydney](https://www.uts.edu.au/). He received his PhD and BE from [Shanghai Jiao Tong University](https://www.sjtu.edu.cn/). His research interest includes corporate social responsibility (CSR), international business, and project management. His work can be organized into two streams, with the first stream related to firm-level management on CSR and international business, and the second related to project-level efforts on stakeholder management. These two streams are linked by a common concern with how created shared value and sustainability are pursued through corporate and project strategies. He has published a series of papers in these two streams with total <a href='https://scholar.google.com/citations?user=YoaF4d0AAAAJ&hl=en&oi=ao'>google scholar citations <strong><span id='YoaF4d0AAAAJ&hl=en&oi=ao'>1600+</span></strong></a>.  
   
 **Contact:**  
     - R303, Wenshang Building, 20 Chengzhong Rd, Jiading, Shanghai 201800, China  
@@ -111,11 +111,12 @@ Dr. Hanyang Ma is an associate professor of management at SILC Business School, 
 - Lin, H. Zeng, S.X.* Ma, H.Y. How political connection affect corporate environmental performance: An empirical examination. *International Conference of Operations and Supply Chain Management*, Shanghai, 2013.
   
 ## Working Papers
-- Du, J. Wang, W.X. Ma, H.Y.* Sugumaran, V. Stakeholder cooperation mechanism for prefabricated construction projects. (Rejected with encouragement to resubmit at JCEM)
 - Ma, H.Y. Zou, J.J. Zou, H.L.* The longer, the farther? An anatomy of Chinese firms' internationalization process. (2nd round R&R at CMS)
 - Ma, H.Y. Kong, Z.J. Han, Y.L.* Zeng, R.C. Can aid intervention facilitate project resilience? (Under review at IEEE-TEM)
 - Ma, H.Y. Lin, Y. Kong, Z.J. Zou, H.L.* International diversification ambidexterity of emerging economy contractors. (Major revision at IEEE-TEM)
-- Zou, H.L. Qi, G.Y.* Ma, H.Y. Still dare to be different? Peer effects on the importance of conformity and differentiation of CSR. (Under review at JBE)
+- Zou, H.L. Qi, G.Y.* Ma, H.Y. Still dare to be different? Peer effects on the importance of conformity and differentiation of CSR. (Under review at APJM)
+- Zou, H.L. Yang, X.Y. Ma, H.Y.* Does digital transformation reduce corporate social responsibility decoupling? (Under review at JCP)
+- Du, J. Wang, W.X. Ma, H.Y.* Sugumaran, V. Stakeholder cooperation mechanism for prefabricated construction projects. (Rejected with encouragement to resubmit at JCEM)
 - Sui, Y. Zeng, S.X.* Sun, D.X. Ma, H.Y. From lip service to virtue signaling: The role of political connections in corporate social responsibility decoupling. (Rejected by BSE)
 - Chen, H.Q. Zeng, S.X. Ma, H.Y.* Tam, C.M. Shi, J.J. Expansion rhythm and international performance of Chinese contractors. (Manuscript finished and in revision, target: IEEE-TEM)
 - Sui, Y. Lin, H.* Zeng, S.X. Tam, V.W.Y. Ma, H,Y. Can big egos be green? A three-way interaction effect of CEO narcissism on corporate environmental performance. (Rejected by IEEE-TEM)
