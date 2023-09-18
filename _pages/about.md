@@ -122,7 +122,10 @@ Dr. Hanyang Ma is an associate professor of management at SILC Business School, 
 - Sui, Y. Lin, H.* Zeng, S.X. Tam, V.W.Y. Ma, H,Y. Can big egos be green? A three-way interaction effect of CEO narcissism on corporate environmental performance. (Rejected by IEEE-TEM)
 - Ma, H.Y.* Heterogeneous responses for the social responsibility in international projects: An economic model. (Manuscript writing, target: Journal of Management Science) 
 - Ma, H.Y.* Strategic thinking in megaproject management. (In progress)
+- Ma, H.Y.* Kong, Z.J. Explaining the transformation and heterogeneity in ESG performance of construction firms. (In progress)
+- Kong, Z.J. Ma, H.Y.* Dynamics of public sentiment in urban infrastructure accidents. (In progress)
 - Li, L. Zeng, S.X.* Ma, H.Y. Zheng, R.Y. Exploring the social responsibility research in infrastructure construction: Knowledge visualization and structure analysis. (Under review at ECAM)
+- Li, L. Luan, H.Y. Zeng, S.X.* Ma, H.Y. Yuan, M.Q. Cross-knowledge domain decision-making benchmark for mega transportation infrastructure projects. (In progress)
   
 ## Grants
 - Isomorphic drivers and heterogeneous responses of international contractors' social responsibility (NSFC, 2023-2026, RMB 460k). PI.
