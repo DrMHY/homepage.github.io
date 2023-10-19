@@ -101,7 +101,8 @@ Dr. Hanyang Ma is an associate professor of management at SILC Business School, 
 ## Non-refereed Publication
 - Lin, H. Zeng, S.X.* Ma, H.Y. (2016). China: Water scheme acts as ecological buffer. *Nature*, 529(7586), 283-283.
   
-## Conference Papers
+## Conference Papers/Invited Presentations
+- Ma, H.Y. An institutional perspective in global project management research. *Central University of Finance and Economics*, Beijing, 2023.
 - Ma, H.Y. Kong, Z.J. Han, Y.L. Can aid interventions facilitate project resilience? An inverted U-shaped relationship investigation. *IPMA Research Conference*, Nanjing, 2023.
 - Kong, Z.J. Ma, H.Y.* Lv, K.J. Liability of foreignness in public-private partnership projects. *Annual Conference of Public Administration of China*, Nanjing, 2022.
 - Lin, H.* Zeng, S.X. Ma, H.Y. Wu, P.P. The stakeholder coupling and megaproject social responsibility: A moderated moderating investigation. *Construction Research Congress*, Philadelphia, 2020.
@@ -158,9 +159,9 @@ Dr. Hanyang Ma is an associate professor of management at SILC Business School, 
 - TA for: (SJTU-Undergraduate) Technological Innovation & Management, 2013-2016
 
 ## Students 
-- SHU-MSc: Yifei Wang (2023-), Yang Sun (2023-), Dongrong Wu (2023-), Yuning Guo (2022-), Yaxin Xie (2022-), Zijiong Kong (2021-), Yao Lin (2021-), Jingjie Zou (2019-)
+- SHU-MSc: Yunwen Tan (2024-), Yifei Wang (2023-), Yang Sun (2023-), Dongrong Wu (2023-), Yuning Guo (2022-), Yaxin Xie (2022-), Zijiong Kong (2021-), Yao Lin (2021-), Jingjie Zou (2019-)
 - SHU-MPAcc: Yanwen Pang (2022-), Yiling Wu (2022-) 
-- UTS-MEM: Yang Cao (2023), Changning Shan (2023), Yang Ma (2023), Chengcheng Xu (2023), Liejia Yang, Zhaosheng Zhu (2023), Siyi Ji (2022), Qifeng Jin (2022), Xuejun Shen (2022), Yiqing Weng (2022), Shifan Gu (2021), Siyang Xie (2021)
+- UTS-MEM: Hongtao Fu (2024), Mingjun Gong (2024), Sifan Wang (2024), Yang Cao (2023), Changning Shan (2023), Yang Ma (2023), Chengcheng Xu (2023), Liejia Yang, Zhaosheng Zhu (2023), Siyi Ji (2022), Qifeng Jin (2022), Xuejun Shen (2022), Yiqing Weng (2022), Shifan Gu (2021), Siyang Xie (2021)
 <br />
 <br />
 
