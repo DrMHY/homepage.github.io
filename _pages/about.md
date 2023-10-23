@@ -101,7 +101,7 @@ Dr. Hanyang Ma is an associate professor of management at SILC Business School, 
 ## Non-refereed Publication
 - Lin, H. Zeng, S.X.* Ma, H.Y. (2016). China: Water scheme acts as ecological buffer. *Nature*, 529(7586), 283-283.
   
-## Conference Papers/Invited Presentations
+## Conference Papers and Invited Presentations
 - Ma, H.Y. An institutional perspective in global project management research. *Central University of Finance and Economics*, Beijing, 2023.
 - Ma, H.Y. Kong, Z.J. Han, Y.L. Can aid interventions facilitate project resilience? An inverted U-shaped relationship investigation. *IPMA Research Conference*, Nanjing, 2023.
 - Kong, Z.J. Ma, H.Y.* Lv, K.J. Liability of foreignness in public-private partnership projects. *Annual Conference of Public Administration of China*, Nanjing, 2022.
@@ -114,17 +114,17 @@ Dr. Hanyang Ma is an associate professor of management at SILC Business School, 
 ## Working Papers
 - Ma, H.Y. Zou, J.J. Zou, H.L.* The longer, the farther? An anatomy of Chinese firms' internationalization process. (2nd round R&R at CMS)
 - Ma, H.Y. Kong, Z.J. Han, Y.L.* Zeng, R.C. Can aid intervention facilitate project resilience? (Under review at IEEE-TEM)
-- Ma, H.Y. Lin, Y. Kong, Z.J. Zou, H.L.* International diversification ambidexterity of emerging economy contractors. (Major revision at IEEE-TEM)
+- Ma, H.Y. Lin, Y. Kong, Z.J. Zou, H.L.* International diversification ambidexterity of emerging economy contractors. (1st round R&R at IEEE-TEM)
 - Zou, H.L. Qi, G.Y.* Ma, H.Y. Still dare to be different? Peer effects on the importance of conformity and differentiation of CSR. (Under review at APJM)
-- Zou, H.L. Yang, X.Y. Ma, H.Y.* Does digital transformation reduce corporate social responsibility decoupling? (Under review at JCP)
+- Zou, H.L. Yang, X.Y. Ma, H.Y.* Does digital transformation reduce corporate social responsibility decoupling? (Under review at TFSC)
 - Du, J. Wang, W.X. Ma, H.Y.* Sugumaran, V. Stakeholder cooperation mechanism for prefabricated construction projects. (Rejected with encouragement to resubmit at JCEM)
 - Sui, Y. Zeng, S.X.* Sun, D.X. Ma, H.Y. From lip service to virtue signaling: The role of political connections in corporate social responsibility decoupling. (Rejected by BSE)
 - Chen, H.Q. Zeng, S.X. Ma, H.Y.* Tam, C.M. Shi, J.J. Expansion rhythm and international performance of Chinese contractors. (Manuscript finished and in revision, target: IEEE-TEM)
 - Sui, Y. Lin, H.* Zeng, S.X. Tam, V.W.Y. Ma, H,Y. Can big egos be green? A three-way interaction effect of CEO narcissism on corporate environmental performance. (Rejected by IEEE-TEM)
 - Ma, H.Y.* Heterogeneous responses for the social responsibility in international projects: An economic model. (Manuscript writing, target: Journal of Management Science) 
 - Ma, H.Y.* Strategic thinking in megaproject management. (In progress)
-- Ma, H.Y.* Kong, Z.J. Explaining the transformation and heterogeneity in ESG performance of construction firms. (In progress)
-- Kong, Z.J. Ma, H.Y.* Dynamics of public sentiment in urban infrastructure accidents. (In progress)
+- Kong, Z.J. Ma, H.Y.* Explaining the transformation and heterogeneity in ESG performance of construction firms. (In progress, target: JCEM)
+- Ma, H.Y. Kong, Z.J. Liu, D. Zeng, R.C.* Information disclosure and public response in urban infrastructure accidents. (In progress, target: JME)
 - Li, L. Zeng, S.X.* Ma, H.Y. Zheng, R.Y. Exploring the social responsibility research in infrastructure construction: Knowledge visualization and structure analysis. (Under review at ECAM)
 - Li, L. Luan, H.Y. Zeng, S.X.* Ma, H.Y. Yuan, M.Q. Cross-knowledge domain decision-making benchmark for mega transportation infrastructure projects. (In progress)
   
