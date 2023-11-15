@@ -72,6 +72,7 @@ Dr. Hanyang Ma is an associate professor of management at SILC Business School, 
 - Kong, Z.J. Ma, H.Y.* Lv, K.J. Shi, J.J. (2023). Liability of foreignness in public-private partnership projects. *Journal of Construction Engineering and Management*, 149(9), 04023085. 
 - Zou, H.L.* Liang, Z.D. Qi, G.Y. Ma, H.Y. (2023). Corporate philanthropic response to the COVID 19 pandemic in China: A dilemma? *Social Responsibility Journal*, 19(6), 1085-1106.
 - Sun, D.X. Zeng, S.X.* Ma, H.Y. Shi, J.J. (2023). How do bullet trains spur innovation? *IEEE Transactions on Engineering Management*, 70(1), 3944-3957.
+- Li, L. Wang, S.Q. Zeng, S.X.* Ma, H.Y. Zheng, R.Y. Unveiling the social responsibility factors driving new infrastructure construction. *Engineering, Construction and Architectural Management*, accepted.
 - Ma, H.Y. Lv, K.J. Zeng, S.X.* Lin, H. Shi, J.J. (2022). Climbing the pyramid of megaproject social responsibility: Impacts of external stakeholders and project complexity. *Journal of Construction Engineering and Management*, 148(11), 04022116.
 - Zeng, S.X. Chen, H.Q.* Ma, H.Y. Shi, J.J. (2022). Governance of social responsibility in international infrastructure megaprojects. *Frontiers of Engineering Management*, 9(2), 343-348.
 - Ma, H.Y. Sun, D.X. Zeng, S.X.* Lin, H. Shi, J.J. (2021). The effects of megaproject social responsibility on participating organizations. *Project Management Journal*, 52(5), 418-433.
@@ -115,7 +116,6 @@ Dr. Hanyang Ma is an associate professor of management at SILC Business School, 
 - Ma, H.Y. Zou, J.J. Zou, H.L.* The longer, the farther? An anatomy of Chinese firms' internationalization process. (2nd round R&R at CMS)
 - Ma, H.Y. Kong, Z.J. Han, Y.L.* Zeng, R.C. Can aid intervention facilitate project resilience? (Major revision at IEEE-TEM)
 - Ma, H.Y. Lin, Y. Kong, Z.J. Zou, H.L.* International diversification ambidexterity of emerging economy contractors. (1st round R&R at IEEE-TEM)
-- Li, L. Wang, S.Q. Zeng, S.X.* Ma, H.Y. Zheng, R.Y. Unveiling the social responsibility factors driving new infrastructure construction. (Minor revision at ECAM)
 - Zou, H.L. Qi, G.Y.* Ma, H.Y. Still dare to be different? Peer effects on the importance of conformity and differentiation of CSR. (Under review at APJM)
 - Zou, H.L. Yang, X.Y. Ma, H.Y.* Does digital transformation reduce corporate social responsibility decoupling? (Under review at TFSC)
 - Du, J. Wang, W.X. Ma, H.Y.* Sugumaran, V. Stakeholder cooperation mechanism for prefabricated construction projects. (Rejected with encouragement to resubmit at JCEM)
