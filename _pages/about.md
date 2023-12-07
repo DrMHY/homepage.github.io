@@ -113,7 +113,7 @@ Dr. Hanyang Ma is an associate professor of management at SILC Business School, 
 - Lin, H. Zeng, S.X.* Ma, H.Y. How political connection affect corporate environmental performance: An empirical examination. *International Conference of Operations and Supply Chain Management*, Shanghai, 2013.
   
 ## Working Papers
-- Ma, H.Y. Zou, J.J. Zou, H.L.* The longer, the farther? An anatomy of Chinese firms' internationalization process. (2nd round R&R at CMS)
+- Ma, H.Y. Zou, J.J. Zou, H.L.* The longer, the farther? An anatomy of Chinese firms' internationalization process. (3nd round, conditional acceptance at CMS)
 - Ma, H.Y. Kong, Z.J. Han, Y.L.* Zeng, R.C. Can aid intervention facilitate project resilience? (Major revision at IEEE-TEM)
 - Ma, H.Y. Lin, Y. Kong, Z.J. Zou, H.L.* International diversification ambidexterity of emerging economy contractors. (1st round R&R at IEEE-TEM)
 - Zou, H.L. Qi, G.Y.* Ma, H.Y. Still dare to be different? Peer effects on the importance of conformity and differentiation of CSR. (Under review at APJM)
@@ -159,7 +159,7 @@ Dr. Hanyang Ma is an associate professor of management at SILC Business School, 
 - TA for: (SJTU-Undergraduate) Technological Innovation & Management, 2013-2016
 
 ## Students 
-- SHU-MSc: Yunwen Tan (2024-), Yifei Wang (2023-), Yang Sun (2023-), Dongrong Wu (2023-), Yuning Guo (2022-), Yaxin Xie (2022-), Zijiong Kong (2021-), Yao Lin (2021-), Jingjie Zou (2019-)
+- SHU-MSc: Yifei Wang (2023-), Yang Sun (2023-), Dongrong Wu (2023-), Yuning Guo (2022-), Yaxin Xie (2022-), Zijiong Kong (2021-), Yao Lin (2021-), Jingjie Zou (2019-)
 - SHU-MPAcc: Yanwen Pang (2022-), Yiling Wu (2022-) 
 - UTS-MEM: Hongtao Fu (2024), Mingjun Gong (2024), Sifan Wang (2024), Yang Cao (2023), Changning Shan (2023), Yang Ma (2023), Chengcheng Xu (2023), Liejia Yang, Zhaosheng Zhu (2023), Siyi Ji (2022), Qifeng Jin (2022), Xuejun Shen (2022), Yiqing Weng (2022), Shifan Gu (2021), Siyang Xie (2021)
 <br />
