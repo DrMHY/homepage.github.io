@@ -69,7 +69,7 @@ Dr. Hanyang Ma is an associate professor of management at SILC Business School, 
   
 # <font color="#00066">📝 RESEARCH</font><br />
 ## Journal Articles
-- Ma, H.Y. Zou, J.J. Zou, H.L.* The longer, the farther? The internationalization of Chinese firms. *Chinese Management Studies*, accepted.
+- Ma, H.Y. Zou, J.J. Zou, H.L.* (2023). The longer, the farther? The internationalization of Chinese firms. *Chinese Management Studies*, accepted.
 - Kong, Z.J. Ma, H.Y.* Lv, K.J. Shi, J.J. (2023). Liability of foreignness in public-private partnership projects. *Journal of Construction Engineering and Management*, 149(9), 04023085. 
 - Zou, H.L.* Liang, Z.D. Qi, G.Y. Ma, H.Y. (2023). Corporate philanthropic response to the COVID 19 pandemic in China: A dilemma? *Social Responsibility Journal*, 19(6), 1085-1106.
 - Sun, D.X. Zeng, S.X.* Ma, H.Y. Shi, J.J. (2023). How do bullet trains spur innovation? *IEEE Transactions on Engineering Management*, 70(1), 3944-3957.
