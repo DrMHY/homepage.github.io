@@ -120,6 +120,7 @@ Dr. Hanyang Ma is an associate professor of management at SILC Business School, 
 - Zou, H.L. Yang, X.Y. Ma, H.Y.* Does digital transformation reduce corporate social responsibility decoupling? (Under review at TFSC)
 - Du, J. Wang, W.X. Ma, H.Y.* Sugumaran, V. Stakeholder cooperation mechanism for prefabricated construction projects. (Rejected with encouragement to resubmit at JCEM)
 - Sui, Y. Zeng, S.X.* Sun, D.X. Ma, H.Y. From lip service to virtue signaling: The role of political connections in corporate social responsibility decoupling. (Rejected by BSE)
+- Ma, H.Y. Xie, Y.X. Chen, H.Q.* An meta analysis on firm nternationalization and corporate social responsibility. (Manuscript finished and in revision, target: BSE) 
 - Chen, H.Q. Zeng, S.X. Ma, H.Y.* Tam, C.M. Shi, J.J. Expansion rhythm and international performance of Chinese contractors. (Manuscript finished and in revision, target: IEEE-TEM)
 - Sui, Y. Lin, H.* Zeng, S.X. Tam, V.W.Y. Ma, H,Y. Can big egos be green? A three-way interaction effect of CEO narcissism on corporate environmental performance. (Rejected by IEEE-TEM)
 - Ma, H.Y.* Heterogeneous responses for the social responsibility in international projects: An economic model. (Manuscript writing, target: Journal of Management Science) 
