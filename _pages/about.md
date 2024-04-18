@@ -71,6 +71,7 @@ Dr. Hanyang Ma is an associate professor of management at SILC Business School, 
 ## Journal Articles
 - Ma, H.Y. Lin, Y. Kong, Z.J. Zou, H.L.* (2024). International diversification ambidexterity of emerging economy contractors: A matching perspective with industrial features. *IEEE Transactions on Engineering Management*, 71, 3782-3794.
 - Ma, H.Y. Zou, J.J. Zou, H.L.* (2024). The longer, the farther? The internationalization of Chinese firms. *Chinese Management Studies*, [forthcoming](https://doi.org/10.1108/CMS-12-2022-0445).
+- Suo, X.K. Lin, H.* Yuan, M. Zhang, L.T. Lu, Y.H. Ma, H.Y. (2024). Can green innovation mitigate corporate stock price crash risk? Evidence from China. *Environment, Development and Sustainability*, accepted.
 - Kong, Z.J. Ma, H.Y.* Lv, K.J. Shi, J.J. (2023). Liability of foreignness in public-private partnership projects. *Journal of Construction Engineering and Management*, 149(9), 04023085. 
 - Zou, H.L.* Liang, Z.D. Qi, G.Y. Ma, H.Y. (2023). Corporate philanthropic response to the COVID 19 pandemic in China: A dilemma? *Social Responsibility Journal*, 19(6), 1085-1106.
 - Sun, D.X. Zeng, S.X.* Ma, H.Y. Shi, J.J. (2023). How do bullet trains spur innovation? *IEEE Transactions on Engineering Management*, 70(1), 3944-3957.
@@ -118,8 +119,7 @@ Dr. Hanyang Ma is an associate professor of management at SILC Business School, 
 - Ma, H.Y. Kong, Z.J. Han, Y.L.* Zeng, R.C. Can aid intervention facilitate project resilience? (2nd round R&R at IEEE-TEM)
 - Zou, H.L. Qi, G.Y.* Ma, H.Y. Still dare to be different? Peer effects on the importance of conformity and differentiation of CSR. (Under review at CSREM)
 - Zou, H.L. Yang, X.Y. Ma, H.Y.* Does digital transformation reduce corporate social responsibility decoupling? (Under review at TFSC)
-- Q, G.Y. Chang, R.F. Ma, H.Y. Zou, H.L.* Does within-country religious diversity lead to public–private partnership (PPP) project failure? The role of partners’ experience. (Under review at JCEM)
-- Suo, X.K. Lin, H.* Yuan, M. Zhang, L.T. Lu, Y.H. Ma, H.Y. (2024). Can green innovation mitigate corporate stock price crash risk? Evidence from China. (Minor revision at EDS)
+- Qi, G.Y. Chang, R.F. Ma, H.Y. Zou, H.L.* Does within-country religious diversity lead to public–private partnership (PPP) project failure? The role of partners’ experience. (Under review at JCEM)
 - Du, J. Wang, W.X. Ma, H.Y.* Sugumaran, V. Stakeholder cooperation mechanism for prefabricated construction projects. (Rejected with encouragement to resubmit at JCEM)
 - Sui, Y. Zeng, S.X.* Sun, D.X. Ma, H.Y. From lip service to virtue signaling: The role of political connections in corporate social responsibility decoupling. (Rejected by BSE)
 - Ma, H.Y. Xie, Y.X. Chen, H.Q.* Firm internationalization and corporate social responsibility: A meta-analysis. (Under review at CSREM & SMS Annual Conference) 
