@@ -131,6 +131,7 @@ Dr. Hanyang Ma is an associate professor of management at SILC Business School, 
 - Ma, H.Y. Kong, Z.J. Liu, D. Zeng, R.C.* Information disclosure and public response in urban infrastructure accidents. (In progress, target: JME)
 - Ma, H.Y. Lv, K.J.* Feng, K. Globalization and de-globalization in AEC industry: An ESG perspective. (Manuscript finished, target: JME)
 - Ma, H.Y. Wang, Y.F. Chen, H.Q.* Board independence and green innovation: A meta-analysis. (Manuscript writing, target: IEEE-TEM)
+- Fang, X. Ma, H.Y. Involution anxiety mentality of college students: Antecedents and coping strategies. (Manuscript finished, target: J. of SJTU)
 - Li, L. Luan, H.Y. Zeng, S.X.* Ma, H.Y. Yuan, M.Q. Cross-knowledge domain decision-making benchmark for mega transportation infrastructure projects. (In progress)
   
 ## Grants
