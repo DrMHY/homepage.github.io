@@ -69,6 +69,7 @@ Dr. Hanyang Ma is an associate professor of management at SILC Business School, 
   
 # <font color="#00066">📝 RESEARCH</font><br />
 ## Journal Articles
+- Ma, H.Y. Kong, Z.J. Han, Y.L.* Zeng, R.C. Can aid intervention facilitate project resilience? An inverted U-shaped relationship investigation. *IEEE Transactions on Engineering Management*, accepted.
 - Ma, H.Y. Lin, Y. Kong, Z.J. Zou, H.L.* (2024). International diversification ambidexterity of emerging economy contractors: A matching perspective with industrial features. *IEEE Transactions on Engineering Management*, 71, 3782-3794.
 - Ma, H.Y. Zou, J.J. Zou, H.L.* (2024). The longer, the farther? The internationalization of Chinese firms. *Chinese Management Studies*, [forthcoming](https://doi.org/10.1108/CMS-12-2022-0445).
 - Suo, X.K. Lin, H.* Yuan, M. Zhang, L.T. Lu, Y.H. Ma, H.Y.* (2024). Can green innovation mitigate corporate stock price crash risk? Evidence from China. *Environment, Development and Sustainability*, [forthcoming](https://doi.org/10.1007/s10668-024-04932-8).
@@ -116,10 +117,10 @@ Dr. Hanyang Ma is an associate professor of management at SILC Business School, 
 - Lin, H. Zeng, S.X.* Ma, H.Y. How political connection affect corporate environmental performance: An empirical examination. *International Conference of Operations and Supply Chain Management*, Shanghai, 2013.
   
 ## Working Papers
-- Ma, H.Y. Kong, Z.J. Han, Y.L.* Zeng, R.C. Can aid intervention facilitate project resilience? An inverted U-shaped relationship investigation. (2nd round: minor revision at IEEE-TEM)
 - Ma, H.Y. Xie, Y.X. Chen, H.Q.* Firm internationalization and corporate social responsibility: A meta-analysis. (Under review at CSREM) 
 - Zou, H.L. Qi, G.Y.* Ma, H.Y. Still dare to be different? Peer effects on the importance of conformity and differentiation of CSR. (Under review at CSREM)
 - Zou, H.L. Yang, X.Y. Ma, H.Y.* Does digital transformation reduce corporate social responsibility decoupling? (Under review at TFSC)
+- Fang, X. Ma, H.Y. Involution anxiety mentality of college students: Antecedents and coping strategies. (Under review at J-SJTU)
 - Qi, G.Y. Chang, R.F. Ma, H.Y. Zou, H.L.* Does within-country religious diversity lead to public–private partnership (PPP) project failure? The role of partners’ experience. (Submitted to JME)
 - Du, J. Wang, W.X. Ma, H.Y.* Sugumaran, V. Stakeholder cooperation mechanism for prefabricated construction projects. (Rejected with encouragement to resubmit at JCEM)
 - Sui, Y. Zeng, S.X.* Sun, D.X. Ma, H.Y. From lip service to virtue signaling: The role of political connections in corporate social responsibility decoupling. (Rejected by BSE)
@@ -131,7 +132,6 @@ Dr. Hanyang Ma is an associate professor of management at SILC Business School, 
 - Ma, H.Y. Kong, Z.J. Liu, D. Zeng, R.C.* Information disclosure and public response in urban infrastructure accidents. (In progress, target: JME)
 - Ma, H.Y. Lv, K.J.* Feng, K. Globalization and de-globalization in AEC industry: An ESG perspective. (Manuscript finished, target: JME)
 - Ma, H.Y. Wang, Y.F. Chen, H.Q.* Board independence and green innovation: A meta-analysis. (Manuscript writing, target: IEEE-TEM)
-- Fang, X. Ma, H.Y. Involution anxiety mentality of college students: Antecedents and coping strategies. (Manuscript finished, target: J. of SJTU)
 - Li, L. Luan, H.Y. Zeng, S.X.* Ma, H.Y. Yuan, M.Q. Cross-knowledge domain decision-making benchmark for mega transportation infrastructure projects. (In progress)
   
 ## Grants
