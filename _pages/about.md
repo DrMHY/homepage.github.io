@@ -150,11 +150,12 @@ Dr. Hanyang Ma is an associate professor of management at SILC Business School, 
 # <font color="#00066">💬 TEACHING</font><br />
 ## Curriculums  
 - Coordinator for: (SHU-MSc) Academic Standards and Essay Writing, 2022-  
-- Coordinator for: (SHU-MSc) Empirical Methods in Organization and Management Research, 2018-  
+- Coordinator for: (SHU-MSc) Empirical Methods in Organization and Management Research, 2018-
+- Coordinator for: (SHU-Undergraduate) Academic Standards and Essary Wrinting, 2024-  
 - Coordinator for: (SHU-Undergraduate) Practical Series: Thesis, Cognition Practice, Specialty Practice, and Social Investigation, 2023-   
 - Coordinator for: (SHU-Undergraduate) Project Management, 2021-  
 - Coordinator for: (SHU-Undergraduate) Qualitative Research in Management, 2020-  
-- Coordinator for: (SHU-Undergraduate) Management Thinking, 2020-
+- Coordinator for: (SHU-Undergraduate) Management Thinking, 2020-2023
 - Coordinator for: (UTS-MEM) Engineering Project Preparation, 2021-  
 - Coordinator for: (UTS-MEM) Judgement and Decision Making, 2021-2021    
 - Instructor for: (SHU-Undergraduate) New Retailing Management, 2021-2022  
