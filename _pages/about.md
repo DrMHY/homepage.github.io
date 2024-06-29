@@ -107,7 +107,7 @@ Dr. Hanyang Ma is an associate professor of management at SILC Business School, 
 - Lin, H. Zeng, S.X.* Ma, H.Y. (2016). China: Water scheme acts as ecological buffer. *Nature*, 529(7586), 283-283.
   
 ## Conference Papers and Invited Presentations
-- Ma, H.Y. Kong, Z.J. Liu, D. Zeng, R.C. Information disclosure and public response in urban infrastructure accidents: A mixed method investigation. *Annual Conference of Engineering Management Branch, Management Science & Engineering Society of China*, Chongqing, 2024.
+- Ma, H.Y. Kong, Z.J. Liu, D. Zeng, R.C. Information disclosure and public response in urban infrastructure accidents: A mixed-method investigation. *Annual Conference of Engineering Management Branch, Management Science & Engineering Society of China*, Chongqing, 2024.
 - Ma, H.Y. An institutional perspective in global project management research. *Central University of Finance and Economics*, Beijing, 2023.
 - Ma, H.Y. Kong, Z.J. Han, Y.L. Can aid interventions facilitate project resilience? An inverted U-shaped relationship investigation. *IPMA Research Conference*, Nanjing, 2023.
 - Kong, Z.J. Ma, H.Y.* Lv, K.J. Liability of foreignness in public-private partnership projects. *Annual Conference of Public Administration of China*, Nanjing, 2022.
@@ -121,6 +121,7 @@ Dr. Hanyang Ma is an associate professor of management at SILC Business School, 
 - Ma, H.Y. Xie, Y.X. Chen, H.Q.* Firm internationalization and corporate social responsibility: A meta-analysis. (Rejected by CSREM) 
 - Zou, H.L. Qi, G.Y.* Ma, H.Y. Still dare to be different? Peer effects on the importance of conformity and differentiation of CSR. (R&R at CSREM)
 - Zou, H.L. Yang, X.Y. Ma, H.Y.* Does digital transformation reduce corporate social responsibility decoupling? (Under review at TFSC)
+- Ma, H.Y. Kong, Z.J. Liu, D. Zeng, R.C.* Information disclosure and public response in urban infrastructure accidents: A mixed-method investigation. (Submitted to JME)
 - Fang, X. Ma, H.Y. Involution anxiety mentality of college students: Antecedents and coping strategies. (Under review at J-SJTU)
 - Qi, G.Y. Chang, R.F. Ma, H.Y. Zou, H.L.* Does within-country religious diversity lead to public–private partnership (PPP) project failure? The role of partners’ experience. (Submitted to JME)
 - Du, J. Wang, W.X. Ma, H.Y.* Sugumaran, V. Stakeholder cooperation mechanism for prefabricated construction projects. (Rejected with encouragement to resubmit at JCEM)
@@ -130,7 +131,6 @@ Dr. Hanyang Ma is an associate professor of management at SILC Business School, 
 - Ma, H.Y.* Heterogeneous responses for the social responsibility in international projects: An economic model. (Manuscript writing, target: Journal of Management Science) 
 - Ma, H.Y.* Strategic thinking in megaproject management. (In progress)
 - Kong, Z.J. Ma, H.Y.* Explaining the transformation and heterogeneity in ESG performance of construction firms. (In progress, target: JCEM)
-- Ma, H.Y. Kong, Z.J. Liu, D. Zeng, R.C.* Information disclosure and public response in urban infrastructure accidents. (In progress, target: JME)
 - Ma, H.Y. Lv, K.J.* Feng, K. Globalization and de-globalization in AEC industry: An ESG perspective. (Manuscript finished, target: JME)
 - Ma, H.Y. Wang, Y.F. Chen, H.Q.* Board independence and green innovation: A meta-analysis. (Manuscript writing, target: IEEE-TEM)
 - Li, L. Luan, H.Y. Zeng, S.X.* Ma, H.Y. Yuan, M.Q. Cross-knowledge domain decision-making benchmark for mega transportation infrastructure projects. (In progress)
