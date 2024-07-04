@@ -24,7 +24,7 @@ Dr. Hanyang Ma is an associate professor of management at SILC Business School, 
   
 **Contact:**  
     - R303, Wenshang Building, 20 Chengzhong Rd, Jiading, Shanghai 201800, China  
-    - [mahanyang@shu.edu.cn](mailto:mahanyang@shu.edu.cn) (for SHU affairs)  
+    - [mahanyang@shu.edu.cn](mailto:mahanyang@shu.edu.cn)  
 <br />
 
   
