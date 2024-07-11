@@ -132,7 +132,7 @@ Dr. Hanyang Ma is an associate professor of management at SILC Business School, 
 - Kong, Z.J. Ma, H.Y.* Explaining the transformation and heterogeneity in ESG performance of construction firms. (In progress, target: JCEM)
 - Ma, H.Y. Lv, K.J.* Feng, K. Globalization and de-globalization in AEC industry: An ESG perspective. (Manuscript finished, target: JME)
 - Ma, H.Y. Wang, Y.F. Chen, H.Q.* Board independence and green innovation: A meta-analysis. (Manuscript writing, target: IEEE-TEM)
-- Ma, H.Y. Guo, Y.N. Lv, K.J.* How does domestic competition drive firm internatinoalization? (Manuscript writing, target: IEEE-TEM)
+- Ma, H.Y. Guo, Y.N. Lv, K.J.* Internationalization to escape from domestic competition? Moderating roles of innovation. (Manuscript writing, target: IEEE-TEM)
 - Li, L. Luan, H.Y. Zeng, S.X.* Ma, H.Y. Yuan, M.Q. Cross-knowledge domain decision-making benchmark for mega transportation infrastructure projects. (In progress)
   
 ## Grants
