@@ -117,12 +117,12 @@ Dr. Hanyang Ma is an associate professor of management at SILC Business School, 
 - Lin, H. Zeng, S.X.* Ma, H.Y. How political connection affect corporate environmental performance: An empirical examination. *International Conference of Operations and Supply Chain Management*, Shanghai, 2013.
   
 ## Working Papers
-- Ma, H.Y. Xie, Y.X. Chen, H.Q.* Firm internationalization and corporate social responsibility: A meta-analysis. (Submitted to IEEE-TEM) 
+- Ma, H.Y. Xie, Y.X. Chen, H.Q.* Firm internationalization and corporate social responsibility: A meta-analysis. (Under review at APBR) 
 - Zou, H.L. Qi, G.Y.* Ma, H.Y. Still dare to be different? Peer effects on the importance of conformity and differentiation of CSR. (R&R at CSREM)
 - Zou, H.L. Yang, X.Y. Ma, H.Y.* Does digital transformation reduce corporate social responsibility decoupling? (Under review at TFSC)
 - Ma, H.Y. Kong, Z.J. Liu, D. Zeng, R.C.* Information disclosure and public response in urban infrastructure accidents: A mixed-method investigation. (Under review at JME)
 - Fang, X. Ma, H.Y. Involution anxiety mentality of college students: Antecedents and coping strategies. (Under review at J-SJTU)
-- Qi, G.Y. Chang, R.F. Ma, H.Y. Zou, H.L.* Does within-country religious diversity lead to public–private partnership (PPP) project failure? The role of partners’ experience. (Under review at JME)
+- Qi, G.Y. Chang, R.F. Ma, H.Y. Zou, H.L.* Does within-country religious diversity lead to public–private partnership (PPP) project failure? The role of partners’ experience. (Rejected by JME)
 - Du, J. Wang, W.X. Ma, H.Y.* Sugumaran, V. Stakeholder cooperation mechanism for prefabricated construction projects. (Rejected with encouragement to resubmit at JCEM)
 - Sui, Y. Zeng, S.X.* Sun, D.X. Ma, H.Y. From lip service to virtue signaling: The role of political connections in corporate social responsibility decoupling. (Rejected by BSE)
 - Chen, H.Q. Zeng, S.X. Ma, H.Y.* Tam, C.M. Shi, J.J. Expansion rhythm and international performance of Chinese contractors. (Manuscript finished and in revision, target: IEEE-TEM)
