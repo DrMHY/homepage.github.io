@@ -136,6 +136,7 @@ Dr. Hanyang Ma is an associate professor of management at SILC Business School, 
 - Li, L. Luan, H.Y. Zeng, S.X.* Ma, H.Y. Yuan, M.Q. Cross-knowledge domain decision-making benchmark for mega transportation infrastructure projects. (In progress)
 - Fang, X. Ma, H.Y. Impact of AI learning pressure on college students' anxiety: A moderated mediating examination. (Manuscript finished)
 - Zou, H.L. Huang, S.M. Ma, H.Y. CEO outsideness assuming corporate environmental responsibility. (Manuscript finished)
+- Yu, B.J. Ma, H.Y. Zou, H.L.* Customer concentration and greenwashing. (Manuscript finished)
   
 ## Grants
 - Isomorphic drivers and heterogeneous responses of international contractors' social responsibility (NSFC, 2023-2026, RMB 460k). PI.
