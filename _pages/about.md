@@ -122,6 +122,7 @@ Dr. Hanyang Ma is an associate professor of management at SILC Business School, 
 - Zou, H.L. Yang, X.Y. Ma, H.Y.* Does digital transformation reduce corporate social responsibility decoupling? (Under review at TFSC)
 - Ma, H.Y. Kong, Z.J. Liu, D. Zeng, R.C.* Information disclosure and public response in urban infrastructure accidents: A mixed-method investigation. (Under review at JME)
 - Fang, X. Ma, H.Y. Involution anxiety mentality of college students: Antecedents and coping strategies. (Under review at J-SJTU)
+- Yu, B.J. Ma, H.Y. Zou, H.L.* Customer concentration and greenwashing. (Submitted to BSE)
 - Qi, G.Y. Chang, R.F. Ma, H.Y. Zou, H.L.* Does within-country religious diversity lead to public–private partnership (PPP) project failure? The role of partners’ experience. (Rejected by JME)
 - Du, J. Wang, W.X. Ma, H.Y.* Sugumaran, V. Stakeholder cooperation mechanism for prefabricated construction projects. (Rejected with encouragement to resubmit at JCEM)
 - Sui, Y. Zeng, S.X.* Sun, D.X. Ma, H.Y. From lip service to virtue signaling: The role of political connections in corporate social responsibility decoupling. (Rejected by BSE)
@@ -136,7 +137,7 @@ Dr. Hanyang Ma is an associate professor of management at SILC Business School, 
 - Li, L. Luan, H.Y. Zeng, S.X.* Ma, H.Y. Yuan, M.Q. Cross-knowledge domain decision-making benchmark for mega transportation infrastructure projects. (In progress)
 - Fang, X. Ma, H.Y. Impact of AI learning pressure on college students' anxiety: A moderated mediating examination. (Manuscript finished)
 - Zou, H.L. Huang, S.M. Ma, H.Y. CEO outsideness assuming corporate environmental responsibility. (Manuscript finished)
-- Yu, B.J. Ma, H.Y. Zou, H.L.* Customer concentration and greenwashing. (Manuscript finished)
+
   
 ## Grants
 - Isomorphic drivers and heterogeneous responses of international contractors' social responsibility (NSFC, 2023-2026, RMB 460k). PI.
