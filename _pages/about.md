@@ -127,7 +127,6 @@ Dr. Hanyang Ma is an associate professor of management at SILC Business School, 
 - Qi, G.Y. Chang, R.F. Ma, H.Y. Zou, H.L.* Does within-country religious diversity lead to public–private partnership (PPP) project failure? The role of partners’ experience. (Rejected by JME)
 - Du, J. Wang, W.X. Ma, H.Y.* Sugumaran, V. Stakeholder cooperation mechanism for prefabricated construction projects. (Rejected with encouragement to resubmit at JCEM)
 - Sui, Y. Zeng, S.X.* Sun, D.X. Ma, H.Y. From lip service to virtue signaling: The role of political connections in corporate social responsibility decoupling. (Rejected by BSE)
-- Chen, H.Q. Zeng, S.X. Ma, H.Y.* Tam, C.M. Shi, J.J. Expansion rhythm and international performance of Chinese contractors. (Manuscript finished and in revision, target: IEEE-TEM)
 - Sui, Y. Lin, H.* Zeng, S.X. Tam, V.W.Y. Ma, H,Y. Can big egos be green? A three-way interaction effect of CEO narcissism on corporate environmental performance. (Rejected by IEEE-TEM)
 - Ma, H.Y.* Heterogeneous responses for the social responsibility in international projects: An economic model. (Manuscript writing, target: Journal of Management Science) 
 - Ma, H.Y.* Strategic thinking in megaproject management. (In progress)
