@@ -60,7 +60,7 @@ Dr. Hanyang Ma is an associate professor of management at SILC Business School, 
 ## Other Experience  
 - **Deloitte Consulting (China)**  
   - Intern for data management and project management, 2012-2012  
-- **Science & Technology Department of Tibet**  
+- *ience & Technology Department of Tibet**  
   - Volunteer for Xibu Youth Project, 2009-2010 
 <br />
 <br />
@@ -106,12 +106,13 @@ Dr. Hanyang Ma is an associate professor of management at SILC Business School, 
 - Lin, H. Zeng, S.X.* Ma, H.Y. (2016). China: Water scheme acts as ecological buffer. *Nature*, 529(7586), 283-283.
   
 ## Conference Papers and Invited Presentations
+- Ma, H.Y. The contingent effects of institutional environment in international project management. *Committee Conference of Engineering Management Branch, MSE Society of China*, Aksu, 2024. 
 - Ma, H.Y. Kong, Z.J. Liu, D. Zeng, R.C. Information disclosure and public response in urban infrastructure accidents: A mixed-method investigation. *Annual Conference of Engineering Management Branch, Management Science & Engineering Society of China*, Chongqing, 2024.
 - Ma, H.Y. An institutional perspective in global project management research. *Central University of Finance and Economics*, Beijing, 2023.
 - Ma, H.Y. Kong, Z.J. Han, Y.L. Can aid interventions facilitate project resilience? An inverted U-shaped relationship investigation. *IPMA Research Conference*, Nanjing, 2023.
 - Kong, Z.J. Ma, H.Y.* Lv, K.J. Liability of foreignness in public-private partnership projects. *Annual Conference of Public Administration of China*, Nanjing, 2022.
 - Lin, H.* Zeng, S.X. Ma, H.Y. Wu, P.P. The stakeholder coupling and megaproject social responsibility: A moderated moderating investigation. *Construction Research Congress*, Philadelphia, 2020.
-- Ma, H.Y. Wu, B.* Zeng, S.X. The impact of high-speed railways on rural income distribution in China. *International Megaprojects Workshop: Theory Meets Practice*, Shanghai, 2018; *Annual Conference of Management Science & Engineering Society of China*, Kunming, 2018.
+- Ma, H.Y. Wu, B.* Zeng, S.X. The impact of high-speed railways on rural income distribution in China. *International Megaprojects Workshop: Theory Meets Practice*, Shanghai, 2018; *Annual Conference of MSE Society of China*, Kunming, 2018.
 - Ma, H.Y. Zeng, S.X.* Li, S.N. Customer focus and product innovation: An absorptive capacity perspective. *Global Innovation & Knowledge Academy Conference*, Lisbon, 2017.
 - Ma, H.Y. Zeng, S.X.* Lin, H. Chen, H.Q. International diversification and corporate social responsibility: A perspective of contractors from emerging economies.  *Strategic Management Society Special Conference*, Sydney, 2014.
 - Lin, H. Zeng, S.X.* Ma, H.Y. How political connection affect corporate environmental performance: An empirical examination. *International Conference of Operations and Supply Chain Management*, Shanghai, 2013.
@@ -119,7 +120,7 @@ Dr. Hanyang Ma is an associate professor of management at SILC Business School, 
 ## Working Papers
 - Ma, H.Y. Xie, Y.X. Chen, H.Q.* Firm internationalization and corporate social responsibility: A meta-analysis. (Under review at JBIM) 
 - Zou, H.L. Qi, G.Y.* Ma, H.Y. Still dare to be different? Peers’ CSR engagement and analysts’ response to focal firms’ CSR strategies. (Minor revision at CSREM)
-- Zou, H.L. Yang, X.Y. Ma, H.Y.* Does digital transformation reduce corporate social responsibility decoupling? (Under review at TFSC)
+- Zou, H.L. Yang, X.Y. Ma, H.Y.* Does digital transformation reduce corporate social responsibility decoupling? (Rejected by TFSC)
 - Ma, H.Y. Kong, Z.J. Liu, D. Zeng, R.C.* Information disclosure and public response in urban infrastructure accidents. (1st round R&R at JME)
 - Fang, X. Ma, H.Y. Involution anxiety mentality of college students: Antecedents and coping strategies. (R&R at J-SJTU)
 - Yu, B.J. Ma, H.Y. Zou, H.L.* Customer concentration and greenwashing. (Submitted to BSE)
