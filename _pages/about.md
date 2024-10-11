@@ -106,6 +106,7 @@ Dr. Hanyang Ma is an associate professor of management at SILC Business School, 
 - Lin, H. Zeng, S.X.* Ma, H.Y. (2016). China: Water scheme acts as ecological buffer. *Nature*, 529(7586), 283-283.
   
 ## Conference Papers & Invited Presentations
+- Wang, S.S. Chen, Y.D.* Zhang, Z.Y. Ma, H.Y. Managing megaproject external stakeholders through analyzing posting patterns on social media. *Annual Conference of Chinese Acacdemy of Management*, Suzhou, 2024.
 - Ma, H.Y. The contingent effects of institutional environment in international project management. *Committee Conference of Engineering Management Branch, MSE Society of China*, Aksu, 2024. 
 - Ma, H.Y. Kong, Z.J. Liu, D. Zeng, R.C. Information disclosure and public response in urban infrastructure accidents: A mixed-method investigation. *Annual Conference of Engineering Management Branch, MSE Society of China*, Chongqing, 2024.
 - Ma, H.Y. An institutional perspective in global project management research. *Central University of Finance and Economics*, Beijing, 2023.
@@ -138,7 +139,6 @@ Dr. Hanyang Ma is an associate professor of management at SILC Business School, 
 - Li, L. Luan, H.Y. Zeng, S.X.* Ma, H.Y. Yuan, M.Q. Cross-knowledge domain decision-making benchmark for mega transportation infrastructure projects. (In progress)
 - Fang, X. Ma, H.Y. Impact of AI learning pressure on college students' anxiety: A moderated mediating examination. (Manuscript finished)
 - Zou, H.L. Huang, S.M. Ma, H.Y. CEO outsideness assuming corporate environmental responsibility. (Manuscript finished)
-- Wang, S.S. Chen, Y.D.* Zhang, Z.Y. Ma, H.Y. Managing megaproject external stakeholders through analyzing posting patterns on social media. (Submitted to ACCAM)
 
   
 ## Grants
