@@ -72,6 +72,7 @@ Dr. Hanyang Ma is an associate professor of management at SILC Business School, 
 - Ma, H.Y. Lin, Y. Kong, Z.J. Zou, H.L.* (2024). International diversification ambidexterity of emerging economy contractors: A matching perspective with industrial features. *IEEE Transactions on Engineering Management*, 71, 3782-3794.
 - Ma, H.Y. Zou, J.J. Zou, H.L.* (2024). The longer, the farther? The internationalization of Chinese firms. *Chinese Management Studies*, [forthcoming](https://doi.org/10.1108/CMS-12-2022-0445).
 - Suo, X.K. Lin, H.* Yuan, M. Zhang, L.T. Lu, Y.H. Ma, H.Y.* (2024). Can green innovation mitigate corporate stock price crash risk? Evidence from China. *Environment, Development and Sustainability*, [forthcoming](https://doi.org/10.1007/s10668-024-04932-8).
+- Zou, H.L. Qi, G.Y.* Ma, H.Y. (2024). Still dare to be different? Peers’ CSR engagement and analysts’ response to focal firms’ CSR strategies, *Corporate Social Responsibility and Environmental Management*, accepted. 
 - Kong, Z.J. Ma, H.Y.* Lv, K.J. Shi, J.J. (2023). Liability of foreignness in public-private partnership projects. *Journal of Construction Engineering and Management*, 149(9), 04023085. 
 - Zou, H.L.* Liang, Z.D. Qi, G.Y. Ma, H.Y. (2023). Corporate philanthropic response to the COVID 19 pandemic in China: A dilemma? *Social Responsibility Journal*, 19(6), 1085-1106.
 - Sun, D.X. Zeng, S.X.* Ma, H.Y. Shi, J.J. (2023). How do bullet trains spur innovation? *IEEE Transactions on Engineering Management*, 70(1), 3944-3957.
@@ -120,10 +121,9 @@ Dr. Hanyang Ma is an associate professor of management at SILC Business School, 
   
 ## Working Papers
 - Ma, H.Y. Xie, Y.X. Chen, H.Q.* Firm internationalization and corporate social responsibility: A meta-analysis. (Under review at JBIM) 
-- Zou, H.L. Qi, G.Y.* Ma, H.Y. Still dare to be different? Peers’ CSR engagement and analysts’ response to focal firms’ CSR strategies. (Minor revision at CSREM)
 - Zou, H.L. Yang, X.Y. Ma, H.Y.* Can digital transformation curb corporate social responsibility decoupling? (Submitted to MDE)
 - Ma, H.Y. Kong, Z.J. Liu, D. Zeng, R.C.* Information disclosure and public response in urban infrastructure accidents. (1st round R&R at JME)
-- Fang, X. Ma, H.Y. Involution anxiety mentality of college students: Antecedents and coping strategies. (R&R at J-SJTU)
+- Fang, X. Ma, H.Y. Involution anxiety mentality of college students: Antecedents and coping strategies. (1st round R&R at J-SJTU)
 - Yu, B.J. Ma, H.Y. Zou, H.L.* Customer concentration and greenwashing. (Submitted to BSE)
 - Ma, H.Y. Lv, K.J.* Feng, K. Globalization and de-globalization in AEC industry: An ESG perspective. (Submitted to JME)
 - Li, L. Wan, M.Q. Wang, S.Q. Zeng, S.X.* Ma, H.Y. Yuan, M.Q. Collaborative network of responsible innovation in mega transportation projects. (Under review at IEEE-TEM)
