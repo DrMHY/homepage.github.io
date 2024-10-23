@@ -60,7 +60,7 @@ Dr. Hanyang Ma is an associate professor of management at SILC Business School, 
 ## Other Experience  
 - **Deloitte Consulting (China)**  
   - Intern for data management and project management, 2012-2012  
-- *ience & Technology Department of Tibet**  
+- **Science & Technology Department of Tibet**  
   - Volunteer for Xibu Youth Project, 2009-2010 
 <br />
 <br />
@@ -124,18 +124,18 @@ Dr. Hanyang Ma is an associate professor of management at SILC Business School, 
 - Zou, H.L. Yang, X.Y. Ma, H.Y.* Can digital transformation curb corporate social responsibility decoupling? (Submitted to MDE)
 - Ma, H.Y. Kong, Z.J. Liu, D. Zeng, R.C.* Information disclosure and public response in urban infrastructure accidents. (1st round R&R at JME)
 - Fang, X. Ma, H.Y. Involution anxiety mentality of college students: Antecedents and coping strategies. (1st round R&R at J-SJTU)
-- Yu, B.J. Ma, H.Y. Zou, H.L.* Customer concentration and greenwashing. (Submitted to BSE)
+- Yu, B.J. Ma, H.Y. Zou, H.L.* Customer concentration and greenwashing. (Under review at BSE)
 - Ma, H.Y. Lv, K.J.* Feng, K. Globalization and de-globalization in AEC industry: An ESG perspective. (Submitted to JME)
 - Li, L. Wan, M.Q. Wang, S.Q. Zeng, S.X.* Ma, H.Y. Yuan, M.Q. Collaborative network of responsible innovation in mega transportation projects. (Under review at IEEE-TEM)
 - Qi, G.Y. Chang, R.F. Ma, H.Y. Zou, H.L.* Does within-country religious diversity lead to public–private partnership (PPP) project failure? The role of partners’ experience. (Rejected by JME)
 - Du, J. Wang, W.X. Ma, H.Y.* Sugumaran, V. Stakeholder cooperation mechanism for prefabricated construction projects. (Rejected with encouragement to resubmit at JCEM)
 - Sui, Y. Zeng, S.X.* Sun, D.X. Ma, H.Y. From lip service to virtue signaling: The role of political connections in corporate social responsibility decoupling. (Rejected by BSE)
 - Sui, Y. Lin, H.* Zeng, S.X. Tam, V.W.Y. Ma, H,Y. Can big egos be green? A three-way interaction effect of CEO narcissism on corporate environmental performance. (Rejected by IEEE-TEM)
-- Ma, H.Y.* Heterogeneous responses for the social responsibility in international projects: An economic model. (Manuscript writing, target: Journal of Management Science) 
+- Ma, H.Y.* Heterogeneous responses for the social responsibility in international projects: An economic model. (Manuscript writing, target: J-MS) 
 - Ma, H.Y.* Strategic thinking in megaproject management. (In progress)
 - Kong, Z.J. Ma, H.Y.* Explaining the transformation and heterogeneity in ESG performance of construction firms. (In progress, target: JCEM)
 - Ma, H.Y. Wang, Y.F. Chen, H.Q.* Board independence and green innovation: A meta-analysis. (Manuscript writing, target: IEEE-TEM)
-- Ma, H.Y. Guo, Y.N. Lv, K.J.* Internationalization to escape from domestic competition? Moderating roles of innovation. (Manuscript writing, target: IEEE-TEM)
+- Ma, H.Y. Guo, Y.N. Lv, K.J.* Internationalization to escape from domestic competition? Moderating roles of technological innovation. (Manuscript writing, target: IEEE-TEM)
 - Li, L. Luan, H.Y. Zeng, S.X.* Ma, H.Y. Yuan, M.Q. Cross-knowledge domain decision-making benchmark for mega transportation infrastructure projects. (In progress)
 - Fang, X. Ma, H.Y. Impact of AI learning pressure on college students' anxiety: A moderated mediating examination. (Manuscript finished)
 - Zou, H.L. Huang, S.M. Ma, H.Y. CEO outsideness assuming corporate environmental responsibility. (Manuscript finished)
@@ -156,9 +156,9 @@ Dr. Hanyang Ma is an associate professor of management at SILC Business School, 
   
 # <font color="#00066">💬 TEACHING</font><br />
 ## Curriculums  
-- Coordinator for:  (SHU-MSc) Academic Standards and Essay Writing, 2022-  
-                    (SHU-MSc) Empirical Methods in Organization and Management Research, 2018-
-                    (SHU-Undergraduate) Academic Standards and Essary Wrinting, 2024-  
+- Coordinator for: (SHU-MSc) Academic Standards and Essay Writing, 2022-  
+- Coordinator for: (SHU-MSc) Empirical Methods in Organization and Management Research, 2018-
+- Coordinator for: (SHU-Undergraduate) Academic Standards and Essary Wrinting, 2024-  
 - Coordinator for: (SHU-Undergraduate) Practical Series: Thesis, Cognition Practice, Specialty Practice, and Social Investigation, 2023-   
 - Coordinator for: (SHU-Undergraduate) Project Management, 2021-  
 - Coordinator for: (SHU-Undergraduate) Qualitative Research in Management, 2020-  
