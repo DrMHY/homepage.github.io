@@ -156,22 +156,25 @@ Dr. Hanyang Ma is an associate professor of management at SILC Business School, 
   
 # <font color="#00066">💬 TEACHING</font><br />
 ## Curriculums  
-- Coordinator for: (SHU-MSc) Academic Standards and Essay Writing, 2022-  
-- Coordinator for: (SHU-MSc) Empirical Methods in Organization and Management Research, 2018-
-- Coordinator for: (SHU-Undergraduate) Academic Standards and Essary Wrinting, 2024-  
-- Coordinator for: (SHU-Undergraduate) Practical Series: Thesis, Cognition Practice, Specialty Practice, and Social Investigation, 2023-   
-- Coordinator for: (SHU-Undergraduate) Project Management, 2021-  
-- Coordinator for: (SHU-Undergraduate) Qualitative Research in Management, 2020-  
-- Coordinator for: (SHU-Undergraduate) Management Thinking, 2020-2024
-- Coordinator for: (UTS-MEM) Engineering Project Preparation, 2021-2023  
-- Coordinator for: (UTS-MEM) Judgement and Decision Making, 2021-2021    
-- Instructor for: (UTS-MEM) Engineering Project Preparation, 2024- 
-- Instructor for: (SHU-Undergraduate) New Retailing Management, 2021-2022  
-- Instructor for: (SHU-Undergraduate) Principles of Management, 2019-2019
-- TA for: (SHU-Undergraduate) Marketing Foundations, 2020-2020  
-- TA for: (SHU-Undergraduate) Management Thinking, 2019-2019  
-- TA for: (SJTU-Undergraduate) Project Management, 2013-2016  
-- TA for: (SJTU-Undergraduate) Technological Innovation & Management, 2013-2016
+- Coordinator for:
+  - (SHU-MSc) Academic Standards and Essay Writing, 2022-  
+  - (SHU-MSc) Empirical Methods in Organization and Management Research, 2018-
+  - (SHU-Undergraduate) Academic Standards and Essary Wrinting, 2024-  
+  - (SHU-Undergraduate) Practical Series: Thesis, Cognition Practice, Specialty Practice, and Social Investigation, 2023-   
+  - (SHU-Undergraduate) Project Management, 2021-  
+  - (SHU-Undergraduate) Qualitative Research in Management, 2020-  
+  - (SHU-Undergraduate) Management Thinking, 2020-2024
+  - (UTS-MEM) Engineering Project Preparation, 2021-2023  
+  - (UTS-MEM) Judgement and Decision Making, 2021-2021    
+- Instructor for:
+  - (UTS-MEM) Engineering Project Preparation, 2024- 
+  - (SHU-Undergraduate) New Retailing Management, 2021-2022  
+  - (SHU-Undergraduate) Principles of Management, 2019-2019
+- TA for:
+  - (SHU-Undergraduate) Marketing Foundations, 2020-2020  
+  - (SHU-Undergraduate) Management Thinking, 2019-2019  
+  - (SJTU-Undergraduate) Project Management, 2013-2016  
+  - (SJTU-Undergraduate) Technological Innovation & Management, 2013-2016
 
 ## Students 
 - UTS-PhD: Zijiong Kong (2024-)
