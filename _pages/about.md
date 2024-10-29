@@ -174,7 +174,7 @@ Dr. Hanyang Ma is an associate professor of management at SILC Business School, 
   - (SHU-Undergraduate) Marketing Foundations, 2020-2020  
   - (SHU-Undergraduate) Management Thinking, 2019-2019  
   - (SJTU-Undergraduate) Project Management, 2013-2016  
-  - (SJTU-Undergraduate) Technological Innovation & Management, 2013-2016
+  - (SJTU-Undergraduate) Technological Innovation and Management, 2013-2016
 
 ## Students 
 - UTS-PhD: Zijiong Kong (2024-)
