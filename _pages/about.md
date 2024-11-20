@@ -54,7 +54,8 @@ Dr. Hanyang Ma is an associate professor of management at SILC Business School, 
 - Committee, Shanghai Systems Engineering Society of China, 2021-  
 - Committee, SILC Youth Teacher Sodality, Shanghai University, 2021-
 - Member, American Society of Civil Engineers, 2023-  
-- Guest associated editor for: *Frontiers of Engineering Management*, 2018-2019  
+- Guest associated editor for: *Frontiers of Engineering Management*, 2018-2019
+- Editorial board (Youth member): *Project Management Technology* (项目管理技术, a Chinese journal), 2024-  
 - Ad hoc reviewer for: *Academy of International Business Annual Meeting, Academy of Management Annual Meeting, Business Strategy and the Environment, Chinese Management Studies, Construction Management and Economics, Corporate Social Responsibility and Environmental Management, Engineering Construction and Architectural Management, Environmental Impact Assessment Review, Frontiers of Engineering Management, IEEE Transactions on Engineering Management, International Journal of Project Management, Journal of Construction Engineering and Management, Journal of Environmental Planning and Management, Journal of Management in Engineering, Journal of Product Innovation Management, Journal of Systems and Management* (系统管理学报, a Chinese journal)*, Management and Organization Review, Management Decision, Management Review* (管理评论, a Chinese journal)*, Plos One, Research Policy, Scientific Reports, Strategic Entrepreneurship Journal, Sustainable Development*  
   
 ## Other Experience  
@@ -121,7 +122,7 @@ Dr. Hanyang Ma is an associate professor of management at SILC Business School, 
   
 ## Working Papers
 - Ma, H.Y. Xie, Y.X. Chen, H.Q.* Firm internationalization and corporate social responsibility: Unveiling the linkages through meta analysis. (Submitted to JBE) 
-- Zou, H.L. Yang, X.Y. Ma, H.Y.* Can digital transformation curb corporate social responsibility decoupling? (Under review at MDE)
+- Zou, H.L. Yang, X.Y. Ma, H.Y.* Can digital transformation curb corporate social responsibility decoupling? (Submitted to EDS)
 - Ma, H.Y. Kong, Z.J. Liu, D. Zeng, R.C.* Public responses to operators' information disclosure in urban infrastructure accidents. (1st round R&R at JME)
 - Fang, X. Ma, H.Y. Involution anxiety mentality of college students: Antecedents and coping strategies. (1st round R&R at J-SJTU)
 - Yu, B.J. Ma, H.Y. Zou, H.L.* Customer concentration and greenwashing. (Under review at BSE)
