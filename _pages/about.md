@@ -122,7 +122,7 @@ Dr. Hanyang Ma is an associate professor of management at SILC Business School, 
   
 ## Working Papers
 - Ma, H.Y. Xie, Y.X. Chen, H.Q.* Firm internationalization and corporate social responsibility: Unveiling the linkages through meta analysis. (Submitted to JBE) 
-- Zou, H.L. Yang, X.Y. Ma, H.Y.* Can digital transformation curb corporate social responsibility decoupling? (Submitted to EDS)
+- Zou, H.L. Yang, X.Y. Ma, H.Y.* Can digital transformation curb corporate social responsibility decoupling? (Submitted to CSR&EM)
 - Ma, H.Y. Kong, Z.J. Liu, D. Zeng, R.C.* Public responses to operators' information disclosure in urban infrastructure accidents. (1st round R&R at JME)
 - Fang, X. Ma, H.Y. Involution anxiety mentality of college students: Antecedents and coping strategies. (1st round R&R at J-SJTU)
 - Yu, B.J. Ma, H.Y. Zou, H.L.* Customer concentration and greenwashing. (Under review at BSE)
@@ -141,6 +141,7 @@ Dr. Hanyang Ma is an associate professor of management at SILC Business School, 
 - Li, L. Luan, H.Y. Zeng, S.X.* Ma, H.Y. Yuan, M.Q. Cross-knowledge domain decision-making benchmark for mega transportation infrastructure projects. (In progress)
 - Fang, X. Ma, H.Y. Impact of AI learning pressure on college students' anxiety: A moderated mediating examination. (Manuscript finished)
 - Zou, H.L. Huang, S.M. Ma, H.Y. CEO outsideness assuming corporate environmental responsibility. (Manuscript finished)
+- Ma, H.Y. Kong, Z.J. Fortress besieged: Multinational Enterprices' entry and exit in diasters. (In progress)
 
   
 ## Grants
