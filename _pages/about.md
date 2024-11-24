@@ -141,14 +141,14 @@ Dr. Hanyang Ma is an associate professor of management at SILC Business School, 
 - Li, L. Luan, H.Y. Zeng, S.X.* Ma, H.Y. Yuan, M.Q. Cross-knowledge domain decision-making benchmark for mega transportation infrastructure projects. (In progress)
 - Fang, X. Ma, H.Y. Impact of AI learning pressure on college students' anxiety: A moderated mediating examination. (Manuscript finished)
 - Zou, H.L. Huang, S.M. Ma, H.Y. CEO outsideness assuming corporate environmental responsibility. (Manuscript finished)
-- Ma, H.Y. Kong, Z.J. Fortress besieged: Multinational Enterprices' entry and exit in diasters. (In progress)
+- Ma, H.Y. Kong, Z.J. Fortress besieged: Multinational enterprises' entry and exit in disasters. (In progress)
 
   
 ## Grants
 - Isomorphic drivers and heterogeneous responses of international contractors' social responsibility (NSFC, 2023-2026, RMB 460k). PI.
 - Risk management and resilience improvement for urban transportation infrastructure (STCSM, 2023-2024, RMB 100k). PI. 
 - Faculty training and teaching reform on intelligent audit of public projects (MOE, 2022-2023, RMB 20k). PI.
-- Course teaching reform on Research methodology and essay writing of MSc program (SHU-SILC, 2023, RMB 20k). PI.
+- Course teaching reform on research methodology and essay writing of MSc program (SHU-SILC, 2023, RMB 20k). PI.
 - The governance for sustainability of international PPP projects: A perspective of institutional logic. (MOE, 2020-2023, RMB 80k). PI.
 - The governance of international PPP projects: A perspective of sustainable development (NAU, 2017, RMB 10k). PI.
 - Innovation islands, flexible innovation, and capacity promotion for mega infrastructure projects (NSFC, 2017-2022). Co-investigator.
