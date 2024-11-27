@@ -98,6 +98,7 @@ Dr. Hanyang Ma is an associate professor of management at SILC Business School, 
 - Lin, H. Zeng, S.X.* Ma, H.Y. Chen, H.Q. (2015). Does commitment to environmental self-regulation matter? An empirical examination from China. *Management Decision*, 53(5), 932-956.
 - Lin, H. Zeng, S.X.* Ma, H.Y. Chen, H.Q. (2015). How political connections affect corporate environmental performance: The mediating role of green subsidies. *Human and Ecological Risk Assessment: An International Journal*, 21(8), 2192-2212.
 - Lin, H. Zeng, S.X.* Ma, H.Y. Qi, G.Y. Tam, V.W.Y. (2014). Can political capital drive corporate green innovation? Lessons from China. *Journal of Cleaner Production*, 64, 63-72.
+- Fang, X. Ma, H.Y. (2024). Involution anxiety mentality of college students: Antecedents and coping strategies. *Journal of Shanghai Jiao Tong University* (Philosophy and Social Sciences, 上海交通大学学报, a Chinese Journal), conditional accepted. 
 - Wang, L.Q. Ma, H.Y.* Sun, D.X. Yu, B.J. (2018). Financial risk of PPP projects: The moderating effects of financing structure and institutional environment. *Journal of Systems and Management* (系统管理学报, a Chinese journal), 27(1), 83-92.
 - Wei, Q.M. Lin, H.* Jiang, W. Ma, H.Y. (2017). The empirical study on the health effects of rural water treatment projects: An econometric analysis based on provincial spatial panel data. *Journal of Systems and Management* (系统管理学报, a Chinese journal), 26(4), 648-655.
   
@@ -124,7 +125,6 @@ Dr. Hanyang Ma is an associate professor of management at SILC Business School, 
 - Ma, H.Y. Xie, Y.X. Chen, H.Q.* Firm internationalization and corporate social responsibility: Unveiling the linkages through meta analysis. (Submitted to JBE) 
 - Zou, H.L. Yang, X.Y. Ma, H.Y.* Can digital transformation curb corporate social responsibility decoupling? (Submitted to CSR&EM)
 - Ma, H.Y. Kong, Z.J. Liu, D. Zeng, R.C.* Public responses to operators' information disclosure in urban infrastructure accidents. (1st round R&R at JME)
-- Fang, X. Ma, H.Y. Involution anxiety mentality of college students: Antecedents and coping strategies. (1st round R&R at J-SJTU)
 - Yu, B.J. Ma, H.Y. Zou, H.L.* Customer concentration and greenwashing. (Under review at BSE)
 - Ma, H.Y. Lv, K.J.* Feng, K. Globalization and de-globalization in AEC industry: An ESG perspective. (Submitted to JME)
 - Li, L. Wan, M.Q. Wang, S.Q. Zeng, S.X.* Ma, H.Y. Yuan, M.Q. Collaborative network of responsible innovation in mega transportation projects. (Under review at IEEE-TEM)
