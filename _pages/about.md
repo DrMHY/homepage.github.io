@@ -69,6 +69,7 @@ Dr. Hanyang Ma is an associate professor of management at SILC Business School, 
   
 # <font color="#00066">📝 RESEARCH</font><br />
 ## Journal Articles
+- Ma, H.Y. Kong, Z.J. Liu, D. Zeng, R.C.* (2025). Public responses to operators’ information disclosure in urban infrastructure accidents. *Journal of Management in Engineering*, accepted.
 - Ma, H.Y. Kong, Z.J. Han, Y.L.* Zeng, R.C. (2024). Can aid intervention facilitate project resilience? An inverted U-shaped relationship investigation. *IEEE Transactions on Engineering Management*, 71, 11078-11090.
 - Ma, H.Y. Lin, Y. Kong, Z.J. Zou, H.L.* (2024). International diversification ambidexterity of emerging economy contractors: A matching perspective with industrial features. *IEEE Transactions on Engineering Management*, 71, 3782-3794.
 - Ma, H.Y. Zou, J.J. Zou, H.L.* (2024). The longer, the farther? The internationalization of Chinese firms. *Chinese Management Studies*, 18(5), 1514-1536.
@@ -124,7 +125,6 @@ Dr. Hanyang Ma is an associate professor of management at SILC Business School, 
 ## Working Papers
 - Ma, H.Y. Xie, Y.X. Chen, H.Q.* Firm internationalization and corporate social responsibility: Unveiling the linkages through meta analysis. (Submitted to JBE) 
 - Zou, H.L. Yang, X.Y. Ma, H.Y.* Can digital transformation curb corporate social responsibility decoupling? (Submitted to CSR&EM)
-- Ma, H.Y. Kong, Z.J. Liu, D. Zeng, R.C.* Public responses to operators' information disclosure in urban infrastructure accidents. (1st round R&R at JME)
 - Yu, B.J. Ma, H.Y. Zou, H.L.* Customer concentration and greenwashing. (Under review at BSE)
 - Ma, H.Y. Lv, K.J.* Feng, K. Globalization and de-globalization in AEC industry: An ESG perspective. (Submitted to JME)
 - Li, L. Wan, M.Q. Wang, S.Q. Zeng, S.X.* Ma, H.Y. Yuan, M.Q. Collaborative network of responsible innovation in mega transportation projects. (Under review at IEEE-TEM)
