@@ -141,7 +141,7 @@ Dr. Hanyang Ma is an associate professor of management at SILC Business School, 
 - Li, L. Luan, H.Y. Zeng, S.X.* Ma, H.Y. Yuan, M.Q. Cross-knowledge domain decision-making benchmark for mega transportation infrastructure projects. (In progress)
 - Fang, X. Ma, H.Y. Impact of AI learning pressure on college students' anxiety: A moderated mediating examination. (Manuscript finished)
 - Zou, H.L. Huang, S.M. Ma, H.Y. CEO outsideness assuming corporate environmental responsibility. (Manuscript finished)
-- Ma, H.Y. Kong, Z.J. Fortress besieged: Multinational enterprises' entry and exit in disasters. (In progress)
+- Ma, H.Y. Kong, Z.J. Fortress besieged: Multinational enterprises' entry and exit after disasters in host countries. (In progress)
 
   
 ## Grants
