@@ -189,6 +189,7 @@ Dr. Hanyang Ma is an associate professor of management at SILC Business School, 
 
 
 # <font color="#00066">🎖 HONORS & AWARDS</font><br />
+- Second Prize for Shanghai Municipality for the Decision-Making Consultation Research Achievements (Gov. of Shanghai, 2023). 
 - Excellent Undergraduate Thesis Advisor (SHU, 2024/2023/2022).
 - Research Achievement Award (SHU-SILC, 2022).
 - Choi Koon-Shum Outstanding Young Teacher (SHU, 2021).
