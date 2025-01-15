@@ -125,7 +125,7 @@ Dr. Hanyang Ma is an associate professor of management at SILC Business School, 
 ## Working Papers
 - Ma, H.Y. Xie, Y.X. Chen, H.Q.* Firm internationalization and corporate social responsibility: Unveiling the linkages through meta analysis. (Submitted to JWB) 
 - Zou, H.L. Yang, X.Y. Ma, H.Y.* Can digital transformation curb corporate social responsibility decoupling? (Submitted to CSR&EM)
-- Yu, B.J. Ma, H.Y. Zou, H.L.* Customer concentration and greenwashing. (Under review at CSR&EM)
+- Yu, B.J. Ma, H.Y. Zou, H.L.* Customer concentration and greenwashing. (Under review at O&E)
 - Ma, H.Y. Lv, K.J.* Feng, K. Globalization and de-globalization in AEC industry: An ESG perspective. (Submitted to JME)
 - Li, L. Wan, M.Q. Wang, S.Q. Zeng, S.X.* Ma, H.Y. Yuan, M.Q. Collaborative network of responsible innovation in mega transportation projects. (Under review at IEEE-TEM)
 - Yang, X.Y. Zou, H.L.* Ma, H.Y. Promoter or inhibitor? How information intermediaries influence underperforming firms' CSR decoupling. (Under review at B&S)
