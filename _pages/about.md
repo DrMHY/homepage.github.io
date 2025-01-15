@@ -127,6 +127,7 @@ Dr. Hanyang Ma is an associate professor of management at SILC Business School, 
 - Zou, H.L. Yang, X.Y. Ma, H.Y.* Can digital transformation curb corporate social responsibility decoupling? (Submitted to CSR&EM)
 - Yu, B.J. Ma, H.Y. Zou, H.L.* Customer concentration and greenwashing. (Under review at O&E)
 - Ma, H.Y. Lv, K.J.* Feng, K. Globalization and de-globalization in AEC industry: An ESG perspective. (Submitted to JME)
+- Zeng, R.C. Li, S.N. Ma, H.Y.* Customer orientation and production innovation. (Submitted to JSM)
 - Li, L. Wan, M.Q. Wang, S.Q. Zeng, S.X.* Ma, H.Y. Yuan, M.Q. Collaborative network of responsible innovation in mega transportation projects. (Under review at IEEE-TEM)
 - Yang, X.Y. Zou, H.L.* Ma, H.Y. Promoter or inhibitor? How information intermediaries influence underperforming firms' CSR decoupling. (Under review at B&S)
 - Qi, G.Y. Chang, R.F. Ma, H.Y. Zou, H.L.* Does within-country religious diversity lead to public–private partnership (PPP) project failure? The role of partners’ experience. (Rejected by JME)
