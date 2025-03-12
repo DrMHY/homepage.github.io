@@ -54,7 +54,6 @@ His research interest includes strategic management and engineering management, 
 - Committee, Engineering Management Branch, Society of Management Science and Engineering of China, 2023-
 - Committee, Shanghai Systems Engineering Society of China, 2021-  
 - Committee, SILC Youth Teacher Sodality, Shanghai University, 2021-
-- Member, American Society of Civil Engineers, 2023-  
 - Special corresponding expert: *Frontiers of Engineering Management*, 2025-2027
 - Guest associated editor: *Frontiers of Engineering Management*, 2018-2019
 - Editorial board (Youth member): *Project Management Technology* (项目管理技术, a Chinese journal), 2024-  
