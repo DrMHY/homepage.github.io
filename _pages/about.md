@@ -100,7 +100,7 @@ His research interest includes strategic management and engineering management, 
 - Lin, H. Zeng, S.X.* Ma, H.Y. Chen, H.Q. (2015). Does commitment to environmental self-regulation matter? An empirical examination from China. *Management Decision*, 53(5), 932-956.
 - Lin, H. Zeng, S.X.* Ma, H.Y. Chen, H.Q. (2015). How political connections affect corporate environmental performance: The mediating role of green subsidies. *Human and Ecological Risk Assessment: An International Journal*, 21(8), 2192-2212.
 - Lin, H. Zeng, S.X.* Ma, H.Y. Qi, G.Y. Tam, V.W.Y. (2014). Can political capital drive corporate green innovation? Lessons from China. *Journal of Cleaner Production*, 64, 63-72.
-- Fang, X. Ma, H.Y. (2024). Involution anxiety mentality of college students: Antecedents and coping strategies. *Journal of Shanghai Jiao Tong University* (Philosophy and Social Sciences, 上海交通大学学报, a Chinese Journal), conditional accepted. 
+- Fang, X. Ma, H.Y. (2024). Involution anxiety mentality of college students: Antecedents and coping strategies. *Journal of Shanghai Jiao Tong University* (Philosophy and Social Sciences, 上海交通大学学报, a Chinese Journal), forthcoming. 
 - Wang, L.Q. Ma, H.Y.* Sun, D.X. Yu, B.J. (2018). Financial risk of PPP projects: The moderating effects of financing structure and institutional environment. *Journal of Systems and Management* (系统管理学报, a Chinese journal), 27(1), 83-92.
 - Wei, Q.M. Lin, H.* Jiang, W. Ma, H.Y. (2017). The empirical study on the health effects of rural water treatment projects: An econometric analysis based on provincial spatial panel data. *Journal of Systems and Management* (系统管理学报, a Chinese journal), 26(4), 648-655.
   
@@ -111,6 +111,7 @@ His research interest includes strategic management and engineering management, 
 - Lin, H. Zeng, S.X.* Ma, H.Y. (2016). China: Water scheme acts as ecological buffer. *Nature*, 529(7586), 283-283.
   
 ## Conference Papers & Invited Presentations
+- Ma, H.Y. Wang, Y.F. Chen, H.Q.* Independent boards and corporate green innovation: A cross-national meta-analysis. *Annual Meeting of the Academy of Management*, Copenhagen, 2025.
 - Wang, S.S. Chen, Y.D.* Zhang, Z.Y. Ma, H.Y. Managing megaproject external stakeholders through analyzing posting patterns on social media. *Annual Conference of Chinese Acacdemy of Management*, Suzhou, 2024.
 - Ma, H.Y. The contingent effects of institutional environment in international project management. *Committee Conference of Engineering Management Branch, MSE Society of China*, Aksu, 2024. 
 - Ma, H.Y. Kong, Z.J. Liu, D. Zeng, R.C. Information disclosure and public response in urban infrastructure accidents: A mixed-method investigation. *Annual Conference of Engineering Management Branch, MSE Society of China*, Chongqing, 2024.
@@ -139,7 +140,7 @@ His research interest includes strategic management and engineering management, 
 - Ma, H.Y.* Heterogeneous responses for the social responsibility in international projects: An economic model. (Manuscript writing, target: J-MS) 
 - Ma, H.Y.* Strategic thinking in megaproject management. (In progress)
 - Kong, Z.J. Ma, H.Y.* Explaining the transformation and heterogeneity in ESG performance of construction firms. (In progress, target: JCEM)
-- Ma, H.Y. Guo, Y.N. Lv, K.J.* Internationalization to escape from domestic competition? Moderating roles of technological innovation. (Manuscript writing, target: JIBS)
+- Ma, H.Y. Guo, Y.N. Lv, K.J.* Internationalization to escape from domestic competition? Moderating roles of technological innovation. (Manuscript writing, target: JWB)
 - Li, L. Luan, H.Y. Zeng, S.X.* Ma, H.Y. Yuan, M.Q. Cross-knowledge domain decision-making benchmark for mega transportation infrastructure projects. (In progress)
 - Fang, X. Ma, H.Y. Impact of AI learning pressure on college students' anxiety: A moderated mediating examination. (Manuscript finished)
 - Zou, H.L. Huang, S.M. Ma, H.Y. CEO outsideness assuming corporate environmental responsibility. (Manuscript finished)
