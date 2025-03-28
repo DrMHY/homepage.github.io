@@ -129,7 +129,7 @@ His research interest includes strategic management and engineering management, 
 - Ma, H.Y. Wang, Y.F. Chen, H.Q.* Independent boards and corporate green innovation: A cross-national meta-analysis. (Under review at IEEE-TEM)
 - Zou, H.L. Yang, X.Y. Ma, H.Y.* Can digital transformation curb corporate social responsibility decoupling? (Under review at MD)
 - Yu, B.J. Ma, H.Y. Zou, H.L.* Customer concentration and greenwashing. (Under review at O&E)
-- Ma, H.Y. Lv, K.J.* Feng, K. Globalization and de-globalization in AEC industry: An ESG perspective. (Submitted to JME)
+- Ma, H.Y. Lv, K.J. Feng, K. Multinational enterprises' participation and external stakeholder management in megaprojects. (Under review for a book chapter)
 - Zeng, R.C. Li, S.N. Ma, H.Y.* Customer orientation and production innovation. (Under review at JSM)
 - Li, L. Wan, M.Q. Wang, S.Q. Zeng, S.X.* Ma, H.Y. Yuan, M.Q. Collaborative network of responsible innovation in mega transportation projects. (Under review at JME)
 - Yang, X.Y. Zou, H.L.* Ma, H.Y. Promoter or inhibitor? How information intermediaries influence underperforming firms' CSR decoupling. (Under review at B&S)
