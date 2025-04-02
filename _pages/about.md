@@ -70,7 +70,7 @@ His research interest includes strategic management and engineering management, 
   
 # <font color="#00066">📝 RESEARCH</font><br />
 ## Journal Articles
-- Ma, H.Y. Kong, Z.J. Liu, D. Zeng, R.C.* (2025). Public responses to operators’ information disclosure in urban infrastructure accidents. *Journal of Management in Engineering*, forthcoming.
+- Ma, H.Y. Kong, Z.J. Liu, D. Zeng, R.C.* (2025). Public responses to operator information disclosure in urban infrastructure accidents. *Journal of Management in Engineering*, 41(4) 04025015.
 - Zou, H.L. Qi, G.Y.* Ma, H.Y. (2025). Still dare to be different? Peers’ CSR engagement and analysts’ response to focal firms’ CSR strategies. *Corporate Social Responsibility and Environmental Management*, 32(2), 1583-1604.
 - Ma, H.Y. Kong, Z.J. Han, Y.L.* Zeng, R.C. (2024). Can aid intervention facilitate project resilience performance? An inverted U-shaped relationship investigation. *IEEE Transactions on Engineering Management*, 71, 11078-11090.
 - Ma, H.Y. Lin, Y. Kong, Z.J. Zou, H.L.* (2024). International diversification ambidexterity of emerging economy contractors: A matching perspective with industrial features. *IEEE Transactions on Engineering Management*, 71, 3782-3794.
@@ -114,7 +114,7 @@ His research interest includes strategic management and engineering management, 
 - Ma, H.Y. Wang, Y.F. Chen, H.Q.* Independent boards and corporate green innovation: A cross-national meta-analysis. *Annual Meeting of the Academy of Management*, Copenhagen, 2025.
 - Wang, S.S. Chen, Y.D.* Zhang, Z.Y. Ma, H.Y. Managing megaproject external stakeholders through analyzing posting patterns on social media. *Annual Conference of Chinese Acacdemy of Management*, Suzhou, 2024.
 - Ma, H.Y. The contingent effects of institutional environment in international project management. *Committee Conference of Engineering Management Branch, MSE Society of China*, Aksu, 2024. 
-- Ma, H.Y. Kong, Z.J. Liu, D. Zeng, R.C. Information disclosure and public response in urban infrastructure accidents: A mixed-method investigation. *Annual Conference of Engineering Management Branch, MSE Society of China*, Chongqing, 2024.
+- Ma, H.Y. Kong, Z.J. Liu, D. Zeng, R.C.* Information disclosure and public response in urban infrastructure accidents: A mixed-method investigation. *Annual Conference of Engineering Management Branch, MSE Society of China*, Chongqing, 2024.
 - Ma, H.Y. An institutional perspective in global project management research. *Central University of Finance and Economics*, Beijing, 2023.
 - Ma, H.Y. Kong, Z.J. Han, Y.L. Can aid interventions facilitate project resilience? An inverted U-shaped relationship investigation. *IPMA Research Conference*, Nanjing, 2023.
 - Kong, Z.J. Ma, H.Y.* Lv, K.J. Liability of foreignness in public-private partnership projects. *Annual Conference of Public Administration of China*, Nanjing, 2022.
