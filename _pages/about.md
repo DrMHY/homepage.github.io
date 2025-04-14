@@ -100,7 +100,7 @@ His research interest includes strategic management and engineering management, 
 - Lin, H. Zeng, S.X.* Ma, H.Y. Chen, H.Q. (2015). Does commitment to environmental self-regulation matter? An empirical examination from China. *Management Decision*, 53(5), 932-956.
 - Lin, H. Zeng, S.X.* Ma, H.Y. Chen, H.Q. (2015). How political connections affect corporate environmental performance: The mediating role of green subsidies. *Human and Ecological Risk Assessment: An International Journal*, 21(8), 2192-2212.
 - Lin, H. Zeng, S.X.* Ma, H.Y. Qi, G.Y. Tam, V.W.Y. (2014). Can political capital drive corporate green innovation? Lessons from China. *Journal of Cleaner Production*, 64, 63-72.
-- Fang, X. Ma, H.Y. (2025). Involution anxiety mentality of college students: Antecedents and coping strategies. *Journal of Shanghai Jiao Tong University* (Philosophy and Social Sciences, 上海交通大学学报, a Chinese Journal), forthcoming. 
+- Fang, X. Ma, H.Y. (2025). Involution anxiety mentality of college students: Antecedents and coping strategies. *Journal of Shanghai Jiao Tong University* (Philosophy and Social Sciences, 上海交通大学学报, a Chinese Journal), 33(03), 121-138. 
 - Wang, L.Q. Ma, H.Y.* Sun, D.X. Yu, B.J. (2018). Financial risk of PPP projects: The moderating effects of financing structure and institutional environment. *Journal of Systems and Management* (系统管理学报, a Chinese journal), 27(1), 83-92.
 - Wei, Q.M. Lin, H.* Jiang, W. Ma, H.Y. (2017). The empirical study on the health effects of rural water treatment projects: An econometric analysis based on provincial spatial panel data. *Journal of Systems and Management* (系统管理学报, a Chinese journal), 26(4), 648-655.
   
