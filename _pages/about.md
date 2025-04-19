@@ -145,6 +145,7 @@ His research interest includes strategic management and engineering management, 
 - Fang, X. Ma, H.Y. Impact of AI learning pressure on college students' anxiety: A moderated mediating examination. (Manuscript finished)
 - Zou, H.L. Huang, S.M. Ma, H.Y. CEO outsideness assuming corporate environmental responsibility. (Manuscript finished)
 - Ma, H.Y. Kong, Z.J. Fortress besieged: Multinational enterprises' entry and exit after disasters in host countries. (In progress)
+- Ma, H.Y. Wu, D.R. Kong, Z.J. Disasters and foreigness in public-private partnership infrastructure projects (In progress).
   
 ## Grants
 - Isomorphic drivers and heterogeneous responses of international contractors' social responsibility (NSFC, 2023-2026, RMB 460k). PI.
