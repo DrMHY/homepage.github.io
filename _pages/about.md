@@ -112,6 +112,7 @@ His research interest includes strategic management and engineering management, 
   
 ## Conference Papers & Invited Presentations
 - Ma, H.Y. Wang, Y.F. Chen, H.Q.* Independent boards and corporate green innovation: A cross-national meta-analysis. *Annual Meeting of the Academy of Management*, Copenhagen, 2025.
+- Ma, H.Y. Wu, D.R. Kong, Z.J.* Disasters and foreigness in public-private partnership infrastructure projects *Annual Conference of Engineering Management Branch, MSE Society of China*, Xi'an, 2025.
 - Wang, S.S. Chen, Y.D.* Zhang, Z.Y. Ma, H.Y. Managing megaproject external stakeholders through analyzing posting patterns on social media. *Annual Conference of Chinese Acacdemy of Management*, Suzhou, 2024.
 - Ma, H.Y. The contingent effects of institutional environment in international project management. *Committee Conference of Engineering Management Branch, MSE Society of China*, Aksu, 2024. 
 - Ma, H.Y. Kong, Z.J. Liu, D. Zeng, R.C.* Information disclosure and public response in urban infrastructure accidents: A mixed-method investigation. *Annual Conference of Engineering Management Branch, MSE Society of China*, Chongqing, 2024.
@@ -145,7 +146,6 @@ His research interest includes strategic management and engineering management, 
 - Fang, X. Ma, H.Y. Impact of AI learning pressure on college students' anxiety: A moderated mediating examination. (Manuscript finished)
 - Zou, H.L. Huang, S.M. Ma, H.Y. CEO outsideness assuming corporate environmental responsibility. (Manuscript finished)
 - Ma, H.Y. Kong, Z.J. Fortress besieged: Multinational enterprises' entry and exit after disasters in host countries. (In progress)
-- Ma, H.Y. Wu, D.R. Kong, Z.J. Disasters and foreigness in public-private partnership infrastructure projects (In progress).
   
 ## Grants
 - Isomorphic drivers and heterogeneous responses of international contractors' social responsibility (NSFC, 2023-2026, RMB 460k). PI.
