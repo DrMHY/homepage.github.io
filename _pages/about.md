@@ -112,7 +112,7 @@ His research interest includes strategic management and engineering management, 
   
 ## Conference Papers & Invited Presentations
 - Ma, H.Y. Wang, Y.F. Chen, H.Q.* Independent boards and corporate green innovation: A cross-national meta-analysis. *Annual Meeting of the Academy of Management*, Copenhagen, 2025.
-- Ma, H.Y. Wu, D.R. Kong, Z.J.* Disasters and foreigness in public-private partnership infrastructure projects *Annual Conference of Engineering Management Branch, MSE Society of China*, Xi'an, 2025.
+- Ma, H.Y. Wu, D.R. Kong, Z.J.* Disasters and foreigness in public-private partnership infrastructure projects. *Annual Conference of Engineering Management Branch, MSE Society of China*, Xi'an, 2025.
 - Wang, S.S. Chen, Y.D.* Zhang, Z.Y. Ma, H.Y. Managing megaproject external stakeholders through analyzing posting patterns on social media. *Annual Conference of Chinese Acacdemy of Management*, Suzhou, 2024.
 - Ma, H.Y. The contingent effects of institutional environment in international project management. *Committee Conference of Engineering Management Branch, MSE Society of China*, Aksu, 2024. 
 - Ma, H.Y. Kong, Z.J. Liu, D. Zeng, R.C.* Information disclosure and public response in urban infrastructure accidents: A mixed-method investigation. *Annual Conference of Engineering Management Branch, MSE Society of China*, Chongqing, 2024.
