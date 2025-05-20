@@ -143,7 +143,6 @@ His research interest includes strategic management and engineering management, 
 - Kong, Z.J. Ma, H.Y.* Explaining the transformation and heterogeneity in ESG performance of construction firms. (In progress, target: JCEM)
 - Li, L. Luan, H.Y. Zeng, S.X.* Ma, H.Y. Yuan, M.Q. Cross-knowledge domain decision-making benchmark for mega transportation infrastructure projects. (In progress)
 - Fang, X. Ma, H.Y. Impact of AI learning pressure on college students' anxiety: A moderated mediating examination. (Manuscript finished)
-- Zou, H.L. Huang, S.M. Ma, H.Y. CEO outsideness assuming corporate environmental responsibility. (Manuscript finished)
 - Ma, H.Y. Kong, Z.J. Fortress besieged: Multinational enterprises' entry and exit after disasters in host countries. (In progress)
   
 ## Grants
