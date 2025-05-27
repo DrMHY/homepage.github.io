@@ -127,7 +127,7 @@ His research interest includes strategic management and engineering management, 
   
 ## Working Papers
 - Ma, H.Y. Xie, Y.X. Chen, H.Q.* Firm internationalization and corporate social responsibility: Unveiling the linkages through meta analysis. (Under review at JWB)
-- Ma, H.Y. Wang, Y.F. Chen, H.Q.* Independent boards and corporate green innovation: A cross-national meta-analysis. (Under review at IEEE-TEM)
+- Ma, H.Y. Wang, Y.F. Chen, H.Q.* Independent boards and corporate green innovation: A cross-national meta-analysis. (Under review at BSE)
 - Zou, H.L. Yang, X.Y. Ma, H.Y.* Can digital transformation curb corporate social responsibility decoupling? (Under review at MD)
 - Yu, B.J. Ma, H.Y. Zou, H.L.* Customer concentration and greenwashing. (Under review at O&E)
 - Ma, H.Y. Lv, K.J. Feng, K. Multinational enterprises' participation and external stakeholder management in megaprojects. (Under review for a book chapter)
