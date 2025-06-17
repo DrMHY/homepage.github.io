@@ -192,7 +192,8 @@ His research interest includes strategic management and engineering management, 
 # <font color="#00066">🎖 HONORS & AWARDS</font><br />
 - Outstanding Reviewer (JME, 2024)
 - Second Prize for Shanghai Municipality for the Decision-Making Consultation Research Achievements (Gov. of Shanghai, 2023). 
-- Excellent Undergraduate Thesis Advisor (SHU, 2024/2023/2022).
+- Excellent Undergraduate Thesis Advisor (SHU, 2025/2024/2023/2022).
+- Outstanding Contribution Award (SHU, 2023/2022).
 - Research Achievement Award (SHU-SILC, 2022).
 - Choi Koon-Shum Outstanding Young Teacher (SHU, 2021).
 - First Prize for National Science & Technology Progress Award (MOE of China, 2019).
