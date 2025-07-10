@@ -150,6 +150,7 @@ His research interest includes strategic management and engineering management, 
 - Isomorphic drivers and heterogeneous responses of international contractors' social responsibility (NSFC, 2023-2026, RMB 460k). PI.
 - Risk management and resilience improvement for urban transportation infrastructure (STCSM, 2023-2024, RMB 100k). PI. 
 - Faculty training and teaching reform on intelligent audit of public projects (MOE, 2022-2023, RMB 20k). PI.
+- Key course constuction: Project management (SHU-SILC, 2025, RMB 10k). PI 
 - Course teaching reform on research methodology and essay writing of MSc program (SHU-SILC, 2023, RMB 20k). PI.
 - The governance for sustainability of international PPP projects: A perspective of institutional logic. (MOE, 2020-2023, RMB 80k). PI.
 - The governance of international PPP projects: A perspective of sustainable development (NAU, 2017, RMB 10k). PI.
