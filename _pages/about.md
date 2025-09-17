@@ -54,7 +54,8 @@ His research interest includes strategic management and engineering management, 
 - Committee, Engineering Management Branch, Society of Management Science and Engineering of China, 2023-
 - Committee, Shanghai Systems Engineering Society of China, 2021-  
 - Committee, SILC Youth Teacher Sodality, Shanghai University, 2021-
-- Special corresponding expert: *Frontiers of Engineering Management*, 2025-2027
+- Editorial board, *Humanities & Social Sciences Communications*, 2025-
+- Special corresponding expert: *Frontiers of Engineering Management*, 2025-
 - Guest associated editor: *Frontiers of Engineering Management*, 2018-2019
 - Editorial board (Youth member): *Project Management Technology* (项目管理技术, a Chinese journal), 2024-  
 - Ad hoc reviewer for: *Academy of International Business Annual Meeting, Academy of Management Annual Meeting, Business Strategy and the Environment, Chinese Management Studies, Construction Management and Economics, Corporate Social Responsibility and Environmental Management, Engineering Construction and Architectural Management, Environmental Impact Assessment Review, Frontiers of Engineering Management, IEEE Transactions on Engineering Management, International Journal of Project Management, Journal of Construction Engineering and Management, Journal of Environmental Planning and Management, Journal of Management in Engineering, Journal of Product Innovation Management, Journal of Systems and Management* (系统管理学报, a Chinese journal)*, Management and Organization Review, Management Decision, Management Review* (管理评论, a Chinese journal)*, Plos One, Research Policy, Scientific Reports, Strategic Entrepreneurship Journal, Sustainable Development*  
