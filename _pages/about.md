@@ -21,7 +21,7 @@ redirect_from:
 <br />
 <br />
 Dr. Hanyang Ma is an associate professor of management at SILC Business School, [Shanghai University](https://www.shu.edu.cn/). He holds his PhD and BE from [Shanghai Jiao Tong University](https://www.sjtu.edu.cn/).
-His research interest includes strategic management and engineering management, and he has published a series of papers in academic journals with total <a href='https://scholar.google.com/citations?user=YoaF4d0AAAAJ&hl=en&oi=ao'>google scholar citations <strong><span id='YoaF4d0AAAAJ&hl=en&oi=ao'>2300+</span></strong></a>.  
+His research interest includes strategic management and engineering management, and he has published a series of papers in academic journals with total <a href='https://scholar.google.com/citations?user=YoaF4d0AAAAJ&hl=en&oi=ao'>google scholar citations <strong><span id='YoaF4d0AAAAJ&hl=en&oi=ao'>2400+</span></strong></a>.  
   
 **Contact:**  
     - R303, Wenshang Building, 20 Chengzhong Rd, Jiading, Shanghai 201800, China  
